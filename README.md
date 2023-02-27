@@ -18,7 +18,6 @@
 | 携程     | [转正实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) |          |      |      |
 |          |                                                              |          |      |      |
 |          |                                                              |          |      |      |
-|          |                                                              |          |      |      |
 
 
 ### 游戏公司
@@ -28,7 +27,7 @@
 | 米哈游   | [暑期实习](https://campus.mihoyo.com/#/campus/position)      |          |      |      |
 | 完美世界 | [暑期实习](https://jobs.games.wanmei.com/school.html)        |          |      |      |
 | 西山居   | [暑期实习](https://app.mokahr.com/campus-recruitment/xishanju/37430#/) |          |      |      |
-|          |                                                              |          |      |      |
+| 鹰角网络 | [暑期实习](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/) |          |      |      |
 
 
 ### 外企
@@ -53,3 +52,9 @@
 | 中金公司 | [暑期实习](https://cicc.zhiye.com/summer?k=&c=-1&p=3^-1,1^8&day=-1&PageIndex=1&pc=&class=2#zw) |          |      |      |
 | 恒生     | [暑期实习](https://campus.hundsun.com/intern/jobs)           |          |      |      |
 | 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      |          |      |      |
+| 奇安信   | [暑期实习](https://campus.qianxin.com/campus/intern)         |          |      |      |
+| 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) |          |      |      |
+| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) |          |      |      |
+|          |                                                              |          |      |      |
+|          |                                                              |          |      |      |
+|          |                                                              |          |      |      |
