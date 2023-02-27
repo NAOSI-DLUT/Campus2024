@@ -16,8 +16,6 @@
 | 快手     | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/?time=1675865631504#/official/trainee/?workLocationCode=domestic&name=%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0) | 2023/2/27 |      |      |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/2/27 |      |      |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |      |
-|          |                                                              |           |      |      |
-|          |                                                              |           |      |      |
 
 
 ### 游戏公司
@@ -35,7 +33,6 @@
 | 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | ---- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 苹果 | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
-|      |                                                              |           |      |      |
 
 ### 银行&&金融&&制造业&&其他
 
@@ -55,6 +52,3 @@
 | 奇安信   | [暑期实习](https://campus.qianxin.com/campus/intern)         | 2023/2/27 |      |      |
 | 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) | 2023/2/27 |      |      |
 | 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |      |
-|          |                                                              |           |      |      |
-|          |                                                              |           |      |      |
-|          |                                                              |           |      |      |
