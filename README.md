@@ -1,4 +1,6 @@
-> 此仓库为2024届毕业生的校招信息汇总仓库,欢迎大家来 [Github仓库](https://github.com/NAOSI-DLUT/Campus2024) PR更新最新信息及勘误
+> 此仓库为2024届毕业生的校招信息汇总仓库
+>
+> 欢迎大家来 [Github仓库](https://github.com/NAOSI-DLUT/Campus2024) PR更新最新信息及勘误
 
 ## 实习篇
 
@@ -51,4 +53,4 @@
 | 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |      |      |
 | 奇安信   | [暑期实习](https://campus.qianxin.com/campus/intern)         | 2023/2/27 |      |      |
 | 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) | 2023/2/27 |      |      |
-| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |      |
+| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      | （SSDUT可能有加成）     |
