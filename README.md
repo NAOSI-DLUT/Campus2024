@@ -10,7 +10,7 @@
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 拼多多   | [暑期实习](https://careers.pinduoduo.com/campus/intern)      | 2023/2/27 |      |      |
 | 美团     | [暑期实习](https://zhaopin.meituan.com/web/campus)           | 2023/2/27 |      |      |
-| 旷世     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |      |
+| 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |      |
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) | 2023/2/27 |      |      |
 | 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) | 2023/2/27 |      |      |
 | 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) | 2023/2/27 |      |      |
