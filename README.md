@@ -20,6 +20,7 @@
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |      |
 | 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |      |
 | 哔哩哔哩 | [暑期实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |      |
+| 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |      |
 
 ### 游戏公司
 
