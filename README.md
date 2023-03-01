@@ -18,7 +18,8 @@
 | 快手     | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/?time=1675865631504#/official/trainee/?workLocationCode=domestic&name=%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0) | 2023/2/27 |      |      |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/2/27 |      |      |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |      |
-
+| 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |      |
+| 哔哩哔哩 | [暑期实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |      |
 
 ### 游戏公司
 
@@ -54,3 +55,4 @@
 | 奇安信   | [暑期实习](https://campus.qianxin.com/campus/intern)         | 2023/2/27 |      |      |
 | 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) | 2023/2/27 |      |      |
 | 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      | （SSDUT可能有加成）     |
+| 比亚迪 | 暂未开放 | 2023/3/1 | |  |
