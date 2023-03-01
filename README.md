@@ -32,6 +32,8 @@
 | 完美世界 | [暑期实习](https://jobs.games.wanmei.com/school.html)        | 2023/2/27 |      |      |
 | 西山居   | [暑期实习](https://app.mokahr.com/campus-recruitment/xishanju/37430#/) | 2023/2/27 |      |      |
 | 鹰角网络 | [暑期实习](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/) | 2023/2/27 |      |      |
+| 莉莉丝   | 暂未开放                                                     | 2023/3/1  |      |      |
+| 叠纸     | 暂未开放                                                     | 2023/3/1  |      |      |
 
 
 ### 外企
