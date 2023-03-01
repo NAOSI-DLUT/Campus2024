@@ -22,6 +22,7 @@
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |                                        |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/1  |      |                                        |
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) | 2023/3/1  |      |                                        |
+| 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                                        |
 
 ### 游戏公司
 
