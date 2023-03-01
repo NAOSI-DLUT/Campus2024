@@ -19,7 +19,7 @@
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=3&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/2/27 |      |      |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |      |
 | 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |      |
-| 哔哩哔哩 | [暑期实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |      |
+| 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |      |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/1  |      |      |
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) | 2023/3/1  |      |      |
 
