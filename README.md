@@ -13,7 +13,7 @@
 | 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                                        |
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) | 2023/2/27 |      | 24雷火暑期精英实习生 笔面试4月陆续开启 |
 | 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) | 2023/2/27 |      |                                        |
-| 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) | 2023/2/27 |      |                                        |
+| 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) [2023实习生](https://join.qq.com/post.html?query=2_75,2_76,2_77,2_84,2_93,2_231,p_2) | 2023/3/2  |      |                                        |
 | 百度     | [暑期实习](https://talent.baidu.com/jobs/list?time=1675865632521) | 2023/2/28 |      |                                        |
 | 快手     | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/?time=1675865631504#/official/trainee/?workLocationCode=domestic&name=%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0) | 2023/2/27 |      |                                        |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |                                        |
