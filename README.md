@@ -60,3 +60,4 @@
 | 深信服   | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee) | 2023/2/27 |      |      |
 | 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      | （SSDUT可能有加成）     |
 | 比亚迪 | 暂未开放 | 2023/3/1 | |  |
+| 花旗金融 | [暑期实习](http://2023.yingjiesheng.com/cstc/) | 2023/3/3 | | GPA 3.0/4.0或同等成绩以上 |
