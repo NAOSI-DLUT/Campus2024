@@ -65,4 +65,5 @@
 | 招商银行     | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&fromType=school&qrgid=51108EB2-5BB6-446D-BAB2-D36CF8178086&back=1) | 2023/3/3  |      |                                          |
 | 招银网络科技 | [暑期实习](https://cmbntjob-mobile.cmbchina.com/home)        | 2023/3/3  |      |                                          |
 | 影石         | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多                             |
+| 360          | [日常实习](https://360campus.zhiye.com/jobs)                 | 2023/3/6  |      |                                          |
 
