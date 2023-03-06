@@ -12,7 +12,7 @@
 | 美团     | [暑期实习](https://zhaopin.meituan.com/web/campus)           | 2023/2/27 |      |                                        |
 | 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                                        |
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) | 2023/2/27 |      | 24雷火暑期精英实习生 笔面试4月陆续开启 |
-| 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) | 2023/2/27 |      |                                        |
+| 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) [暑期实习](https://campus.jd.com/home#/jobs?selProjects=38) | 2023/3/6  |      |                                        |
 | 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) [2023实习生](https://join.qq.com/post.html?query=2_75,2_76,2_77,2_84,2_93,2_231,p_2) | 2023/3/2  |      |                                        |
 | 百度     | [暑期实习](https://talent.baidu.com/jobs/list?time=1675865632521) | 2023/2/28 |      |                                        |
 | 快手     | [暑期实习](https://zhaopin.kuaishou.cn/recruit/e/?time=1675865631504#/official/trainee/?workLocationCode=domestic&name=%E6%9A%91%E6%9C%9F%E5%AE%9E%E4%B9%A0) | 2023/2/27 |      |                                        |
@@ -22,7 +22,7 @@
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/1  |      |                                        |
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) | 2023/3/2  |      | 3月8日开启                             |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                                        |
-| 蚂蚁集团 |                                                              |           |      | 3月10日开启                            |
+| 蚂蚁集团 |                                                              | 2023/3/6  |      | 3月10日开启                            |
 
 ### 游戏公司
 
