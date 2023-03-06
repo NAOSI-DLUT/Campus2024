@@ -53,6 +53,7 @@
 | 中金财富     | [暑期实习](https://cicc.m.zhiye.com/#/jobs?jc=2&search=true&ky=&c1=1_4&c=&code=&RewardJob=0&jobads=&shareid=&token=) | 2023/2/27 |      |                                          |
 | 七牛云       | [暑期实习](https://campus.qiniu.com/campus-recruitment/qiniuyun/73989#/) | 2023/2/27 |      |                                          |
 | 吉利         | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                                          |
+| 浪潮集团     | [日常实习](https://inspur.hcmcloud.cn/recruit#/portal_job_list?job_class=intern) | 2023/3/6  |      |                                          |
 | 中兴         | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                                          |
 | 中金公司     | [暑期实习](https://cicc.zhiye.com/summer?k=&c=-1&p=3^-1,1^8&day=-1&PageIndex=1&pc=&class=2#zw) | 2023/2/27 |      |                                          |
 | 恒生         | [暑期实习](https://campus.hundsun.com/intern/jobs)           | 2023/3/1  |      | 3月31日晚安排集中笔试，4月初安排在线面试 |
