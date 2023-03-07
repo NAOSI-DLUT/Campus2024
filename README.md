@@ -34,7 +34,7 @@
 | 鹰角网络 | [暑期实习](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/) | 2023/2/27 |      |      |
 | 莉莉丝   | 暂未开放                                                     | 2023/3/1  |      |      |
 | 叠纸     | 暂未开放                                                     | 2023/3/1  |      |      |
-
+| 吉比特&雷霆游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 2023/3/7  |      |      |
 
 ### 外企
 
