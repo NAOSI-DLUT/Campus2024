@@ -20,7 +20,7 @@
 | 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |                                        |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |                                        |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/1  |      |                                        |
-| 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) | 2023/3/2  |      | 3月8日开启                             |
+| 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      | 3月8日开启                             |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                                        |
 | 蚂蚁集团 |                                                              | 2023/3/6  |      | 3月10日开启                            |
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                                        |
