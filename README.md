@@ -23,6 +23,7 @@
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) | 2023/3/2  |      | 3月8日开启                             |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                                        |
 | 蚂蚁集团 |                                                              | 2023/3/6  |      | 3月10日开启                            |
+| 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                                        |
 
 ### 游戏公司
 
