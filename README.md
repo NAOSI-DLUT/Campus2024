@@ -19,13 +19,13 @@
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |                                        |
 | 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |                                        |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |                                        |
-| 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/1  |      |                                        |
-| 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      | 3月8日开启                             |
+| 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) [转正实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/9  |      |                                        |
+| 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      |                                        |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                                        |
 | 蚂蚁集团 |                                                              | 2023/3/6  |      | 3月10日开启                            |
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                                        |
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                                        |
-| 腾讯云智   | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                                        |
+| 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                                        |
 
 ### 游戏公司
 
@@ -35,7 +35,7 @@
 | 完美世界 | [暑期实习](https://jobs.games.wanmei.com/school.html)        | 2023/2/27 |      |      |
 | 西山居   | [暑期实习](https://app.mokahr.com/campus-recruitment/xishanju/37430#/) | 2023/2/27 |      |      |
 | 鹰角网络 | [暑期实习](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/) | 2023/2/27 |      |      |
-| 莉莉丝   | 暂未开放                                                     | 2023/3/1  |      |      |
+| 莉莉丝   | [暑期实习](https://lilithgames.jobs.feishu.cn/intern/?keywords=&category=&location=&project=7208018545695000892&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/9  |      |      |
 | 叠纸     | 暂未开放                                                     | 2023/3/1  |      |      |
 | 吉比特&雷霆游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 2023/3/7  |  厦门    |      |
 
