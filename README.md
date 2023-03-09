@@ -25,7 +25,7 @@
 | 蚂蚁集团 |                                                              | 2023/3/6  |      | 3月10日开启                            |
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                                        |
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                                        |
-| 腾讯云   | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/8  |      |                                        |
+| 腾讯云智   | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                                        |
 
 ### 游戏公司
 
