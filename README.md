@@ -27,6 +27,7 @@
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                                        |
 | 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                                        |
 | 小红书   | [日常实习](https://job.xiaohongshu.com/intern)               | 2023/3/10 |      |                                        |
+| 猿辅导   | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462) | 2023/3/10 |      |                                        |
 
 ### 游戏公司
 
