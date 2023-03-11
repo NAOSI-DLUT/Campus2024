@@ -28,6 +28,7 @@
 | 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                                        |
 | 小红书   | [日常实习](https://job.xiaohongshu.com/intern)               | 2023/3/10 |      |                                        |
 | 猿辅导   | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462) | 2023/3/10 |      |                                        |
+| 贝壳     | [暑期实习](http://campus.ke.com/adcrecru3.aspx)              | 2023/3/11 |      |                                        |
 
 ### 游戏公司
 
