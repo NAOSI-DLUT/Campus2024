@@ -43,9 +43,10 @@
 
 ### 外企
 
-| 公司 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
-| ---- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 苹果 | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
+| 公司  | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| ----- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 苹果  | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
+| shein | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |      |
 
 ### 银行&&金融&&制造业&&其他
 
@@ -73,5 +74,6 @@
 | 影石         | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多                             |
 | 360          | [日常实习](https://360campus.zhiye.com/jobs)                 | 2023/3/6  |      |                                          |
 | 小鹏         | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                                          |
+| 地平线       | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                                          |
 
 
