@@ -76,7 +76,6 @@
 | 小鹏         | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                                          |
 | 邮储         | [暑期实习](https://psbckj2023.zhaopin.com/trainee.html)      | 2023/3/10 |      |                                          |
 | 地平线       | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                                          |
-| 宁德时代     | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |      | Java就招两个                             |
+| 宁德时代     | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |      |                                          |
 | 联想         | 暂未开放                                                     | 2023/3/10 |      |                                          |
-
 
