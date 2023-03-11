@@ -46,7 +46,7 @@
 | 公司  | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | ----- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 苹果  | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
-| shein | [暑期实习]                                                   | 2023/3/11 |      |      |
+| shein | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |      |
 
 ### 银行&&金融&&制造业&&其他
 
