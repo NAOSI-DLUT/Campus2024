@@ -29,6 +29,14 @@
 | 小红书   | [日常实习](https://job.xiaohongshu.com/intern)               | 2023/3/10 |      |                                        |
 | 猿辅导   | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462) | 2023/3/10 |      |                                        |
 | 贝壳     | [暑期实习](http://campus.ke.com/adcrecru3.aspx)              | 2023/3/11 |      |                                        |
+| 58同城   | [暑期实习](https://campus.58.com/xzzw?k=&c=&p=1^-1,3^-1&d=&PageIndex=1&class=2&z=1#zw) | 2023/3/11 |      |                                        |
+| 爱奇艺   | [日常实习](https://careers.iqiyi.com/apply/iqiyi/39117#/)    | 2023/3/11 |      |                                        |
+| 金山     | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/3/11 |      |                                        |
+|          |                                                              |           |      |                                        |
+|          |                                                              |           |      |                                        |
+|          |                                                              |           |      |                                        |
+|          |                                                              |           |      |                                        |
+|          |                                                              |           |      |                                        |
 
 ### 游戏公司
 
@@ -41,18 +49,22 @@
 | 莉莉丝   | [暑期实习](https://lilithgames.jobs.feishu.cn/intern/?keywords=&category=&location=&project=7208018545695000892&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/9  |      |      |
 | 叠纸     | 暂未开放                                                     | 2023/3/1  |      |      |
 | 吉比特&雷霆游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 2023/3/7  |  厦门    |      |
+| 昆仑万维 | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |  | |
+| 掌趣科技 | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) |  |  | |
 
 ### 外企
 
-| 公司  | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
-| ----- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 苹果  | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
-| shein | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |      |
+| 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| ------ | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 苹果   | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |      |
+| 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/jobs?zhineng=51956&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |      |
+| shein  | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |      |
 
 ### 银行&&金融&&制造业&&其他
 
 | 公司         | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                     |
 | ------------ | ------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
+| 用友         | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) | 2023/3/11 |      |                                          |
 | 蓝月亮       | [暑期实习](http://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/internStudent) | 2023/2/27 |      |                                          |
 | 泰康保险     | [暑期实习](http://jobtaikang.zhiye.com/internlist?k=&c=-1&subcity=&subcitys=&p=1^-1,3^-1&day=-1&sort=1&PageIndex=1&class=1#this) | 2023/2/27 |      |                                          |
 | 小米         | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) | 2023/2/27 |      |                                          |
@@ -79,4 +91,12 @@
 | 地平线       | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                                          |
 | 宁德时代     | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |      |                                          |
 | 联想         | 暂未开放                                                     | 2023/3/10 |      |                                          |
+| 百词斩       | [日常实习](https://join.baicizhan.com/campus)                | 2023/3/11 |      |                                          |
+| 理想         | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |      |                                          |
+| vivo         | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/11 |      |                                          |
+| 大疆         | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                                          |
+| 数禾科技     | [暑期实习](https://shuhezhaopin.zhiye.com/intern)            | 2023/3/11 |      |                                          |
+| 金证科技     | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D) | 2023/3/11 |      |                                          |
+| 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) | 2023/3/11 |      |                                          |
+| 中国平安     | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
 
