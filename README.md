@@ -33,10 +33,7 @@
 | 爱奇艺   | [日常实习](https://careers.iqiyi.com/apply/iqiyi/39117#/)                                                                                                                                                                  | 2023/3/11 |      |                                        |
 | 金山     | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98)                                                                                                           | 2023/3/11 |      |                                        |
 | 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
-|          |                                                                                                                                                                                                                            |           |      |                                        |
-|          |                                                                                                                                                                                                                            |           |      |                                        |
-|          |                                                                                                                                                                                                                            |           |      |                                        |
-|          |                                                                                                                                                                                                                            |           |      |                                        |
+
 
 ### 游戏公司
 
