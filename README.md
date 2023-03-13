@@ -32,7 +32,7 @@
 | 58同城   | [暑期实习](https://campus.58.com/xzzw?k=&c=&p=1^-1,3^-1&d=&PageIndex=1&class=2&z=1#zw)                                                                                                                                     | 2023/3/11 |      |                                        |
 | 爱奇艺   | [日常实习](https://careers.iqiyi.com/apply/iqiyi/39117#/)                                                                                                                                                                  | 2023/3/11 |      |                                        |
 | 金山     | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98)                                                                                                           | 2023/3/11 |      |                                        |
-| 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
+
 
 
 ### 游戏公司
@@ -97,4 +97,4 @@
 | 金证科技     | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D)                                                                                                                                                                                  | 2023/3/11 |      |                                          |
 | 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/)                                                                                                                                                                                                                                                  | 2023/3/11 |      |                                          |
 | 中国平安     | [日常实习](https://campus.pingan.com/internStudent)                                                                                                                                                                                                                                                                      | 2023/3/11 |      |                                          |
-
+| 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
