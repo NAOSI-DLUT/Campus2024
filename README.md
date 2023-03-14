@@ -87,10 +87,8 @@
 | 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                     |
 | 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                     |
 
-
-
-
 ### 银行&&保险&&金融&&地产
+
 | 公司         | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                     |
 | ------------ | ------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
 | 中金财富     | [暑期实习](https://cicc.m.zhiye.com/#/jobs?jc=2&search=true&ky=&c1=1_4&c=&code=&RewardJob=0&jobads=&shareid=&token=) | 2023/2/27 |      |                                          |
@@ -106,6 +104,7 @@
 | 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) | 2023/3/11 |      |                                          |
 | 中国平安     | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
 | 龙湖地产     | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
+
 ### 制造业
 
 | 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
