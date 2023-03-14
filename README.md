@@ -64,8 +64,9 @@
 | 虾皮   | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
 
 ### 机厂&&通信&&车厂
-| 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
-| ------ | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
+
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ------------------- |
 | 小米     | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) | 2023/2/27 |      |                     |
 | 华为     | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/2/27 |      |                     |
 | 中兴     | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                     |
@@ -85,6 +86,9 @@
 | 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                     |
 | 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                     |
 | 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                     |
+
+
+
 
 ### 银行&&保险&&金融&&地产
 | 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
