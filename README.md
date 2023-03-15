@@ -65,27 +65,27 @@
 
 ### 机厂&&通信&&车厂
 
-| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                |
-| -------- | ------------------------------------------------------------ | --------- | ---- | ------------------- |
-| 小米     | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) | 2023/2/27 |      |                     |
-| 华为     | [日常实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/2/27 |      |                     |
-| 中兴     | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                     |
-| vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/11 |      |                     |
-| oppo     | 暂未开放                                                     | 2023/3/14 |      |                     |
-| 荣耀     | 暂未开启                                                     | 2023/3/14 |      |                     |
-| 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                     |
-| 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |      |                     |
-| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      | （SSDUT可能有加成） |
-| 比亚迪   | 暂未开放                                                     | 2023/3/1  |      |                     |
-| 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                     |
-| 地平线   | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                     |
-| 宁德时代 | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |      |                     |
-| 联想     | 暂未开放                                                     | 2023/3/10 |      |                     |
-| 理想     | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |      |                     |
-| 大疆     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                     |
-| 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                     |
-| 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                     |
-| 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                     |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点                     | 备注                |
+| -------- | ------------------------------------------------------------ | --------- | ------------------------ | ------------------- |
+| 小米     | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) | 2023/2/27 |                          |                     |
+| 华为     | [勇敢星实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/3/15 | 似乎与之前的日常是一样的 |                     |
+| 中兴     | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |                          |                     |
+| vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/11 |                          |                     |
+| oppo     | 暂未开放                                                     | 2023/3/14 |                          |                     |
+| 荣耀     | 暂未开启                                                     | 2023/3/14 |                          |                     |
+| 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |                          |                     |
+| 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |                          |                     |
+| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |                          | （SSDUT可能有加成） |
+| 比亚迪   | 暂未开放                                                     | 2023/3/1  |                          |                     |
+| 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |                          |                     |
+| 地平线   | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |                          |                     |
+| 宁德时代 | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |                          |                     |
+| 联想     | 暂未开放                                                     | 2023/3/10 |                          |                     |
+| 理想     | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |                          |                     |
+| 大疆     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |                          |                     |
+| 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |                          |                     |
+| 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |                          |                     |
+| 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |                          |                     |
 
 ### 银行&&保险&&金融&&地产
 
