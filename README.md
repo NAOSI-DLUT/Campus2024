@@ -8,7 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注              |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ----------------- |
-| 拼多多   | [暑期实习](https://careers.pinduoduo.com/campus/intern)      | 2023/2/27 |      |                   |
+| 拼多多   | [暑期实习](https://careers.pinduoduo.com/campus/intern)      | 2023/2/27 | 默认为上海 |                   |
 | 美团     | [暑期实习](https://zhaopin.meituan.com/web/campus)           | 2023/2/27 |      |                   |
 | 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                   |
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) | 2023/2/27 |      | 笔面试4月陆续开启 |
@@ -104,6 +104,7 @@
 | 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) | 2023/3/11 |      |                                          |
 | 中国平安     | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
 | 龙湖地产     | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
+| 文华财经     | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
 
 ### 制造业
 
