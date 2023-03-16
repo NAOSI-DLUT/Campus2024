@@ -80,7 +80,7 @@
 | 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |                          |                     |
 | 地平线   | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |                          |                     |
 | 宁德时代 | [日常实习](http://catl.zhaopin.com/job.html)                 | 2023/3/10 |                          |                     |
-| 联想     | 暂未开放                                                     | 2023/3/10 |                          |                     |
+| 联想     | [暑期实习](https://talent.lenovo.com.cn/position?projectType=2) | 2023/3/16 |                          |                     |
 | 理想     | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |                          |                     |
 | 大疆     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |                          |                     |
 | 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |                          |                     |
@@ -108,10 +108,11 @@
 
 ### 制造业
 
-| 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
-| ------ | ------------------------------------------------------------ | --------- | ---- | ------------ |
-| 蓝月亮 | [暑期实习](http://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/internStudent) | 2023/2/27 |      |              |
-| 影石   | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多 |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 蓝月亮   | [暑期实习](http://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/internStudent) | 2023/2/27 |      |              |
+| 影石     | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多 |
+| 南瑞继保 | [暑期实习](https://app.nrec.com/webapp/InternshipHire/?code=021DEJkl2zqgXa4zgDll29GQMt3DEJkp&state=#/positions) | 2023/3/16 | 南京 | 微信内打开   |
 
 ### 安全公司&&软件公司&&云服务
 
