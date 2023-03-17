@@ -35,6 +35,7 @@
 | 得物     | [暑期实习](https://campus.dewu.com/campus_apply/thedu/37483/#/jobs?project=100060107&page=1&anchorName=jobsList&keyword=) | 2023/3/14 |      |                   |
 | 同程     | [暑期实习](https://mhr.ly.com/recruit/portaltouch/#/pages/school/index) | 2023/3/14 |      |                   |
 | 百词斩       | [日常实习](https://join.baicizhan.com/campus)                                                                                                                                                                                                                                                                            | 2023/3/11 |      |                                          |
+| 阅文集团 | [暑期实习](https://www.nowcoder.com/careers/yuewen/122324) | 2023/3/17 | | |
 
 ### 游戏公司
 
@@ -62,6 +63,7 @@
 | 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/jobs?zhineng=51956&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |                          |
 | shein  | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |                          |
 | 虾皮   | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
+| Paypal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
 
 ### 机厂&&通信&&车厂
 
