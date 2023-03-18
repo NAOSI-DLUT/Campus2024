@@ -107,6 +107,7 @@
 | 中国平安     | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
 | 龙湖地产     | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
 | 文华财经     | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
+| 中国银行     | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
 
 ### 制造业
 
