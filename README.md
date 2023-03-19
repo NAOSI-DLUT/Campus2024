@@ -64,6 +64,7 @@
 | shein  | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |                          |
 | 虾皮   | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
 | Paypal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
+| 戴尔   | [暑期实习](https://chinajobs.dell.com/%E7%B1%BB%E5%88%AB/jobs/25848/63696/1) | 2023/3/19 |      | 申请截止日期：6.30       |
 
 ### 机厂&&通信&&车厂
 
@@ -77,7 +78,7 @@
 | 荣耀     | 暂未开启                                                     | 2023/3/14 |      |                          |
 | 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                          |
 | 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |      |                          |
-| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      | （SSDUT可能有加成）      |
+| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |                          |
 | 比亚迪   | 暂未开放                                                     | 2023/3/1  |      |                          |
 | 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                          |
 | 地平线   | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                          |
@@ -109,6 +110,7 @@
 | 龙湖地产     | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
 | 文华财经     | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
 | 中国银行     | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
+| 泰康资产     | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
 
 ### 制造业
 
