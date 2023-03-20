@@ -114,11 +114,12 @@
 
 ### 制造业
 
-| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
-| -------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
-| 蓝月亮   | [暑期实习](http://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/internStudent) | 2023/2/27 |      |              |
-| 影石     | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多 |
-| 南瑞继保 | [暑期实习](https://app.nrec.com/webapp/InternshipHire/?code=021DEJkl2zqgXa4zgDll29GQMt3DEJkp&state=#/positions) | 2023/3/16 | 南京 | 微信内打开   |
+| 公司      | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
+| --------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 蓝月亮    | [暑期实习](http://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/internStudent) | 2023/2/27 |      |              |
+| 影石      | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多 |
+| 南瑞继保  | [暑期实习](https://app.nrec.com/webapp/InternshipHire/?code=021DEJkl2zqgXa4zgDll29GQMt3DEJkp&state=#/positions) | 2023/3/16 | 南京 | 微信内打开   |
+| ATL新能源 | [暑期实习](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/interns.html) | 2023/3/20 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
