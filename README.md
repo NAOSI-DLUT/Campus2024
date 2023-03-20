@@ -73,8 +73,8 @@
 | 小米     | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) | 2023/2/27 |      |                          |
 | 华为     | [勇敢星实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/3/15 |      | 似乎与之前的日常是一样的 |
 | 中兴     | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                          |
-| vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/11 |      |                          |
-| oppo     | 暂未开放                                                     | 2023/3/14 |      |                          |
+| vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/20 |      |                          |
+| oppo     | [暑期实习](https://careers.oppo.com/campus/post/home)        | 2023/3/20 |      |                          |
 | 荣耀     | 暂未开启                                                     | 2023/3/14 |      |                          |
 | 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                          |
 | 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |      |                          |
