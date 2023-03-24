@@ -26,7 +26,7 @@
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                   |
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                   |
 | 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                   |
-| 小红书   | [日常实习](https://job.xiaohongshu.com/intern)  [暑期实习](https://job.xiaohongshu.com/m/campus/?10) | 2023/3/13 |      |                   |
+| 小红书   | [日常实习](https://job.xiaohongshu.com/intern)  [暑期实习](https://job.xiaohongshu.com/campus/?10) | 2023/3/13 |      |                   |
 | 猿辅导   | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462) | 2023/3/10 |      |                   |
 | 贝壳     | [暑期实习](http://campus.ke.com/adcrecru3.aspx)              | 2023/3/11 |      |                   |
 | 58同城   | [暑期实习](https://campus.58.com/xzzw?k=&c=&p=1^-1,3^-1&d=&PageIndex=1&class=2&z=1#zw) | 2023/3/11 |      |                   |
@@ -66,7 +66,7 @@
 | Paypal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
 | 戴尔   | [暑期实习](https://chinajobs.dell.com/%E7%B1%BB%E5%88%AB/jobs/25848/63696/1) | 2023/3/19 |      | 申请截止日期：6.30       |
 
-### 机厂&&通信&&车厂
+### 机厂&&通信&&车厂&&IC
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
@@ -90,6 +90,7 @@
 | 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                          |
 | 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                          |
 | momenta  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
+| 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
 
 ### 银行&&保险&&金融&&地产
 
