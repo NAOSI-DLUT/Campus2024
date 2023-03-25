@@ -65,6 +65,7 @@
 | 虾皮   | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
 | Paypal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
 | 戴尔   | [暑期实习](https://chinajobs.dell.com/%E7%B1%BB%E5%88%AB/jobs/25848/63696/1) | 2023/3/19 |      | 申请截止日期：6.30       |
+| 壳牌   | [实习生](https://www.shell.com.cn/zh_cn/careers/students-and-graduates/assessed-internships.html) | 2023/3/25 |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
@@ -134,3 +135,4 @@
 | 360          | [日常实习](https://360campus.zhiye.com/jobs)                                                                                                                                                                                                                                                                             | 2023/3/6  |      |                                          |
 | 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
 | 又拍云 | 暂无实习 | 2023/3/14 | | |
+| 亚信科技 | [暑期实习](http://campus.51job.com/asiainfo/jobs_trainee.html) | 2023/3/25 | 沈阳 | |
