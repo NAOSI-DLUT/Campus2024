@@ -78,7 +78,7 @@
 | oppo     | [暑期实习](https://careers.oppo.com/campus/post/home)        | 2023/3/20 |      |                          |
 | 荣耀     | 暂未开启                                                     | 2023/3/14 |      |                          |
 | 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                          |
-| 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/)      | 2023/2/27 |      |                          |
+| 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/) [暑期实习](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7064801635210479883&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=PC7D5DW) | 2023/3/27 |      |                          |
 | 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |                          |
 | 比亚迪   | 暂未开放                                                     | 2023/3/1  |      |                          |
 | 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                          |
