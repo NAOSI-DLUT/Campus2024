@@ -23,7 +23,7 @@
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      |                   |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                   |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus?chInfo=ch_mp)  | 2023/3/10 |      |                   |
-| 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us)             | 2023/3/8  |      |                   |
+| 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us) [暑期实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) | 2023/3/27 |      |                   |
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                   |
 | 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                   |
 | 小红书   | [日常实习](https://job.xiaohongshu.com/intern)  [暑期实习](https://job.xiaohongshu.com/campus/?10) | 2023/3/13 |      |                   |
@@ -113,8 +113,9 @@
 | 文华财经     | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
 | 中国银行     | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
 | 泰康资产     | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
+| 华泰证券     | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
 
-### 制造业
+### 制造业&&其他
 
 | 公司      | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | --------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
@@ -122,6 +123,7 @@
 | 影石      | [日常实习](https://www.zhipin.com/gongsir/652af170b89181ee0HV72N20GA~~_100000.html?degree=203&experience=108&salary=401&ka=sel_exp_108) | 2023/3/3  |      | 嵌入式岗位多 |
 | 南瑞继保  | [暑期实习](https://app.nrec.com/webapp/InternshipHire/?code=021DEJkl2zqgXa4zgDll29GQMt3DEJkp&state=#/positions) | 2023/3/16 | 南京 | 微信内打开   |
 | ATL新能源 | [暑期实习](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/interns.html) | 2023/3/20 |      |              |
+| 顺丰      | [暑期实习](https://campus.sf-express.com/index.html#/recruitmentList?intern=1) | 2023/3/27 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
