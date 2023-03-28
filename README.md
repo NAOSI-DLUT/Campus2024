@@ -4,13 +4,12 @@
 
 ## 实习篇
 
-### 互联网
+### 互联网 && AI
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注              |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ----------------- |
 | 拼多多   | [暑期实习](https://careers.pinduoduo.com/campus/intern)      | 2023/2/27 | 默认为上海 |                   |
 | 美团     | [暑期实习](https://zhaopin.meituan.com/web/campus)           | 2023/2/27 |      |                   |
-| 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                   |
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) | 2023/2/27 |      | 笔面试4月陆续开启 |
 | 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) [暑期实习](https://campus.jd.com/home#/jobs?selProjects=38) | 2023/3/6  |      |                   |
 | 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) [2023实习生](https://join.qq.com/post.html?query=2_75,2_76,2_77,2_84,2_93,2_231,p_2) | 2023/3/2  |      |                   |
@@ -23,7 +22,6 @@
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      |                   |
 | 知乎     | [日常实习](https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng=108486) | 2023/3/1  |      |                   |
 | 蚂蚁集团 | [暑期实习](https://talent.antgroup.com/campus?chInfo=ch_mp)  | 2023/3/10 |      |                   |
-| 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us) [暑期实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) | 2023/3/27 |      |                   |
 | 欢聚     | [日常实习](https://app.mokahr.com/apply/hjsd/48#/jobs?_k=i3ov2o&zhineng=5982&page=1&commitment=%E5%AE%9E%E4%B9%A0) | 2023/3/8  |      |                   |
 | 腾讯云智 | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/csig/20001) | 2023/3/9  |      |                   |
 | 小红书   | [日常实习](https://job.xiaohongshu.com/intern)  [暑期实习](https://job.xiaohongshu.com/campus/?10) | 2023/3/13 |      |                   |
@@ -36,6 +34,10 @@
 | 同程     | [暑期实习](https://mhr.ly.com/recruit/portaltouch/#/pages/school/index) | 2023/3/14 |      |                   |
 | 百词斩       | [日常实习](https://join.baicizhan.com/campus)                                                                                                                                                                                                                                                                            | 2023/3/11 |      |                                          |
 | 阅文集团 | [暑期实习](https://www.nowcoder.com/careers/yuewen/122324) | 2023/3/17 | | |
+| 极智嘉 | [暑期实习](https://app.mokahr.com/campus_apply/geekplus/98039#/) | 2023/3/28 | | |
+| 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                   |
+| 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us) [暑期实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) | 2023/3/27 |      |                   |
+| 虹软 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) | 2023/3/28 | | |
 
 ### 游戏公司
 
