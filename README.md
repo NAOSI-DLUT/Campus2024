@@ -55,19 +55,21 @@
 
 ### 外企
 
-| 公司   | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
-| ------ | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
-| 苹果   | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |                          |
-| 索尼   | [实习生](https://www.sony.com.cn/content/sonyportal_hr/Campus_Recruitment.html) | 2023/3/14 |      |                          |
-| 三星   | [实习生](https://dearsamsung.zhiye.com/intern?p=1^-1,3^-1&c=-1&unit_val=-1#zw) | 2023/3/14 |      |                          |
-| 谷歌   | [实习生](https://careers.google.com/jobs/results/?company=Fitbit&company=GFiber&company=Google&company=YouTube&company=Loon&company=Verily%20Life%20Sciences&company=Waymo&company=Wing&company=X&distance=50&employment_type=INTERN&hl=zh_CN&jld=10&location=Beijing,%20Beijing,%20China) | 2023/3/14 |      | 疑似申请截止时间已经过了 |
-| 微软   | 暂未开启                                                     | 2023/3/14 |      |                          |
-| 特斯拉 | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/jobs?zhineng=51956&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |                          |
-| shein  | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |                          |
-| 虾皮   | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
-| Paypal | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
-| 戴尔   | [暑期实习](https://chinajobs.dell.com/%E7%B1%BB%E5%88%AB/jobs/25848/63696/1) | 2023/3/19 |      | 申请截止日期：6.30       |
-| 壳牌   | [实习生](https://www.shell.com.cn/zh_cn/careers/students-and-graduates/assessed-internships.html) | 2023/3/25 |      |                          |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
+| 苹果     | [实习生](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN+corporate-STDNT-CORP&cid=social_all_china_wechat_china_students_opportunities&board_id=JB089) | 2023/2/27 |      |                          |
+| 索尼     | [实习生](https://www.sony.com.cn/content/sonyportal_hr/Campus_Recruitment.html) | 2023/3/14 |      |                          |
+| 三星     | [实习生](https://dearsamsung.zhiye.com/intern?p=1^-1,3^-1&c=-1&unit_val=-1#zw) | 2023/3/14 |      |                          |
+| 谷歌     | [实习生](https://careers.google.com/jobs/results/?company=Fitbit&company=GFiber&company=Google&company=YouTube&company=Loon&company=Verily%20Life%20Sciences&company=Waymo&company=Wing&company=X&distance=50&employment_type=INTERN&hl=zh_CN&jld=10&location=Beijing,%20Beijing,%20China) | 2023/3/14 |      | 疑似申请截止时间已经过了 |
+| 微软     | 暂未开启                                                     | 2023/3/14 |      |                          |
+| 特斯拉   | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/jobs?zhineng=51956&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |                          |
+| shein    | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |                          |
+| 虾皮     | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
+| Paypal   | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
+| 戴尔     | [暑期实习](https://chinajobs.dell.com/%E7%B1%BB%E5%88%AB/jobs/25848/63696/1) | 2023/3/19 |      | 申请截止日期：6.30       |
+| 壳牌     | [实习生](https://www.shell.com.cn/zh_cn/careers/students-and-graduates/assessed-internships.html) | 2023/3/25 |      |                          |
+| 宝洁     | [暑期实习](https://careers.pg.com.cn/search-jobs/Internship/Chinese%20Mainland%20-%20Greater%20China/936/1/2/1814991/31x23039/121x473702/50/2) | 2023/3/30 |      |                          |
+| 霍尼韦尔 | [暑期实习](https://app.mokahr.com/campus-recruitment/honeywellkerui/78102#/jobs?department=) | 2023/3/30 |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
@@ -116,6 +118,7 @@
 | 中国银行     | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
 | 泰康资产     | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
 | 华泰证券     | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
+| 中欧基金     | [暑期实习](https://zofund.m.zhiye.com/xzzw.html)             | 2023/3/30 |      |                                          |
 
 ### 制造业&&其他
 
@@ -126,6 +129,7 @@
 | 南瑞继保  | [暑期实习](https://app.nrec.com/webapp/InternshipHire/?code=021DEJkl2zqgXa4zgDll29GQMt3DEJkp&state=#/positions) | 2023/3/16 | 南京 | 微信内打开   |
 | ATL新能源 | [暑期实习](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/interns.html) | 2023/3/20 |      |              |
 | 顺丰      | [暑期实习](https://campus.sf-express.com/index.html#/recruitmentList?intern=1) | 2023/3/27 |      |              |
+| 美的      | [暑期实习](https://careers.midea.com/schoolOut/post)         | 2023/3/30 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
