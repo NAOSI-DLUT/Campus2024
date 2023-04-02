@@ -119,6 +119,7 @@
 | 泰康资产     | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
 | 华泰证券     | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
 | 中欧基金     | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
+| 同花顺       | 暂无技术岗实习                                               | 2023/4/2  |      |                                          |
 
 ### 制造业&&其他
 
