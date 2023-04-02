@@ -118,7 +118,7 @@
 | 中国银行     | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
 | 泰康资产     | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
 | 华泰证券     | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
-| 中欧基金     | [暑期实习](https://zofund.m.zhiye.com/xzzw.html)             | 2023/3/30 |      |                                          |
+| 中欧基金     | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
 
 ### 制造业&&其他
 
