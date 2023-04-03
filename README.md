@@ -120,6 +120,7 @@
 | 华泰证券     | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
 | 中欧基金     | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
 | 同花顺       | 暂无技术岗实习                                               | 2023/4/2  |      |                                          |
+| 微众银行     | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/webankhr/18005#/) | 2023/4/3  |      |                                          |
 
 ### 制造业&&其他
 
