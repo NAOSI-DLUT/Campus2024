@@ -38,6 +38,7 @@
 | 旷视     | [暑期实习](https://app.mokahr.com/campus-recruitment/megviihr/38642#/) | 2023/2/27 |      |                   |
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us) [暑期实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) | 2023/3/27 |      |                   |
 | 虹软 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) | 2023/3/28 | | |
+| 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112?edit=1#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/4/3 | | |
 
 ### 游戏公司
 
@@ -70,6 +71,7 @@
 | 壳牌     | [实习生](https://www.shell.com.cn/zh_cn/careers/students-and-graduates/assessed-internships.html) | 2023/3/25 |      |                          |
 | 宝洁     | [暑期实习](https://careers.pg.com.cn/search-jobs/Internship/Chinese%20Mainland%20-%20Greater%20China/936/1/2/1814991/31x23039/121x473702/50/2) | 2023/3/30 |      |                          |
 | 霍尼韦尔 | [暑期实习](https://app.mokahr.com/campus-recruitment/honeywellkerui/78102#/jobs?department=) | 2023/3/30 |      |                          |
+| 百威     | [暑期实习](https://wd1.myworkdaysite.com/zh-CN/recruiting/abinbev/CHN/job/Shanghai/XMLNAME-2023-Budweiser-APAC-GMT-Summer-Intern-Program--BU-China_30040293) | 2023/4/3  |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
@@ -121,6 +123,8 @@
 | 中欧基金     | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
 | 同花顺       | 暂无技术岗实习                                               | 2023/4/2  |      |                                          |
 | 微众银行     | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/webankhr/18005#/) | 2023/4/3  |      |                                          |
+| 平安基金     | [暑期实习](https://wetalent.pingan.com/bb81a1239d153997a4199d43c2946bc4/campus/search?from=home&tab=sort) | 2023/4/3  |      |                                          |
+| 平安集团     | [暑期实习](https://campus.pingan.com/freshGraduates)         | 2023/4/3  |      |                                          |
 
 ### 制造业&&其他
 
