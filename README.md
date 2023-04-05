@@ -28,7 +28,7 @@
 | 猿辅导   | [日常实习](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?zhineng=115462) | 2023/3/10 |      |                   |
 | 贝壳     | [暑期实习](http://campus.ke.com/adcrecru3.aspx)              | 2023/3/11 |      |                   |
 | 58同城   | [暑期实习](https://campus.58.com/xzzw?k=&c=&p=1^-1,3^-1&d=&PageIndex=1&class=2&z=1#zw) | 2023/3/11 |      |                   |
-| 爱奇艺   | [日常实习](https://careers.iqiyi.com/apply/iqiyi/39117#/)    | 2023/3/11 |      |  开发岗暂未开放                 |
+| 爱奇艺   | [日常实习](https://careers.iqiyi.com/apply/iqiyi/39117#/)    | 2023/3/11 |      |                   |
 | 金山     | [日常实习](https://join.wps.cn/campus-recruitment/wps/41436#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/3/11 |      |                   |
 | 得物     | [暑期实习](https://app.mokahr.com/campus-recruitment/thedu/37483#/jobs?project=100060107) | 2023/4/4 |      |                   |
 | 同程     | [暑期实习](https://mhr.ly.com/recruit/portaltouch/#/pages/school/index) | 2023/3/14 |      |                   |
@@ -39,6 +39,7 @@
 | 商汤科技 | [日常实习](https://www.sensetime.com/cn/join-us) [暑期实习](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/interns.html) | 2023/3/27 |      |                   |
 | 虹软 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) | 2023/3/28 | | |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112?edit=1#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/4/3 | | |
+| 腾讯音乐 | [暑期实习](https://join.tencentmusic.com/campus/post?type=20) | 2023/4/5 | | |
 
 ### 游戏公司
 
@@ -125,8 +126,11 @@
 | 微众银行     | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/webankhr/18005#/) | 2023/4/3  |      |                                          |
 | 平安基金     | [暑期实习](https://wetalent.pingan.com/bb81a1239d153997a4199d43c2946bc4/campus/search?from=home&tab=sort) | 2023/4/3  |      |                                          |
 | 平安集团     | [暑期实习](https://campus.pingan.com/freshGraduates)         | 2023/4/3  |      |                                          |
+| Wind         | [暑期实习](https://www.wind.com.cn/mobile/JoinUS/RecruitDetail/zh.html?entry=school) | 2023/4/5  |      |                                          |
+| 招联         | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/5  |      |                                          |
+| 广发证券     | [暑期实习](https://wecruit.hotjob.cn/SU625527b10dcad4021443cdc6/mc/position/campus) | 2023/4/5  |      |                                          |
 
-### 制造业&&其他
+### 制造业&&嵌入式&&其他
 
 | 公司      | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | --------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
@@ -136,6 +140,7 @@
 | ATL新能源 | [暑期实习](https://wecruit.hotjob.cn/SU5ff30f5b9b0d78e6f4283a0b/pb/interns.html) | 2023/3/20 |      |              |
 | 顺丰      | [暑期实习](https://campus.sf-express.com/index.html#/recruitmentList?intern=1) | 2023/3/27 |      |              |
 | 美的      | [暑期实习](https://careers.midea.com/schoolOut/post)         | 2023/3/30 |      |              |
+| ZEKU      | [暑期实习](https://app.mokahr.com/campus-recruitment/zeku/102102?sourceToken=89adda2feeea0db67058bce162b881fa#/) | 2023/4/5  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
