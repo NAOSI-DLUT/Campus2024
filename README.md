@@ -73,6 +73,7 @@
 | 宝洁     | [暑期实习](https://careers.pg.com.cn/search-jobs/Internship/Chinese%20Mainland%20-%20Greater%20China/936/1/2/1814991/31x23039/121x473702/50/2) | 2023/3/30 |      |                          |
 | 霍尼韦尔 | [暑期实习](https://app.mokahr.com/campus-recruitment/honeywellkerui/78102#/jobs?department=) | 2023/3/30 |      |                          |
 | 百威     | [暑期实习](https://wd1.myworkdaysite.com/zh-CN/recruiting/abinbev/CHN/job/Shanghai/XMLNAME-2023-Budweiser-APAC-GMT-Summer-Intern-Program--BU-China_30040293) | 2023/4/3  |      |                          |
+| 亚马逊   | [暑期北京](https://www.amazon.jobs/en/jobs/2329573/software-dev-engineer-intern-2023-beijing) [暑期上海](https://amazon.jobs/en/jobs/2336294/software-dev-engineer-intern-2023-shanghai) | 2023/4/6  |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
