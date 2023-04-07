@@ -100,6 +100,7 @@
 | 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                          |
 | momenta  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
 | 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
+| 荣耀     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
 
 ### 银行&&保险&&金融&&地产
 
@@ -142,6 +143,7 @@
 | 顺丰      | [暑期实习](https://campus.sf-express.com/index.html#/recruitmentList?intern=1) | 2023/3/27 |      |              |
 | 美的      | [暑期实习](https://careers.midea.com/schoolOut/post)         | 2023/3/30 |      |              |
 | ZEKU      | [暑期实习](https://app.mokahr.com/campus-recruitment/zeku/102102?sourceToken=89adda2feeea0db67058bce162b881fa#/) | 2023/4/5  |      |              |
+| 雅诗兰黛  | [暑期实习](http://campus.51job.com/elccampusrecruitment/talent.html) | 2023/4/7  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
