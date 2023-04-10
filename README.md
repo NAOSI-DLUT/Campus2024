@@ -40,6 +40,10 @@
 | 虹软 | [暑期实习](https://www.arcsoft.com.cn/job/CadetIntroduce.html) | 2023/3/28 | | |
 | 虎牙 | [暑期实习](https://app.mokahr.com/campus_apply/huya/4112?edit=1#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/4/3 | | |
 | 腾讯音乐 | [暑期实习](https://join.tencentmusic.com/campus/post?type=20) | 2023/4/5 | | |
+| 搜狐 | [暑期实习](https://app.mokahr.com/campus_apply/sohu/28313#/) | 2023/4/10 | | |
+| 星环科技 | [暑期实习](https://app.mokahr.com/campus-recruitment/transwarp/78066#/) | 2023/4/10 | | |
+| 金山云 | [暑期实习](https://app.mokahr.com/campus_apply/kingsoft/39364#/jobs?department%5B0%5D=1071408&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&commitment%5B1%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/4/10 | | |
+| 北森 | [暑期实习](https://beisen.zhiye.com/intern/jobs) | 2023/4/10 | | |
 
 ### 游戏公司
 
@@ -75,6 +79,7 @@
 | 百威           | [暑期实习](https://wd1.myworkdaysite.com/zh-CN/recruiting/abinbev/CHN/job/Shanghai/XMLNAME-2023-Budweiser-APAC-GMT-Summer-Intern-Program--BU-China_30040293) | 2023/4/3  |      |                          |
 | 亚马逊         | [暑期北京](https://www.amazon.jobs/en/jobs/2329573/software-dev-engineer-intern-2023-beijing) [暑期上海](https://amazon.jobs/en/jobs/2336294/software-dev-engineer-intern-2023-shanghai) | 2023/4/6  |      |                          |
 | 阿特拉斯科普柯 | [暑期实习](https://atlascopco-career.tupu360.com/pageQrCode?targetUrl=a7f4739eb94ec9efcc9d7d7185db22d23ae8d66d62ca12d9081eb28e272094f3ae0ec81f55c418df2250a6d7a7b1f3186d9b432be53cfd586d43944b4d16bc64bdd457f48997fc1a3cc61186149852facdf80c8f20e2536a225c16440d94244c5afb607f404b8f90b25674488ca294453900affcfb5cb53c0edf3984e920a5984b1b3eefb7755d3731767b1da245dc9a1006992313743dbd16611b835f1a1ae819bb7b0cf3408cb2a545684499b5674200db687baca13dbfe06d2c5946dfb04c9f376a62d09d894d007cd5989f623288d87ea1fa050a286e056740953990549ea786cdb66b169724c69f13618b65efb75ede405cc399c9cd10abcf49f3a9a3868ab3cd48e9014402688d00e5fd190b2093982213c5572f0fdc3a62932fccf4b64778332d171e941f8dcb9220c501fbee) | 2023/4/10 |      |                          |
+| 西门子         | [暑期实习](https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2023/4/10 |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
@@ -102,8 +107,9 @@
 | momenta  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
 | 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
 | 荣耀     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
+| 文远知行 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/page/%E5%AE%9E%E4%B9%A0%E6%8B%9B%E8%81%98) | 2023/4/10 |      |                          |
 
-### 银行&&保险&&金融&&地产
+### 银行&&保险&&金融&&地产&&国企
 
 | 公司         | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                     |
 | ------------ | ------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
@@ -133,6 +139,7 @@
 | 招联         | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/5  |      |                                          |
 | 广发证券     | [暑期实习](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/index.html#/) | 2023/4/5  |      |                                          |
 | 招联         | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/10 |      |                                          |
+| 中国电子云   | [暑期实习](https://campus.cestc.cn/campus_apply/cestc/7509/#/jobs?commitment=%E5%AE%9E%E4%B9%A0&location=%E5%8C%97%E4%BA%AC%E5%B8%82) | 2023/4/10 |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
@@ -146,6 +153,7 @@
 | 美的      | [暑期实习](https://careers.midea.com/schoolOut/post)         | 2023/3/30 |      |              |
 | ZEKU      | [暑期实习](https://app.mokahr.com/campus-recruitment/zeku/102102?sourceToken=89adda2feeea0db67058bce162b881fa#/) | 2023/4/5  |      |              |
 | 雅诗兰黛  | [暑期实习](http://campus.51job.com/elccampusrecruitment/talent.html) | 2023/4/7  |      |              |
+| 海尔      | [暑期实习](http://maker.haier.net/client/practice/jobs.html) | 2023/4/10 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -161,6 +169,8 @@
 | 亚信科技 | [暑期实习](http://campus.51job.com/asiainfo/jobs_trainee.html) | 2023/3/25 | 沈阳 | |
 | 360          | [暑期实习](https://360campus.zhiye.com/jobs)                                                                                                                                                                                                                               | 2023/4/8 |      |                                          |
 | 思特奇 | [暑期实习](http://zhaopin.si-tech.com.cn/outside/page/mis_system/login_Official.raq?ctrl-opentype=blank) | 2023/4/8 |  | |
+| smartX | [暑期实习](https://www.smartx.com/campus/) | 2023/4/10 | | |
+| CVTE | [暑期实习](https://campus.cvte.com/project/8cdab3f0a68511edb9ffb6421ac0f6d3) | 2023/4/10 | | |
 
 ## 秋招篇
 
@@ -188,10 +198,10 @@
 
 ### 银行&&保险&&金融&&地产
 
-| 公司     | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注         |
-| -------- | ------------------------------------------------------------ | -------- | ---- | ------------ |
-| 华泰证券 | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 4.10     |      | 研究生及以上 |
-| 南方基金 | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 4.10     |      | 研究生及以上 |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 华泰证券 | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
+| 南方基金 | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
 
 
 ### 安全公司&&软件公司&&云服务
