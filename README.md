@@ -154,6 +154,7 @@
 | ZEKU      | [暑期实习](https://app.mokahr.com/campus-recruitment/zeku/102102?sourceToken=89adda2feeea0db67058bce162b881fa#/) | 2023/4/5  |      |              |
 | 雅诗兰黛  | [暑期实习](http://campus.51job.com/elccampusrecruitment/talent.html) | 2023/4/7  |      |              |
 | 海尔      | [暑期实习](http://maker.haier.net/client/practice/jobs.html) | 2023/4/10 |      |              |
+| 台积电    | [暑期实习](https://wecruit.hotjob.cn/SU61075bbabef57c43d825d671/mc/position/intern?projectCode=100301&channelId=630349800dcad45aa773d63c&showProjectBanner=true) | 2023/4/11 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
