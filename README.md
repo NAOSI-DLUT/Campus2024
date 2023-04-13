@@ -108,6 +108,7 @@
 | 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
 | 荣耀     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
 | 文远知行 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/page/%E5%AE%9E%E4%B9%A0%E6%8B%9B%E8%81%98) | 2023/4/10 |      |                          |
+| 新大陆   | [暑期实习](https://nlscan.zhiye.com/Intern)                  | 2023/4/13 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -140,6 +141,7 @@
 | 广发证券     | [暑期实习](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/index.html#/) | 2023/4/5  |      |                                          |
 | 招联         | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/10 |      |                                          |
 | 中国电子云   | [暑期实习](https://campus.cestc.cn/campus_apply/cestc/7509/#/jobs?commitment=%E5%AE%9E%E4%B9%A0&location=%E5%8C%97%E4%BA%AC%E5%B8%82) | 2023/4/10 |      |                                          |
+| 工银瑞信     | [暑期实习](https://wecruit.hotjob.cn/SU606fe7290dcad451044ebdc7/mc/position/campus) | 2023/4/13 |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
@@ -160,9 +162,9 @@
 
 | 公司         | 招聘状态&&投递链接                                                                                                                                                                                                                                                                                                       | 更新日期  | 地点 | 备注                                     |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
-| 用友         | [日常实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) | 2023/3/11 |      |                                          |
+| 用友         | [暑期实习](https://www.hotjob.cn/wt/yonyou/web/index?brandCode=1#/position/eyJpZCI6IjAiLCJyZWNydWl0VHlwZSI6IjEyIiwic3VibWVudXMiOltdLCJ0aXRsZSI6IuWunuS5oOeUn+aLm+iBmCIsInRpdGxlRU4iOiJJbnRlcm5zIiwidHlwZSI6IkIiLCJ1cmwiOiIvd3QveW9ueW91L3dlYi9pbmRleC9pbnRlcm5zP2JyYW5kQ29kZT0xIiwiaW5kZXgiOjMsImVudHJhbmNlVHlwZSI6MX0=) | 2023/4/13 |      |                                          |
 | 七牛云       | [暑期实习](https://campus.qiniu.com/campus-recruitment/qiniuyun/73989#/)                                                                                                                                                                                                                                                 | 2023/2/27 |      |                                          |
-| 浪潮集团     | [日常实习](https://inspur.hcmcloud.cn/recruit#/portal_job_list?job_class=intern)                                                                                                                                                                                                                                         | 2023/3/6  |      |                                          |
+| 浪潮集团     | [日常实习](https://inspur.hcmcloud.cn/recruit#/portal_job_list?job_class=intern) [暑期实习](https://wx64310b3064348282.hcmcloud.cn/recruit#/campus?id=2783&type=intern)                                                                                                                                                      | 2023/3/6  |      |                                          |
 | 奇安信       | [暑期实习](https://campus.qianxin.com/campus/intern)                                                                                                                                                                                                                                                                     | 2023/2/27 |      |                                          |
 | 深信服       | [日常实习](https://hr.sangfor.com/campucompon/schoolRecruitment/trainee)                                                                                                                                                                                                                                                 | 2023/2/27 |      |                                          |
 | 东软     | [日常实习](https://neusoft-campus.zhiye.com/intern/jobs)                                                                                                                                                                   | 2023/3/12 |      |                                        |
