@@ -124,7 +124,7 @@
 | 邮储         | [暑期实习](https://psbckj2023.zhaopin.com/trainee.html)      | 2023/3/10 |      |                                          |
 | 数禾科技     | [暑期实习](https://shuhezhaopin.zhiye.com/intern)            | 2023/3/11 |      |                                          |
 | 金证科技     | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D) | 2023/3/11 |      |                                          |
-| 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) | 2023/3/11 |      |                                          |
+| 东方财富     | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) [暑期实习](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/jobs?zhineng=131962) | 2023/3/11 |      |                                          |
 | 中国平安     | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
 | 龙湖地产     | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
 | 文华财经     | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
