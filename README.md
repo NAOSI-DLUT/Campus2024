@@ -58,6 +58,7 @@
 | 吉比特&雷霆游戏 | [暑期实习](https://hr.g-bits.com/web/index.html#/post-web/post-list/) | 2023/3/7  | 厦门 |      |
 | 昆仑万维        | [日常实习](https://app.mokahr.com/campus-recruitment/klww/67963#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |      |
 | 掌趣科技        | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) | 2023/3/12 |      |      |
+| 搜狐畅游        | [暑期实习](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/jobs?zhineng=76133) | 2023/4/16 |      |      |
 
 ### 外企
 
@@ -91,7 +92,7 @@
 | vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/20 |      |                          |
 | oppo     | [暑期实习](https://careers.oppo.com/campus/post/home)        | 2023/3/20 |      |                          |
 | 荣耀     | 暂未开启                                                     | 2023/3/14 |      |                          |
-| 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) | 2023/2/27 |      |                          |
+| 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?positionTypeSubsets=2211%2C2207%2C2205%2C2204%2C2208%2C2202%2C2210%2C2209&positionTypes=22&year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&studentTypes=2&postName=&company=&location=) | 2023/4/16 |      |                          |
 | 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/) [暑期实习](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7064801635210479883&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=PC7D5DW) | 2023/3/27 |      |                          |
 | 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |                          |
 | 比亚迪   | 暂未开放                                                     | 2023/3/1  |      |                          |
@@ -142,6 +143,7 @@
 | 招联         | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/10 |      |                                          |
 | 中国电子云   | [暑期实习](https://campus.cestc.cn/campus_apply/cestc/7509/#/jobs?commitment=%E5%AE%9E%E4%B9%A0&location=%E5%8C%97%E4%BA%AC%E5%B8%82) | 2023/4/10 |      |                                          |
 | 工银瑞信     | [暑期实习](https://wecruit.hotjob.cn/SU606fe7290dcad451044ebdc7/mc/position/campus) | 2023/4/13 |      |                                          |
+| 兴业证券     | [暑期实习](https://www.hotjob.cn/wt/xyzq/mobweb/v8/position/list?openid=oifBit-JrhfLhsKsVb6ZGcRp63is&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/4/16 |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
@@ -157,6 +159,7 @@
 | 雅诗兰黛  | [暑期实习](http://campus.51job.com/elccampusrecruitment/talent.html) | 2023/4/7  |      |              |
 | 海尔      | [暑期实习](http://maker.haier.net/client/practice/jobs.html) | 2023/4/10 |      |              |
 | 台积电    | [暑期实习](https://wecruit.hotjob.cn/SU61075bbabef57c43d825d671/mc/position/intern?projectCode=100301&channelId=630349800dcad45aa773d63c&showProjectBanner=true) | 2023/4/11 |      |              |
+| 捷氢科技  | [暑期实习](https://shpt.m.zhiye.com/#/jobs?jc=3&shareid=cc6d8733-c452-4ff4-976f-d333ebe77103&token=456d5e7ac1bf3ee15ac589da3b0ebef) | 2023/4/16 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
