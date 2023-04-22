@@ -146,6 +146,7 @@
 | 工银瑞信     | [暑期实习](https://wecruit.hotjob.cn/SU606fe7290dcad451044ebdc7/mc/position/campus) | 2023/4/13 |      |                                          |
 | 兴业证券     | [暑期实习](https://www.hotjob.cn/wt/xyzq/mobweb/v8/position/list?openid=oifBit-JrhfLhsKsVb6ZGcRp63is&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/4/16 |      |                                          |
 | 中证信用     | [暑期实习](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/interns.html) | 2023/4/21 |      |                                          |
+| 长江证券     | [暑期实习](https://cjzq.zhiye.com/jobs?activityGuid=8fb4149f-8006-42fb-a9c6-b83e34b2eb09) | 2023/4/22 |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
