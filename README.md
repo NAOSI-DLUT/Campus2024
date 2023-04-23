@@ -111,6 +111,8 @@
 | 文远知行 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/page/%E5%AE%9E%E4%B9%A0%E6%8B%9B%E8%81%98) | 2023/4/10 |      |                          |
 | 新大陆   | [暑期实习](https://nlscan.zhiye.com/Intern)                  | 2023/4/13 |      |                          |
 | 五菱     | [暑期实习](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/interns.html) | 2023/4/21 |      |                          |
+| 智加科技 | [暑期实习](https://app.mokahr.com/social-recruitment/plus/73958#/) | 2023/4/23 |      |                          |
+| 长安福特 | [暑期实习](http://campus.51job.com/caf2023trainee/)          | 2023/4/23 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -147,6 +149,8 @@
 | 兴业证券     | [暑期实习](https://www.hotjob.cn/wt/xyzq/mobweb/v8/position/list?openid=oifBit-JrhfLhsKsVb6ZGcRp63is&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/4/16 |      |                                          |
 | 中证信用     | [暑期实习](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/interns.html) | 2023/4/21 |      |                                          |
 | 长江证券     | [暑期实习](https://cjzq.zhiye.com/jobs?activityGuid=8fb4149f-8006-42fb-a9c6-b83e34b2eb09) | 2023/4/22 |      |                                          |
+| 中冶赛迪     | [暑期实习](http://hr.cisdi.com.cn/job.php)                   | 2023/4/23 |      |                                          |
+| 宁银理财     | [暑期实习](https://mp.weixin.qq.com/s/J_HnDAYdiMv-NSjTkn_eXQ) | 2023/4/23 |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
@@ -166,6 +170,7 @@
 | 良品铺子  | [暑期实习](https://lppz.zhiye.com/intern/jobs)               | 2023/4/17 |      |              |
 | 飞腾      | [暑期实习](https://www.wjx.top/vm/OtY5kGP.aspx)              | 2023/4/17 |      |              |
 | 海信      | [暑期实习](http://hisense.zhiye.com/sxs)                     | 2023/4/21 |      |              |
+| 韶音      | [暑期实习](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/4/23 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -183,6 +188,7 @@
 | 思特奇 | [暑期实习](http://zhaopin.si-tech.com.cn/outside/page/mis_system/login_Official.raq?ctrl-opentype=blank) | 2023/4/8 |  | |
 | smartX | [暑期实习](https://www.smartx.com/campus/) | 2023/4/10 | | |
 | CVTE | [暑期实习](https://campus.cvte.com/project/8cdab3f0a68511edb9ffb6421ac0f6d3) | 2023/4/10 | | |
+| 亿咖通科技 | [暑期实习](https://app.mokahr.com/campus_apply/ecarx/43042?sourceToken=5de29961deb1730d1b25feb14208dee5#/) | 2023/4/23 | | |
 
 ## 秋招篇
 
