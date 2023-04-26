@@ -69,7 +69,7 @@
 | 三星           | [实习生](https://dearsamsung.zhiye.com/intern?p=1^-1,3^-1&c=-1&unit_val=-1#zw) | 2023/3/14 |      |                          |
 | 谷歌           | [实习生](https://careers.google.com/jobs/results/?company=Fitbit&company=GFiber&company=Google&company=YouTube&company=Loon&company=Verily%20Life%20Sciences&company=Waymo&company=Wing&company=X&distance=50&employment_type=INTERN&hl=zh_CN&jld=10&location=Beijing,%20Beijing,%20China) | 2023/3/14 |      | 疑似申请截止时间已经过了 |
 | 微软           | 暂未开启                                                     | 2023/3/14 |      |                          |
-| 特斯拉         | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/jobs?zhineng=51956&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/11 |      |                          |
+| 特斯拉         | [暑期实习](https://app.mokahr.com/campus-recruitment/tesla/91939#/) | 2023/4/26 |      |                          |
 | shein          | [暑期实习](https://app.mokahr.com/campus_apply/shein/2932#/jobs) | 2023/3/11 |      |                          |
 | 虾皮           | [暑期实习](https://careers.shopee.cn/jobs?region_id=6)       | 2023/3/12 |      |                          |
 | Paypal         | [暑期实习](https://www.moseeker.com/positions/index/cid/479?candidateSource=1) | 2023/3/17 |      | 双语简历 3.29截止投递    |
@@ -171,6 +171,8 @@
 | 飞腾      | [暑期实习](https://www.wjx.top/vm/OtY5kGP.aspx)              | 2023/4/17 |      |              |
 | 海信      | [暑期实习](http://hisense.zhiye.com/sxs)                     | 2023/4/21 |      |              |
 | 韶音      | [暑期实习](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/4/23 |      |              |
+| 万华化学  | [暑期实习](https://www.whchem.com/column/159/)               | 2023/4/26 |      |              |
+| 经纬恒润  | [暑期实习](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/interns.html) | 2023/4/26 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
