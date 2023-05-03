@@ -104,7 +104,7 @@
 | 大疆     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                          |
 | 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                          |
 | 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                          |
-| 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/3/13 |      |                          |
+| 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) [暑期实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/5/3  |      |                          |
 | momenta  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
 | 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
 | 荣耀     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
@@ -113,6 +113,7 @@
 | 五菱     | [暑期实习](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/interns.html) | 2023/4/21 |      |                          |
 | 智加科技 | [暑期实习](https://app.mokahr.com/social-recruitment/plus/73958#/) | 2023/4/23 |      |                          |
 | 长安福特 | [暑期实习](http://campus.51job.com/caf2023trainee/)          | 2023/4/23 |      |                          |
+| 广汽传祺 | [暑期实习](https://sc.hotjob.cn/wt/GACMOTOR/web/index/webPositionN310!getOnePosition?postId=309601&recruitType=12&brandCode=1&importPost=0&columnId=12) | 2023/5/3  |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
