@@ -151,6 +151,7 @@
 | 长江证券     | [暑期实习](https://cjzq.zhiye.com/jobs?activityGuid=8fb4149f-8006-42fb-a9c6-b83e34b2eb09) | 2023/4/22 |      |                                          |
 | 中冶赛迪     | [暑期实习](http://hr.cisdi.com.cn/job.php)                   | 2023/4/23 |      |                                          |
 | 宁银理财     | [暑期实习](https://mp.weixin.qq.com/s/J_HnDAYdiMv-NSjTkn_eXQ) | 2023/4/23 |      |                                          |
+| 兴业银行     | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) | 2023/5/3  |      |                                          |
 
 ### 制造业&&嵌入式&&其他
 
@@ -173,6 +174,7 @@
 | 韶音      | [暑期实习](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/jobs?commitment=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/4/23 |      |              |
 | 万华化学  | [暑期实习](https://www.whchem.com/column/159/)               | 2023/4/26 |      |              |
 | 经纬恒润  | [暑期实习](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/interns.html) | 2023/4/26 |      |              |
+| 海康威视  | [暑期实习](https://campushr.hikvision.com/school?schoolType=nozxf) | 2023/5/3  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
