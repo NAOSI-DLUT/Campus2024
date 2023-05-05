@@ -13,7 +13,7 @@
 | 网易     | [雷火精英实习生](https://leihuo.163.com/campus/#/research?channel=EiCweVfK)  [日常实习](https://hr.163.com/job-list.html?workType=1) [暑期实习](https://hr.163.com/active.html) | 2023/3/30 |      | 笔面试4月陆续开启 |
 | 京东     | [日常实习](https://zhaopin.jd.com/web/job/trainee_job_info_list/5?time=1675865634536) [暑期实习](https://campus.jd.com/home#/jobs?selProjects=38) | 2023/3/6  |      |                   |
 | 腾讯     | [日常实习](https://join.qq.com/post.html?pid=2&amp;query=2_75%2C2_76%2C2_77%2C2_84%2C2_93%2C2_231%2Cp_2&time=1675865633560&query=p_2) [2023实习生](https://join.qq.com/post.html?query=2_75,2_76,2_77,2_84,2_93,2_231,p_2) | 2023/3/2  |      |                   |
-| 百度     | [暑期实习](https://talent.baidu.com/jobs/list?time=1675865632521) | 2023/2/28 |      |                   |
+| 百度     | [暑期实习](https://talent.baidu.com/jobs/list?time=1675865632521) [AIDU](https://talent.baidu.com/jobs/list) | 2023/2/28 |      |                   |
 | 快手     | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 2023/3/17 |      | 更新投递链接 |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |                   |
 | 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |                   |
@@ -153,8 +153,10 @@
 | 中冶赛迪     | [暑期实习](http://hr.cisdi.com.cn/job.php)                   | 2023/4/23 |      |                                          |
 | 宁银理财     | [暑期实习](https://mp.weixin.qq.com/s/J_HnDAYdiMv-NSjTkn_eXQ) | 2023/4/23 |      |                                          |
 | 兴业银行     | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) | 2023/5/3  |      |                                          |
+| 国金证券     | [暑期实习](http://career.gjzq.com.cn/campus?r=&p=3^-1&c=&d=-1&k=#jlt) | 2023/5/5  |      |                                          |
+| 中国外贸信托 | [暑期实习](https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/5/5  |      |                                          |
 
-### 制造业&&嵌入式&&其他
+### 制造业&&嵌入式&&研究所&&其他
 
 | 公司      | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | --------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
@@ -176,6 +178,9 @@
 | 万华化学  | [暑期实习](https://www.whchem.com/column/159/)               | 2023/4/26 |      |              |
 | 经纬恒润  | [暑期实习](https://wecruit.hotjob.cn/SU62a93e760dcad45229a827cc/pb/interns.html) | 2023/4/26 |      |              |
 | 海康威视  | [暑期实习](https://campushr.hikvision.com/school?schoolType=nozxf) | 2023/5/3  |      |              |
+| 格力      | [暑期实习](https://www.wjx.top/vm/etAbO0U.aspx)              | 2023/5/5  |      |              |
+| 航天一院  | [暑期实习](https://calt.m.zhiye.com/#/jobs?jc=2)             | 2023/5/5  |      |              |
+| 小天才    | [暑期实习](https://app.mokahr.com/campus-recruitment/eebbk/37594#/jobs?project=100050186) | 2023/5/5  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -232,7 +237,7 @@
 | 中欧基金 | [提前批](http://zofund.zhiye.com/)                           | 2023/4/21 |      |              |
 
 
-### 制造业&&嵌入式&&其他
+### 制造业&&嵌入式&&研究所&&其他
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
