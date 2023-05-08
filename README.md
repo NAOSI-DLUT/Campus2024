@@ -83,6 +83,7 @@
 | 西门子         | [暑期实习](https://jobs.siemens.com.cn/siemens/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2023/4/10 |      |                          |
 | 陶氏公司       | [暑期实习](http://campus.51job.com/Dow2024/job.html)         | 2023/4/21 |      |                          |
 | Unity中国      | [暑期实习](https://wecruit.hotjob.cn/SU62e8e7102f9d2406f52259ce/mc/position/campus?t=1660747634993) | 2023/5/8  |      |                          |
+| 博世中国       | [暑期实习](https://app.mokahr.com/campus-recruitment/bosch/75909?previewKey=baff66c17d3242258454126a050b31fa4e89696edea6493c873d7976577a7fac#/jobs) | 2023/5/8  |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
