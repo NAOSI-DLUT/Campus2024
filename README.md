@@ -118,6 +118,7 @@
 | 广汽传祺 | [暑期实习](https://sc.hotjob.cn/wt/GACMOTOR/web/index/webPositionN310!getOnePosition?postId=309601&recruitType=12&brandCode=1&importPost=0&columnId=12) | 2023/5/3  |      |                          |
 | 上汽大通 | [暑期实习](https://smcv.m.zhiye.com/#/jobs?jc=3)             | 2023/5/8  |      |                          |
 | 北京移动 | [暑期实习](http://campus.51job.com/bjydyyjh2023/index1.html) | 2023/5/8  |      |                          |
+| 沃尔沃   | [暑期实习](https://app.mokahr.com/social-recruitment/volvocars/67891#/) | 2023/5/9  |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -187,6 +188,8 @@
 | 航天一院  | [暑期实习](https://calt.m.zhiye.com/#/jobs?jc=2)             | 2023/5/5  |      |              |
 | 小天才    | [暑期实习](https://app.mokahr.com/campus-recruitment/eebbk/37594#/jobs?project=100050186) | 2023/5/5  |      |              |
 | 华勤技术  | [暑期实习](https://app.mokahr.com/campus-recruitment/hq/45417#/jobs) | 2023/5/8  |      |              |
+| 新华三    | [暑期实习](https://career.h3c.com/h3c/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2023/5/9  |      |              |
+| 海天集团  | [暑期实习](https://haitian.zhiye.com/intern/jobs)            | 2023/5/9  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
