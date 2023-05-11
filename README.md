@@ -161,6 +161,7 @@
 | 国金证券     | [暑期实习](http://career.gjzq.com.cn/campus?r=&p=3^-1&c=&d=-1&k=#jlt) | 2023/5/5  |      |                                          |
 | 中国外贸信托 | [暑期实习](https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/5/5  |      |                                          |
 | 建发集团     | [暑期实习](https://chinacdc.m.zhiye.com/2021/sxsindex.htmlhttps://chinacdc.m.zhiye.com/2021/sxsindex.html) | 2023/5/8  |      |                                          |
+| 永赢金租     | [暑期实习](https://maxwealthflhr.nbcb.com.cn/#/internship-recruitment) | 2023/5/11 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -208,6 +209,7 @@
 | smartX | [暑期实习](https://www.smartx.com/campus/) | 2023/4/10 | | |
 | CVTE | [暑期实习](https://campus.cvte.com/project/8cdab3f0a68511edb9ffb6421ac0f6d3) | 2023/4/10 | | |
 | 亿咖通科技 | [暑期实习](https://app.mokahr.com/campus_apply/ecarx/43042?sourceToken=5de29961deb1730d1b25feb14208dee5#/) | 2023/4/23 | | |
+| 中控信息 | [暑期实习](https://app.mokahr.com/campus-recruitment/zkxx/72098#/) | 2023/5/11 | | |
 
 ## 秋招篇
 
@@ -237,7 +239,7 @@
 | ---- | ------------------ | -------- | ---- | ---- |
 |      |                    |          |      |      |
 
-### 银行&&保险&&金融&&地产
+### 银行&&保险&&金融&&地产&&国企
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
@@ -245,6 +247,7 @@
 | 南方基金 | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
 | 中欧基金 | [提前批](http://zofund.zhiye.com/)                           | 2023/4/21 |      |              |
 | 长江证券 | [提前批](https://cjzq.zhiye.com/campus)                      | 2023/5/8  |      |              |
+| 国电南自 | [提前批](http://campus.51job.com/SAC/campus1)                | 2023/5/11 |      |              |
 
 
 ### 制造业&&嵌入式&&研究所&&其他
