@@ -120,6 +120,8 @@
 | 上汽大通 | [暑期实习](https://smcv.m.zhiye.com/#/jobs?jc=3)             | 2023/5/8  |      |                          |
 | 北京移动 | [暑期实习](http://campus.51job.com/bjydyyjh2023/index1.html) | 2023/5/8  |      |                          |
 | 沃尔沃   | [暑期实习](https://app.mokahr.com/social-recruitment/volvocars/67891#/) | 2023/5/9  |      |                          |
+| 山东联通 | [暑期实习](https://special.zhaopin.com/2022/sh/zglh092820/job1.html) | 2023/5/19 |      |                          |
+| 福建移动 | [暑期实习](https://cmccfj.zhaopin.com/job-sc.html)           | 2023/5/19 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -165,6 +167,9 @@
 | 永赢金租     | [暑期实习](https://maxwealthflhr.nbcb.com.cn/#/internship-recruitment) | 2023/5/11 |      |                                          |
 | 苏州银行     | [暑期实习](http://hr.suzhoubank.com/zpweb/bulletinEdit.do?actPara=findBulletin&bulletinId=OGE4ZmM1NWU4NDkxMTU0NDAxODgwZjI4ZWU2OTNkOTE=&csrftoken=YTk0YzNmMWI=) | 2023/5/16 |      |                                          |
 | 景顺长城基金 | [暑期实习](https://invescogreatwall.zhiye.com/campus/?p=1%5E-1&PageIndex=1) | 2023/5/16 |      |                                          |
+| 中国光大银行 | [暑期实习](https://campus.51job.com/cebbank/intern.html)     | 2023/5/19 |      |                                          |
+| 南银理财     | [暑期实习](https://job.njcb.com.cn/#/index/notic/details?id=293&tableName=notic&q=activity) | 2023/5/19 |      |                                          |
+| 国贸股份     | [暑期实习](https://itgholding.m.zhiye.com/subjoblist.html?jc=3&ky=&pi=1&ps=10&c1=1_14&c2=3_24&c=&key=gmgf&job=intern) | 2023/5/19 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -201,6 +206,7 @@
 | 歌尔股份         | [暑期实习](https://www.hotjob.cn/wt/GoerTek/mobweb/v8/position/list?openid=oMoJ7xLqOXUw3YyLLRKUzAkygK7c&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/5/16 |      |              |
 | 中国建筑国际集团 | [暑期实习](https://csci.zhiye.com/intern/jobs)               | 2023/5/16 |      |              |
 | 三棵树           | [暑期实习](https://wecruit.hotjob.cn/SU6173b0982f9d247cb9737459/pb/posDetail.html?postId=62fe09d82f9d2421b9846c7e&postType=intern) | 2023/5/16 |      |              |
+| 电子五所         | [暑期实习](https://www.ceprei.com/contents/13/18733.html)    | 2023/5/19 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
