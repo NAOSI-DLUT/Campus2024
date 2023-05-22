@@ -122,6 +122,7 @@
 | 沃尔沃   | [暑期实习](https://app.mokahr.com/social-recruitment/volvocars/67891#/) | 2023/5/9  |      |                          |
 | 山东联通 | [暑期实习](https://special.zhaopin.com/2022/sh/zglh092820/job1.html) | 2023/5/19 |      |                          |
 | 福建移动 | [暑期实习](https://cmccfj.zhaopin.com/job-sc.html)           | 2023/5/19 |      |                          |
+| 中汽数据 | [暑期实习](http://www.catarc.info/studentInfo/adc-da-ui/html/positionIndex_school.html) | 2023/5/22 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -172,6 +173,8 @@
 | 国贸股份       | [暑期实习](https://itgholding.m.zhiye.com/subjoblist.html?jc=3&ky=&pi=1&ps=10&c1=1_14&c2=3_24&c=&key=gmgf&job=intern) | 2023/5/19 |      |                                          |
 | 邮储浙江分行   | [暑期实习](https://special.zhaopin.com/campus/2023/sh/zgyz051758/sxszp.html) | 2023/5/20 |      |                                          |
 | 中金所技术公司 | [暑期实习](https://cffexit.m.zhiye.com/#/jobs?jc=3&shareid=21e05b2c-6963-4f78-b312-98fce3996e57&token=7e5cbee1f3e51c14359ec8a72ddee2a1) | 2023/5/20 |      |                                          |
+| 招银理财       | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&back=1) | 2023/5/22 |      |                                          |
+| 华侨永享银行   | [暑期实习](http://campus.51job.com/OCBC/talent1.html)        | 2023/5/22 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -209,6 +212,9 @@
 | 中国建筑国际集团 | [暑期实习](https://csci.zhiye.com/intern/jobs)               | 2023/5/16 |      |              |
 | 三棵树           | [暑期实习](https://wecruit.hotjob.cn/SU6173b0982f9d247cb9737459/pb/posDetail.html?postId=62fe09d82f9d2421b9846c7e&postType=intern) | 2023/5/16 |      |              |
 | 电子五所         | [暑期实习](https://www.ceprei.com/contents/13/18733.html)    | 2023/5/19 |      |              |
+| 海格通信         | [暑期实习](https://haige.zhiye.com/intern/detail?jobAdId=2d37afe4-4782-4ffb-9286-3dd9cfe70512) | 2023/5/22 |      |              |
+| 安谋科技         | [暑期实习](https://app.mokahr.com/campus_apply/armchina/68023#/jobs?page=1&anchorName=jobsList) | 2023/5/22 |      |              |
+| 北方华创         | [暑期实习](https://career.naura.com/campus/jobs)             | 2023/5/22 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -230,6 +236,7 @@
 | 中控信息 | [暑期实习](https://app.mokahr.com/campus-recruitment/zkxx/72098#/) | 2023/5/11 | | |
 | 安恒信息 | [暑期实习](https://wecruit.hotjob.cn/SU62650e8f0dcad47b9fd440db/mc/position/intern?t=1674961302650) | 2023/5/16 | | |
 | 中电福富 | [暑期实习](http://zhaopin.ffcs.cn:6688/recruitment/frontend-client/index.html#/resumer-list?rid=2) | 2023/5/16 | | |
+| 保融科技 | [暑期实习](https://campus.fingard.com/campus_apply/baorong/25901/#/) | 2023/5/22 | | |
 
 ## 秋招篇
 
