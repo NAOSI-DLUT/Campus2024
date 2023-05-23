@@ -16,7 +16,7 @@
 | 百度     | [暑期实习](https://talent.baidu.com/jobs/list?time=1675865632521) [AIDU](https://talent.baidu.com/jobs/list) | 2023/2/28 |      |                   |
 | 快手     | [暑期实习](https://campus.kuaishou.cn/#/campus/index) | 2023/3/17 |      | 更新投递链接 |
 | 携程     | [暑期实习](https://campus.ctrip.com/campus-recruitment/trip/37757/#/page/%E6%A0%A1%E6%8B%9B%E9%A1%B9%E7%9B%AE) | 2023/2/27 |      |                   |
-| 滴滴     | [暑期实习](https://app.mokahr.com/apply/didiglobal/6222#/)   | 2023/3/1  |      |                   |
+| 滴滴     | [日常实习](https://app.mokahr.com/apply/didiglobal/6222#/) [秋储实习](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs?zhineng%5B0%5D=69052&page=1&anchorName=jobsList&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0) | 2023/5/22 |      |                   |
 | 哔哩哔哩 | [日常实习](https://jobs.bilibili.com/campus/positions?type=0) | 2023/3/1  |      |                   |
 | 字节跳动 | [日常实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) [转正实习](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&type=3&job_hot_flag=) | 2023/3/9  |      |                   |
 | 阿里巴巴 | [项目制实习](https://talent.alibaba.com/campus/position-list?campusType=talentPlan&lang=zh) [暑期实习](https://talent.alibaba.com/campus/position-list?campusType=internship&lang=zh) | 2023/3/8  |      |                   |
