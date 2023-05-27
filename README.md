@@ -88,41 +88,46 @@
 
 ### 机厂&&通信&&车厂&&IC
 
-| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
-| -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
-| 小米     | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) [暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=6AA3R7B) | 2023/4/25 |      |                          |
-| 华为     | [勇敢星实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/3/15 |      | 似乎与之前的日常是一样的 |
-| 中兴     | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                          |
-| vivo     | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/20 |      |                          |
-| oppo     | [暑期实习](https://careers.oppo.com/campus/post/home)        | 2023/3/20 |      |                          |
-| 吉利     | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?positionTypeSubsets=2211%2C2207%2C2205%2C2204%2C2208%2C2202%2C2210%2C2209&positionTypes=22&year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&studentTypes=2&postName=&company=&location=) | 2023/4/16 |      |                          |
-| 蔚来     | [日常实习](https://nio.jobs.feishu.cn/intern/position/) [暑期实习](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7064801635210479883&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=PC7D5DW) | 2023/3/27 |      |                          |
-| 华晨宝马 | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |                          |
-| 比亚迪   | 暂未开放                                                     | 2023/3/1  |      |                          |
-| 小鹏     | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                          |
-| 地平线   | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                          |
-| 宁德时代 | [日常实习](http://catl.zhaopin.com/job.html) [暑期实习](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/jobs) | 2023/4/21 |      |                          |
-| 联想     | [暑期实习](https://talent.lenovo.com.cn/position?projectType=2) | 2023/3/16 |      |                          |
-| 理想     | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |      |                          |
-| 大疆     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                          |
-| 图森未来 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                          |
-| 中国联通 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                          |
-| 中国电信 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) [暑期实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/5/3  |      |                          |
-| momenta  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
-| 联发科技 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
-| 荣耀     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
-| 文远知行 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/page/%E5%AE%9E%E4%B9%A0%E6%8B%9B%E8%81%98) | 2023/4/10 |      |                          |
-| 新大陆   | [暑期实习](https://nlscan.zhiye.com/Intern)                  | 2023/4/13 |      |                          |
-| 五菱     | [暑期实习](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/interns.html) | 2023/4/21 |      |                          |
-| 智加科技 | [暑期实习](https://app.mokahr.com/social-recruitment/plus/73958#/) | 2023/4/23 |      |                          |
-| 长安福特 | [暑期实习](http://campus.51job.com/caf2023trainee/)          | 2023/4/23 |      |                          |
-| 广汽传祺 | [暑期实习](https://sc.hotjob.cn/wt/GACMOTOR/web/index/webPositionN310!getOnePosition?postId=309601&recruitType=12&brandCode=1&importPost=0&columnId=12) | 2023/5/3  |      |                          |
-| 上汽大通 | [暑期实习](https://smcv.m.zhiye.com/#/jobs?jc=3)             | 2023/5/8  |      |                          |
-| 北京移动 | [暑期实习](http://campus.51job.com/bjydyyjh2023/index1.html) | 2023/5/8  |      |                          |
-| 沃尔沃   | [暑期实习](https://app.mokahr.com/social-recruitment/volvocars/67891#/) | 2023/5/9  |      |                          |
-| 山东联通 | [暑期实习](https://special.zhaopin.com/2022/sh/zglh092820/job1.html) | 2023/5/19 |      |                          |
-| 福建移动 | [暑期实习](https://cmccfj.zhaopin.com/job-sc.html)           | 2023/5/19 |      |                          |
-| 中汽数据 | [暑期实习](http://www.catarc.info/studentInfo/adc-da-ui/html/positionIndex_school.html) | 2023/5/22 |      |                          |
+| 公司                 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                     |
+| -------------------- | ------------------------------------------------------------ | --------- | ---- | ------------------------ |
+| 小米                 | [日常实习](https://xiaomi.jobs.f.mioffice.cn/internship/?spread=6AA3R7B) [暑期实习](https://xiaomi.jobs.f.mioffice.cn/internship/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=6AA3R7B) | 2023/4/25 |      |                          |
+| 华为                 | [勇敢星实习](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html?jobTypes=0#jobList) | 2023/3/15 |      | 似乎与之前的日常是一样的 |
+| 中兴                 | [日常实习](https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100010504&zhineng=72363&page=1) | 2023/2/27 |      |                          |
+| vivo                 | [日常实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) [暑期实习](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=12&showComp=true) | 2023/3/20 |      |                          |
+| oppo                 | [暑期实习](https://careers.oppo.com/campus/post/home)        | 2023/3/20 |      |                          |
+| 吉利                 | [日常实习](https://campus.geely.com/hcm-web/#/jobs/school?studentTypes=2) [暑期实习](https://campus.geely.com/hcm-web/#/jobs/school?positionTypeSubsets=2211%2C2207%2C2205%2C2204%2C2208%2C2202%2C2210%2C2209&positionTypes=22&year=2024%E5%B1%8A%E5%AE%9E%E4%B9%A0%E7%94%9F&studentTypes=2&postName=&company=&location=) | 2023/4/16 |      |                          |
+| 蔚来                 | [日常实习](https://nio.jobs.feishu.cn/intern/position/) [暑期实习](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7064801635210479883&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=PC7D5DW) | 2023/3/27 |      |                          |
+| 华晨宝马             | [日常实习](http://www.bmw-brilliance.cn/cn/zh/career/future-talent-program/index.html) | 2023/2/27 |      |                          |
+| 比亚迪               | 暂未开放                                                     | 2023/3/1  |      |                          |
+| 小鹏                 | [日常实习](https://campus.xiaopeng.com/campus_apply/xiaopeng/22/#/jobs?zhineng=20607) | 2023/3/10 |      |                          |
+| 地平线               | [暑期实习](https://wecruit.hotjob.cn/SU62d914f10dcad43c775ec125/pb/school.html) | 2023/3/11 |      |                          |
+| 宁德时代             | [日常实习](http://catl.zhaopin.com/job.html) [暑期实习](https://app.mokahr.com/campus-recruitment/catlhr/92133?previewKey=458840a74cf24a97abdc9b2a9bb694ae2ac4e233b95e4e389e7b85a41563a2de#/jobs) | 2023/4/21 |      |                          |
+| 联想                 | [暑期实习](https://talent.lenovo.com.cn/position?projectType=2) | 2023/3/16 |      |                          |
+| 理想                 | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |      |                          |
+| 大疆                 | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                          |
+| 图森未来             | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                          |
+| 中国联通             | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                          |
+| 中国电信             | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) [暑期实习](http://campus.51job.com/chinatelecom2023/intern.html) | 2023/5/3  |      |                          |
+| momenta              | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
+| 联发科技             | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
+| 荣耀                 | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
+| 文远知行             | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/page/%E5%AE%9E%E4%B9%A0%E6%8B%9B%E8%81%98) | 2023/4/10 |      |                          |
+| 新大陆               | [暑期实习](https://nlscan.zhiye.com/Intern)                  | 2023/4/13 |      |                          |
+| 五菱                 | [暑期实习](https://wecruit.hotjob.cn/SU611bbe3c2f9d24229e014abb/pb/interns.html) | 2023/4/21 |      |                          |
+| 智加科技             | [暑期实习](https://app.mokahr.com/social-recruitment/plus/73958#/) | 2023/4/23 |      |                          |
+| 长安福特             | [暑期实习](http://campus.51job.com/caf2023trainee/)          | 2023/4/23 |      |                          |
+| 广汽传祺             | [暑期实习](https://sc.hotjob.cn/wt/GACMOTOR/web/index/webPositionN310!getOnePosition?postId=309601&recruitType=12&brandCode=1&importPost=0&columnId=12) | 2023/5/3  |      |                          |
+| 上汽大通             | [暑期实习](https://smcv.m.zhiye.com/#/jobs?jc=3)             | 2023/5/8  |      |                          |
+| 北京移动             | [暑期实习](http://campus.51job.com/bjydyyjh2023/index1.html) | 2023/5/8  |      |                          |
+| 沃尔沃               | [暑期实习](https://app.mokahr.com/social-recruitment/volvocars/67891#/) | 2023/5/9  |      |                          |
+| 山东联通             | [暑期实习](https://special.zhaopin.com/2022/sh/zglh092820/job1.html) | 2023/5/19 |      |                          |
+| 福建移动             | [暑期实习](https://cmccfj.zhaopin.com/job-sc.html)           | 2023/5/19 |      |                          |
+| 中汽数据             | [暑期实习](http://www.catarc.info/studentInfo/adc-da-ui/html/positionIndex_school.html) | 2023/5/22 |      |                          |
+| 中国移动信息技术中心 | [暑期实习](https://bigdata.10086.cn//honghu/hhweb/#/publicity/2023intern) | 2023/5/24 |      |                          |
+| 北京奔驰             | [暑期实习](https://careersite.tupu360.com/bbac/position/index?recruitmentType=INTERNSHIPRECRUITMENT) | 2023/5/27 |      |                          |
+| 联通数科             | [暑期实习](https://cudt.zhiye.com/intern)                    | 2023/5/27 |      |                          |
+| 中移动金融科技       | [暑期实习](http://zyjk2022campus.zhaopin.com/trainee.html)   | 2023/5/27 |      |                          |
+| 东风日产             | [暑期实习](https://dongfengnissan.m.zhiye.com/#/jobdetail?id=510802549&jc=3&isReward=false) | 2023/5/27 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -175,6 +180,13 @@
 | 中金所技术公司 | [暑期实习](https://cffexit.m.zhiye.com/#/jobs?jc=3&shareid=21e05b2c-6963-4f78-b312-98fce3996e57&token=7e5cbee1f3e51c14359ec8a72ddee2a1) | 2023/5/20 |      |                                          |
 | 招银理财       | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&back=1) | 2023/5/22 |      |                                          |
 | 华侨永享银行   | [暑期实习](http://campus.51job.com/OCBC/talent1.html)        | 2023/5/22 |      |                                          |
+| 中国人寿       | [暑期实习](https://www.hotjob.cn/wt/chinalife/mobweb/v8/position/list?openid=oo3tm0oSbK6GyMcMKrlrVMSf_Wzg&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/5/27 |      |                                          |
+| 中邮理财       | [暑期实习](https://zylcsx2023.zhaopin.com/)                  | 2023/5/27 |      |                                          |
+| 成都农商银行   | [暑期实习](https://www.cdrcb.com/pin/newsdetail.php?id=157)  | 2023/5/27 |      |                                          |
+| 中国民生银行   | [暑期实习](http://career.cmbc.com.cn:8080/)                  | 2023/5/27 |      |                                          |
+| 上海农商银行   | [暑期实习](https://shrcb.m.zhiye.com/#/jobs?jc=3&shareid=6645ce24-a06d-4d11-b8a5-20432c32eccb&token=c33d18c519b1bd7ab816f888860e0f6) | 2023/5/27 |      |                                          |
+| 中交集团       | [暑期实习](https://ccccltd.m.zhiye.com/new/xzywbk.html)      | 2023/5/27 |      |                                          |
+| 中国银河证券   | [暑期实习](https://chinastock.zhiye.com/custom/dc66c008-572c-beb0-8389-5913cf8fc0b5) | 2023/5/27 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -215,6 +227,9 @@
 | 海格通信         | [暑期实习](https://haige.zhiye.com/intern/detail?jobAdId=2d37afe4-4782-4ffb-9286-3dd9cfe70512) | 2023/5/22 |      |              |
 | 安谋科技         | [暑期实习](https://app.mokahr.com/campus_apply/armchina/68023#/jobs?page=1&anchorName=jobsList) | 2023/5/22 |      |              |
 | 北方华创         | [暑期实习](https://career.naura.com/campus/jobs)             | 2023/5/22 |      |              |
+| 欧普照明         | [暑期实习](https://campus.51job.com/opple/)                  | 2023/5/24 |      |              |
+| 北斗星通         | [暑期实习](https://www.bdstar.com/mobile/talent.aspx?type=31&id=1) | 2023/5/27 |      |              |
+| 天翼物联         | [暑期实习](http://campus.51job.com/2023/tywl/main.html#welfare) | 2023/5/27 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
