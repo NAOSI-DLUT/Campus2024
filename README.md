@@ -2,6 +2,65 @@
 >
 > 欢迎大家来 [Github仓库](https://github.com/NAOSI-DLUT/Campus2024) PR更新最新信息及勘误
 
+## 秋招篇
+
+### 互联网 && AI
+
+| 公司 | 招聘状态&&投递链接                                      | 更新日期  | 地点 | 备注 |
+| ---- | ------------------------------------------------------- | --------- | ---- | ---- |
+| 腾讯 | [技术大咖专场](https://join.qq.com/post.html?query=p_8) | 2023/6/18 |      |      |
+
+
+### 游戏公司
+
+| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
+| ---- | ------------------ | -------- | ---- | ---- |
+|      |                    |          |      |      |
+
+### 外企
+
+| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
+| ---- | ------------------ | -------- | ---- | ---- |
+|      |                    |          |      |      |
+
+
+### 机厂&&通信&&车厂&&IC
+
+| 公司    | 招聘状态&&投递链接                   | 更新日期  | 地点 | 备注 |
+| ------- | ------------------------------------ | --------- | ---- | ---- |
+| TP-LINK | [提前批](https://hr.tp-link.com.cn/) | 2023/5/19 |      |      |
+
+### 银行&&保险&&金融&&地产&&国企
+
+| 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
+| ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 广发证券            | [秋招](https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/school.html) | 2023/6/18 |      |              |
+| 交银金科            | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=7be40107-aff1-48f9-a685-352a54202b88&color=31BE88) [官网秋招](https://www.bocomfintech.com.cn/p1/zxns.html) | 2023/6/18 |      |              |
+| 中国南方航空        | [提前批实习生](https://job.csair.cn/#/shownotice?id=LIMKBUSY001270436380&key=2&type=3) | 2023/6/12 |      |              |
+| 中国铁建 中铁十四局 | [提前批](https://wx26867347995492f9.hcmcloud.cn/recruit#/company_recruit?id=39973) | 2023/6/1  |      |              |
+| 国泰君安            | [秋招](https://hr.gtja.com/recruitment/index/recruit2)       | 2023/6/1  |      |              |
+| 国电南自            | [提前批](http://campus.51job.com/SAC/campus1)                | 2023/5/11 |      |              |
+| 长江证券            | [提前批](https://cjzq.zhiye.com/campus)                      | 2023/5/8  |      |              |
+| 中欧基金            | [提前批](http://zofund.zhiye.com/)                           | 2023/4/21 |      |              |
+| 华泰证券            | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
+| 南方基金            | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
+
+
+### 制造业&&嵌入式&&研究所&&其他
+
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 影石     | [秋招](https://insta360.zhiye.com/Campus)                    | 2023/6/18 |      |      |
+| 宇通集团 | [提前批](https://www.hotjob.cn/wt/yutong/mobweb/v8/position/list?openid=ovWxVt4VF8_Xfec3x8ZkNye4Xak0&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/12 |      |      |
+| 三环集团 | [提前批](https://hr.cctc.cc/school)                          | 2023/6/7  |      |      |
+| 三一集团 | [提前批](http://sanycampus.zhiye.com/campus?k=24%E5%B1%8A&c=&p=&d=&PageIndex=1&class=2&x=1040&n=22) | 2023/4/21 |      |      |
+
+### 安全公司&&软件公司&&云服务
+
+| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
+| ---- | ------------------ | -------- | ---- | ---- |
+|      |                    |          |      |      |
+
 ## 实习篇
 
 ### 互联网 && AI
@@ -45,6 +104,7 @@
 | 金山云 | [暑期实习](https://app.mokahr.com/campus_apply/kingsoft/39364#/jobs?department%5B0%5D=1071408&commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&commitment%5B1%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/4/10 | | |
 | 北森 | [暑期实习](https://beisen.zhiye.com/intern/jobs) | 2023/4/10 | | |
 | 挚文集团 | [暑期实习](https://app.mokahr.com/campus-recruitment/immomo/54299#/) | 2023/5/16 | | |
+| 新浪 | [暑期实习](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?project%5B0%5D=100052244&page=1&anchorName=jobsList) | 2023/6/18 | | |
 
 ### 游戏公司
 
@@ -86,6 +146,7 @@
 | 陶氏公司       | [暑期实习](http://campus.51job.com/Dow2024/job.html)         | 2023/4/21 |      |                          |
 | Unity中国      | [暑期实习](https://wecruit.hotjob.cn/SU62e8e7102f9d2406f52259ce/mc/position/campus?t=1660747634993) | 2023/5/8  |      |                          |
 | 博世中国       | [暑期实习](https://app.mokahr.com/campus-recruitment/bosch/75909?previewKey=baff66c17d3242258454126a050b31fa4e89696edea6493c873d7976577a7fac#/jobs) | 2023/5/8  |      |                          |
+| 拜耳           | [暑期实习](http://campus.51job.com/bayer2024/)               | 2023/6/18 |      |                          |
 
 ### 机厂&&通信&&车厂&&IC
 
@@ -107,8 +168,8 @@
 | 理想                     | [暑期实习](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/3/11 |      |                          |
 | 大疆                     | [日常实习](https://we.dji.com/zh-CN/campus/position?project=intern&from=sec_nav) | 2023/3/11 |      |                          |
 | 图森未来                 | [暑期实习](https://app.mokahr.com/campus_apply/tusenweilai/68335?recommendCode=DSjYxpxw#/jobs?commitment%5B0%5D=%E5%AE%9E%E4%B9%A0&page=1&anchorName=jobsList) | 2023/3/13 |      |                          |
-| 中国联通                 | [日常实习](https://chinaunicom.zhaopin.com/com.html)         | 2023/3/13 |      |                          |
-| 中国电信                 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) [暑期实习](https://hr.gdtel.com.cn/portal/recruit/more/50) | 2023/5/3  |      |                          |
+| 中国联通                 | [日常实习](https://chinaunicom.zhaopin.com/com.html) [暑期实习](http://chinaunicom.zhaopin.com/com11.html) | 2023/6/18 |      |                          |
+| 中国电信                 | [日常实习](http://campus.51job.com/chinatelecom2023/intern.html) [暑期实习](http://campus.51job.com/chinatelecom2023/jobdetail.html?ctmid=4234138&type=1&coid=5393885) | 2023/6/18 |      |                          |
 | momenta                  | [精英实习生](https://momenta.jobs.feishu.cn/intern/?keywords=&category=&location=&project=&type=&job_hot_flag=&current=1&limit=10&functionCategory=) | 2023/3/19 |      |                          |
 | 联发科技                 | [暑期实习](https://mediatek.zhiye.com/jobs?3=%5B%7B%22id%22%3A%224%22%2C%22label%22%3A%22%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98%22%7D%5D) | 2023/3/24 |      |                          |
 | 荣耀                     | [暑期实习](https://career.hihonor.com/SU61b9b9992f9d24431f5050a5/pb/interns.html) | 2023/4/7  |      |                          |
@@ -133,6 +194,9 @@
 | 中国移动                 | [暑期实习](http://campus.51job.com/zgydsxs/)                 | 2023/6/3  |      |                          |
 | 文远知行                 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/jobs) | 2023/6/12 |      |                          |
 | 中国重汽                 | [暑期实习](https://zhaopin.sinotruk.com:8009/mobile/#/schoolRecruit) | 2023/6/12 |      |                          |
+| 宝马信息技术中心         | [暑期实习](https://bmw-brilliance.tupu360.com/position/list?QueryPositionsId=2ad9d664cabeec9c&enter=menu&lang=zh_CN&type=INTERNSHIPRECRUITMENT&state=eb7d0a1de312840d88933ba2f141da62&code=071O5E000wPZ8Q14Hh400LjeVJ1O5E0g&_t=1686795590479&userMarkUUUTimes=d5e6254a-b012-4338-a5b6-ed55b1392867) | 2023/6/18 |      |                          |
+| 一汽奥迪                 | [暑期实习](https://faw-zhaopin.hotjob.cn/SU616d95e3bef57c1af3dc6bbb/pb/interns.html) | 2023/6/18 |      |                          |
+| 中国移动 紫金研究院      | [暑期实习](https://jschinamobile.zhaopin.com/)               | 2023/6/18 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -210,6 +274,13 @@
 | 交通银行         | [暑期实习](https://job.bankcomm.com/we_bankJob.do?orgCode=1000000003&engageType=1&mark=1) | 2023/6/12 |      |                                          |
 | 西南证券         | [暑期实习](https://wecruit.hotjob.cn/SU61d3f9682f9d24431f650b27/mc/position/intern?t=1686364738739) | 2023/6/12 |      |                                          |
 | 工银科技         | [暑期实习](https://job.icbc.com.cn/mobile/index.html?type=login&code=091pJB0w3f8kM03mnc0w3ZiGe83pJB0P&state=303077307234386131323563623836386335343137373966653165613463333636393037663174726D6F#/main/recruit/trainee/postSearch/fullScreen) | 2023/6/12 |      |                                          |
+| 中粮集团         | [暑期实习](http://cofcotrading-campus.zhaopin.com/job.html)  | 2023/6/18 |      |                                          |
+| 国家电投         | [暑期实习](https://spic.iguopin.com/job)                     | 2023/6/18 |      |                                          |
+| 中核集团         | [暑期实习](https://cnecc.m.zhiye.com/cnec5/joblist.html?jc=3) | 2023/6/18 |      |                                          |
+| 西部证券         | [暑期实习](https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/interns.html) | 2023/6/18 |      |                                          |
+| 平安银行         | [暑期实习](https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search?positionShareId=0af4aa2b7232337d9971c9da3b3d70c7) | 2023/6/18 |      |                                          |
+| 工银理财         | [暑期实习](https://job.icbc.com.cn/pc/index.html#/main/internship/home/struct) | 2023/6/18 |      |                                          |
+| 宁波银行         | [暑期实习](https://zhaopin.nbcb.com.cn/app/#/?postType=2)    | 2023/6/18 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -263,6 +334,10 @@
 | 三诺生物         | [暑期实习](https://wecruit.hotjob.cn/SU61f10871bef57c632bf1a3c7/mc/position/intern?projectCode=201201&showProjectBanner=true) | 2023/6/12 |      |              |
 | 中国商飞公司     | [暑期实习](http://2022.yingjiesheng.com/comac/?page=4)       | 2023/6/12 |      |              |
 | 中粮贸易         | [暑期实习](http://cofcotrading-campus.zhaopin.com/job.html)  | 2023/6/12 |      |              |
+| 泸州老窖         | [暑期实习](https://lzlj.m.zhiye.com/sxszw.html?c2=3_7&key=intern) | 2023/6/18 |      |              |
+| 新和成           | [暑期实习](https://cnhu.m.zhiye.com/JobAd/List?code=6e249d22-e7ce-4a5a-a28a-312d9f7a26f3) | 2023/6/18 |      |              |
+| 中国建研院       | [暑期实习](http://cabr.zhaopin.com/)                         | 2023/6/18 |      |              |
+| 潍柴动力         | [暑期实习](https://weichaidongli.m.zhiye.com/#/jobs?jc=3)    | 2023/6/18 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -286,58 +361,3 @@
 | 中电福富 | [暑期实习](http://zhaopin.ffcs.cn:6688/recruitment/frontend-client/index.html#/resumer-list?rid=2) | 2023/5/16 | | |
 | 保融科技 | [暑期实习](https://campus.fingard.com/campus_apply/baorong/25901/#/) | 2023/5/22 | | |
 
-## 秋招篇
-
-### 互联网 && AI
-
-| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
-|      |                    |          |      |      |
-
-
-### 游戏公司
-
-| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
-|      |                    |          |      |      |
-
-### 外企
-
-| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
-|      |                    |          |      |      |
-
-
-### 机厂&&通信&&车厂&&IC
-
-| 公司    | 招聘状态&&投递链接                   | 更新日期  | 地点 | 备注 |
-| ------- | ------------------------------------ | --------- | ---- | ---- |
-| TP-LINK | [提前批](https://hr.tp-link.com.cn/) | 2023/5/19 |      |      |
-
-### 银行&&保险&&金融&&地产&&国企
-
-| 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
-| ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
-| 中国南方航空        | [提前批实习生](https://job.csair.cn/#/shownotice?id=LIMKBUSY001270436380&key=2&type=3) | 2023/6/12 |      |              |
-| 中国铁建 中铁十四局 | [提前批](https://wx26867347995492f9.hcmcloud.cn/recruit#/company_recruit?id=39973) | 2023/6/1  |      |              |
-| 国泰君安            | [秋招](https://hr.gtja.com/recruitment/index/recruit2)       | 2023/6/1  |      |              |
-| 国电南自            | [提前批](http://campus.51job.com/SAC/campus1)                | 2023/5/11 |      |              |
-| 长江证券            | [提前批](https://cjzq.zhiye.com/campus)                      | 2023/5/8  |      |              |
-| 中欧基金            | [提前批](http://zofund.zhiye.com/)                           | 2023/4/21 |      |              |
-| 华泰证券            | [提前批](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
-| 南方基金            | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
-
-
-### 制造业&&嵌入式&&研究所&&其他
-
-| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
-| -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 宇通集团 | [提前批](https://www.hotjob.cn/wt/yutong/mobweb/v8/position/list?openid=ovWxVt4VF8_Xfec3x8ZkNye4Xak0&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/12 |      |      |
-| 三环集团 | [提前批](https://hr.cctc.cc/school)                          | 2023/6/7  |      |      |
-| 三一集团 | [提前批](http://sanycampus.zhiye.com/campus?k=24%E5%B1%8A&c=&p=&d=&PageIndex=1&class=2&x=1040&n=22) | 2023/4/21 |      |      |
-
-### 安全公司&&软件公司&&云服务
-
-| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
-|      |                    |          |      |      |
