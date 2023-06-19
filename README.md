@@ -6,16 +6,17 @@
 
 ### 互联网 && AI
 
-| 公司 | 招聘状态&&投递链接                                      | 更新日期  | 地点 | 备注 |
-| ---- | ------------------------------------------------------- | --------- | ---- | ---- |
-| 腾讯 | [技术大咖专场](https://join.qq.com/post.html?query=p_8) | 2023/6/18 |      |      |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/6/19 |      |      |
+| 腾讯     | [技术大咖专场](https://join.qq.com/post.html?query=p_8)      | 2023/6/18 |      |      |
 
 
 ### 游戏公司
 
-| 公司 | 招聘状态&&投递链接 | 更新日期 | 地点 | 备注 |
-| ---- | ------------------ | -------- | ---- | ---- |
-|      |                    |          |      |      |
+| 公司     | 招聘状态&&投递链接                            | 更新日期  | 地点 | 备注 |
+| -------- | --------------------------------------------- | --------- | ---- | ---- |
+| 火羽科技 | [秋招](https://campus.huoyugame.com/job.html) | 2023/6/19 |      |      |
 
 ### 外企
 
@@ -34,6 +35,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 万得                | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002) | 2023/6/19 |      |              |
 | 广发证券            | [秋招](https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/school.html) | 2023/6/18 |      |              |
 | 交银金科            | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=7be40107-aff1-48f9-a685-352a54202b88&color=31BE88) [官网秋招](https://www.bocomfintech.com.cn/p1/zxns.html) | 2023/6/18 |      |              |
 | 中国南方航空        | [提前批实习生](https://job.csair.cn/#/shownotice?id=LIMKBUSY001270436380&key=2&type=3) | 2023/6/12 |      |              |
@@ -50,6 +52,11 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 立芯     | [秋招](http://ledatech.cn/xyzp)                              | 2023/6/19 |      |      |
+| ITC      | [秋招](https://hr.itc-pa.cn/job/school.html)                 | 2023/6/19 |      |      |
+| 歌尔     | [秋招](https://www.goertek.com/join/advertises.html)         | 2023/6/19 |      |      |
+| 韶音     | [提前批](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/6/19 |      |      |
+| 壁仞科技 | [秋招](https://app.mokahr.com/campus-recruitment/biren/44727#/jobs?zhineng=81088) | 2023/6/19 |      |      |
 | 影石     | [秋招](https://insta360.zhiye.com/Campus)                    | 2023/6/18 |      |      |
 | 宇通集团 | [提前批](https://www.hotjob.cn/wt/yutong/mobweb/v8/position/list?openid=ovWxVt4VF8_Xfec3x8ZkNye4Xak0&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/12 |      |      |
 | 三环集团 | [提前批](https://hr.cctc.cc/school)                          | 2023/6/7  |      |      |
