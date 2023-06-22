@@ -16,6 +16,7 @@
 
 | 公司     | 招聘状态&&投递链接                            | 更新日期  | 地点 | 备注 |
 | -------- | --------------------------------------------- | --------- | ---- | ---- |
+| 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)   | 2023/6/22 |      |      |
 | 火羽科技 | [秋招](https://campus.huoyugame.com/job.html) | 2023/6/19 |      |      |
 
 ### 外企
@@ -35,6 +36,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 南京银行            | [提前批](https://jobwx.njcb.com.cn/#/Campus)                 | 2023/6/22 |      |              |
 | 万得                | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002) | 2023/6/19 |      |              |
 | 广发证券            | [秋招](https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/school.html) | 2023/6/18 |      |              |
 | 交银金科            | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=7be40107-aff1-48f9-a685-352a54202b88&color=31BE88) [官网秋招](https://www.bocomfintech.com.cn/p1/zxns.html) | 2023/6/18 |      |              |
@@ -52,6 +54,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 科华集团 | [提前批](https://wecruit.hotjob.cn/SU62d904340dcad43c775eb9cc/mc/position/campus) | 2023/6/22 |      |      |
 | 立芯     | [秋招](http://ledatech.cn/xyzp)                              | 2023/6/19 |      |      |
 | ITC      | [秋招](https://hr.itc-pa.cn/job/school.html)                 | 2023/6/19 |      |      |
 | 歌尔     | [秋招](https://www.goertek.com/join/advertises.html)         | 2023/6/19 |      |      |
@@ -112,6 +115,7 @@
 | 北森 | [暑期实习](https://beisen.zhiye.com/intern/jobs) | 2023/4/10 | | |
 | 挚文集团 | [暑期实习](https://app.mokahr.com/campus-recruitment/immomo/54299#/) | 2023/5/16 | | |
 | 新浪 | [暑期实习](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?project%5B0%5D=100052244&page=1&anchorName=jobsList) | 2023/6/18 | | |
+| 识货 | [暑期实习](https://app.mokahr.com/campus_apply/thedu/26695#/) | 2023/6/22 | | |
 
 ### 游戏公司
 
@@ -128,6 +132,7 @@
 | 掌趣科技        | [日常实习](https://app.mokahr.com/campus-recruitment/ourpalm/43628#/jobs?zhineng=85096) | 2023/3/12 |      |      |
 | 搜狐畅游        | [暑期实习](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/jobs?zhineng=76133) | 2023/4/16 |      |      |
 | 三七互娱        | [暑期实习](https://app.mokahr.com/campus-recruitment/37/25238?sourceToken=3bdc75e5561facb50a01fc1d70a53c63#/) | 2023/6/3  |      |      |
+| 腾讯凯博游戏    | [暑期实习](https://wecruit.hotjob.cn/SU624db1560dcad421948234e0/mc/position/campus) | 2023/6/22 |      |      |
 
 ### 外企
 
@@ -204,90 +209,93 @@
 | 宝马信息技术中心         | [暑期实习](https://bmw-brilliance.tupu360.com/position/list?QueryPositionsId=2ad9d664cabeec9c&enter=menu&lang=zh_CN&type=INTERNSHIPRECRUITMENT&state=eb7d0a1de312840d88933ba2f141da62&code=071O5E000wPZ8Q14Hh400LjeVJ1O5E0g&_t=1686795590479&userMarkUUUTimes=d5e6254a-b012-4338-a5b6-ed55b1392867) | 2023/6/18 |      |                          |
 | 一汽奥迪                 | [暑期实习](https://faw-zhaopin.hotjob.cn/SU616d95e3bef57c1af3dc6bbb/pb/interns.html) | 2023/6/18 |      |                          |
 | 中国移动 紫金研究院      | [暑期实习](https://jschinamobile.zhaopin.com/)               | 2023/6/18 |      |                          |
+| 理想汽车                 | [暑期实习](https://www.lixiang.com/employ/campus/list.html?job_mode=2&project_id=5&functionsids=37&fromJob=1) | 2023/6/22 |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
-| 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                     |
-| ---------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
-| 中金财富         | [暑期实习](https://cicc.m.zhiye.com/#/jobs?jc=2&search=true&ky=&c1=1_4&c=&code=&RewardJob=0&jobads=&shareid=&token=) | 2023/2/27 |      |                                          |
-| 中金公司         | [暑期实习](https://cicc.zhiye.com/summer?k=&c=-1&p=3^-1,1^8&day=-1&PageIndex=1&pc=&class=2#zw) | 2023/2/27 |      |                                          |
-| 泰康保险         | [暑期实习](http://jobtaikang.zhiye.com/internlist?k=&c=-1&subcity=&subcitys=&p=1^-1,3^-1&day=-1&sort=1&PageIndex=1&class=1#this) | 2023/2/27 |      |                                          |
-| 花旗金融         | [暑期实习](http://2023.yingjiesheng.com/cstc/)               | 2023/3/3  |      | GPA 3.0/4.0或同等成绩以上                |
-| 招商银行         | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&fromType=school&qrgid=51108EB2-5BB6-446D-BAB2-D36CF8178086&back=1) | 2023/3/3  |      |                                          |
-| 招银网络科技     | [暑期实习](https://cmbntjob-mobile.cmbchina.com/home)        | 2023/3/3  |      |                                          |
-| 恒生             | [暑期实习](https://campus.hundsun.com/intern/jobs)           | 2023/3/1  |      | 3月31日晚安排集中笔试，4月初安排在线面试 |
-| 邮储银行         | [暑期实习](https://special.zhaopin.com/campus/2023/bf/zgyz042411/index.html) | 2023/6/3  |      |                                          |
-| 数禾科技         | [暑期实习](https://shuhezhaopin.zhiye.com/intern)            | 2023/3/11 |      |                                          |
-| 金证科技         | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D) | 2023/3/11 |      |                                          |
-| 东方财富         | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) [暑期实习](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/jobs?zhineng=131962) | 2023/3/11 |      |                                          |
-| 中国平安         | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
-| 龙湖地产         | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
-| 文华财经         | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
-| 中国银行         | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
-| 泰康资产         | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
-| 华泰证券         | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
-| 中欧基金         | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
-| 同花顺           | 暂无技术岗实习                                               | 2023/4/2  |      |                                          |
-| 微众银行         | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/webankhr/18005#/) | 2023/4/3  |      |                                          |
-| 平安基金         | [暑期实习](https://wetalent.pingan.com/bb81a1239d153997a4199d43c2946bc4/campus/search?from=home&tab=sort) | 2023/4/3  |      |                                          |
-| 平安集团         | [暑期实习](https://campus.pingan.com/freshGraduates)         | 2023/4/3  |      |                                          |
-| Wind             | [暑期实习](https://www.wind.com.cn/mobile/JoinUS/RecruitDetail/zh.html?entry=school) | 2023/4/5  |      |                                          |
-| 招联             | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/5  |      |                                          |
-| 广发证券         | [暑期实习](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/index.html#/) | 2023/4/5  |      |                                          |
-| 招联             | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/10 |      |                                          |
-| 中国电子云       | [暑期实习](https://campus.cestc.cn/campus_apply/cestc/7509/#/jobs?commitment=%E5%AE%9E%E4%B9%A0&location=%E5%8C%97%E4%BA%AC%E5%B8%82) | 2023/4/10 |      |                                          |
-| 工银瑞信         | [暑期实习](https://wecruit.hotjob.cn/SU606fe7290dcad451044ebdc7/mc/position/campus) | 2023/4/13 |      |                                          |
-| 兴业证券         | [暑期实习](https://www.hotjob.cn/wt/xyzq/mobweb/v8/position/list?openid=oifBit-JrhfLhsKsVb6ZGcRp63is&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/4/16 |      |                                          |
-| 中证信用         | [暑期实习](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/interns.html) | 2023/4/21 |      |                                          |
-| 长江证券         | [暑期实习](https://cjzq.zhiye.com/jobs?activityGuid=8fb4149f-8006-42fb-a9c6-b83e34b2eb09) | 2023/4/22 |      |                                          |
-| 中冶赛迪         | [暑期实习](http://hr.cisdi.com.cn/job.php)                   | 2023/4/23 |      |                                          |
-| 宁银理财         | [暑期实习](https://mp.weixin.qq.com/s/J_HnDAYdiMv-NSjTkn_eXQ) | 2023/4/23 |      |                                          |
-| 兴业银行         | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) | 2023/5/3  |      |                                          |
-| 国金证券         | [暑期实习](http://career.gjzq.com.cn/campus?r=&p=3^-1&c=&d=-1&k=#jlt) | 2023/5/5  |      |                                          |
-| 中国外贸信托     | [暑期实习](https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/5/5  |      |                                          |
-| 建发集团         | [暑期实习](https://chinacdc.m.zhiye.com/2021/sxsindex.htmlhttps://chinacdc.m.zhiye.com/2021/sxsindex.html) | 2023/5/8  |      |                                          |
-| 永赢金租         | [暑期实习](https://maxwealthflhr.nbcb.com.cn/#/internship-recruitment) | 2023/5/11 |      |                                          |
-| 苏州银行         | [暑期实习](http://hr.suzhoubank.com/zpweb/bulletinEdit.do?actPara=findBulletin&bulletinId=OGE4ZmM1NWU4NDkxMTU0NDAxODgwZjI4ZWU2OTNkOTE=&csrftoken=YTk0YzNmMWI=) | 2023/5/16 |      |                                          |
-| 景顺长城基金     | [暑期实习](https://invescogreatwall.zhiye.com/campus/?p=1%5E-1&PageIndex=1) | 2023/5/16 |      |                                          |
-| 中国光大银行     | [暑期实习](https://campus.51job.com/cebbank/intern.html)     | 2023/5/19 |      |                                          |
-| 南银理财         | [暑期实习](https://job.njcb.com.cn/#/index/notic/details?id=293&tableName=notic&q=activity) | 2023/5/19 |      |                                          |
-| 国贸股份         | [暑期实习](https://itgholding.m.zhiye.com/subjoblist.html?jc=3&ky=&pi=1&ps=10&c1=1_14&c2=3_24&c=&key=gmgf&job=intern) | 2023/5/19 |      |                                          |
-| 邮储浙江分行     | [暑期实习](https://special.zhaopin.com/campus/2023/sh/zgyz051758/sxszp.html) | 2023/5/20 |      |                                          |
-| 中金所技术公司   | [暑期实习](https://cffexit.m.zhiye.com/#/jobs?jc=3&shareid=21e05b2c-6963-4f78-b312-98fce3996e57&token=7e5cbee1f3e51c14359ec8a72ddee2a1) | 2023/5/20 |      |                                          |
-| 招银理财         | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&back=1) | 2023/5/22 |      |                                          |
-| 华侨永享银行     | [暑期实习](http://campus.51job.com/OCBC/talent1.html)        | 2023/5/22 |      |                                          |
-| 中国人寿         | [暑期实习](https://www.hotjob.cn/wt/chinalife/mobweb/v8/position/list?openid=oo3tm0oSbK6GyMcMKrlrVMSf_Wzg&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/5/27 |      |                                          |
-| 中邮理财         | [暑期实习](https://zylcsx2023.zhaopin.com/)                  | 2023/5/27 |      |                                          |
-| 成都农商银行     | [暑期实习](https://www.cdrcb.com/pin/newsdetail.php?id=157)  | 2023/5/27 |      |                                          |
-| 中国民生银行     | [暑期实习](http://career.cmbc.com.cn:8080/)                  | 2023/5/27 |      |                                          |
-| 上海农商银行     | [暑期实习](https://shrcb.m.zhiye.com/#/jobs?jc=3&shareid=6645ce24-a06d-4d11-b8a5-20432c32eccb&token=c33d18c519b1bd7ab816f888860e0f6) | 2023/5/27 |      |                                          |
-| 中交集团         | [暑期实习](https://ccccltd.m.zhiye.com/new/xzywbk.html)      | 2023/5/27 |      |                                          |
-| 中国银河证券     | [暑期实习](https://chinastock.zhiye.com/custom/dc66c008-572c-beb0-8389-5913cf8fc0b5) | 2023/5/27 |      |                                          |
-| 中国建设银行     | [暑期实习](http://job2.ccb.com/cn/job/mobilev3/notice_detail.html?annoId=20230531122406558627) | 2023/6/1  |      |                                          |
-| 嘉兴银行         | [暑期实习](https://www.duomian.com/project/16362491/)        | 2023/6/1  |      |                                          |
-| 东方电气集团     | [暑期实习](http://dongfang2023.zhaopin.com/jobs.html)        | 2023/6/1  |      |                                          |
-| 中国机械工业集团 | [暑期实习](https://wecruit.hotjob.cn/SU63fdaf4a2f9d240675de3ec9/mc/position/campus) | 2023/6/1  |      |                                          |
-| 九江银行         | [暑期实习](https://www.hotjob.cn/wt/JJYH/mobweb/v8/position/list?openid=oRNmQ5kHd-W3eVaYx3zhh_g3GBPo&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/1  |      |                                          |
-| 中国五矿         | [暑期实习](https://wecruit.hotjob.cn/SU62f3786ebef57c29ead8adba/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/6/3  |      |                                          |
-| 广发银行         | [暑期实习](https://www.hotjob.cn/wt/chinalife/mobweb/v8/position/list?openid=o5jV3wCBHz440_Dk2igNhY7Jv4Gk&recruitType=12&channelId=&brandCode=100201&request_locale=zh_CN) | 2023/6/3  |      |                                          |
-| 中国工商银行     | [暑期实习](https://job.icbc.com.cn/pc/index.html#/main/internship/home/struct) | 2023/6/7  |      |                                          |
-| 农银金科         | [暑期实习](https://career.abchina.com/buildMobile/index.html#/OrgPositionList/103/2390,10001183,-1) | 2023/6/7  |      |                                          |
-| 中物院软件中心   | [暑期实习](http://www.caep-scns.ac.cn/job_list_practice.php) | 2023/6/7  |      |                                          |
-| 山东邮政         | [暑期实习](https://special.zhaopin.com/Flying/Campus/20230531/W1_71137_13254720_ZL82493/zpzw.html) | 2023/6/7  |      |                                          |
-| 徽商银行         | [暑期实习](http://rczp.hsbank.com.cn/job/dist/#/Postdetial?id=740430) | 2023/6/7  |      |                                          |
-| 中国外汇交易中心 | [暑期实习](http://campus.51job.com/jyzxintern/job.html)      | 2023/6/7  |      |                                          |
-| 中原银行         | [暑期实习](https://zybank.m.zhiye.com/#/jobs?jc=3&shareid=4d6caaaf-9934-4005-ad3e-03e51e4b35ca&token=65ac288dec7ec94ac3307591b4d6cc9c) | 2023/6/7  |      |                                          |
-| 瑞丰银行         | [暑期实习](https://zp.borf.cn:9191/recruit/wechat/page/jobList.html?recruitType=trainee) | 2023/6/7  |      |                                          |
-| 交通银行         | [暑期实习](https://job.bankcomm.com/we_bankJob.do?orgCode=1000000003&engageType=1&mark=1) | 2023/6/12 |      |                                          |
-| 西南证券         | [暑期实习](https://wecruit.hotjob.cn/SU61d3f9682f9d24431f650b27/mc/position/intern?t=1686364738739) | 2023/6/12 |      |                                          |
-| 工银科技         | [暑期实习](https://job.icbc.com.cn/mobile/index.html?type=login&code=091pJB0w3f8kM03mnc0w3ZiGe83pJB0P&state=303077307234386131323563623836386335343137373966653165613463333636393037663174726D6F#/main/recruit/trainee/postSearch/fullScreen) | 2023/6/12 |      |                                          |
-| 中粮集团         | [暑期实习](http://cofcotrading-campus.zhaopin.com/job.html)  | 2023/6/18 |      |                                          |
-| 国家电投         | [暑期实习](https://spic.iguopin.com/job)                     | 2023/6/18 |      |                                          |
-| 中核集团         | [暑期实习](https://cnecc.m.zhiye.com/cnec5/joblist.html?jc=3) | 2023/6/18 |      |                                          |
-| 西部证券         | [暑期实习](https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/interns.html) | 2023/6/18 |      |                                          |
-| 平安银行         | [暑期实习](https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search?positionShareId=0af4aa2b7232337d9971c9da3b3d70c7) | 2023/6/18 |      |                                          |
-| 工银理财         | [暑期实习](https://job.icbc.com.cn/pc/index.html#/main/internship/home/struct) | 2023/6/18 |      |                                          |
-| 宁波银行         | [暑期实习](https://zhaopin.nbcb.com.cn/app/#/?postType=2)    | 2023/6/18 |      |                                          |
+| 公司                 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                                     |
+| -------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------------------------- |
+| 中金财富             | [暑期实习](https://cicc.m.zhiye.com/#/jobs?jc=2&search=true&ky=&c1=1_4&c=&code=&RewardJob=0&jobads=&shareid=&token=) | 2023/2/27 |      |                                          |
+| 中金公司             | [暑期实习](https://cicc.zhiye.com/summer?k=&c=-1&p=3^-1,1^8&day=-1&PageIndex=1&pc=&class=2#zw) | 2023/2/27 |      |                                          |
+| 泰康保险             | [暑期实习](http://jobtaikang.zhiye.com/internlist?k=&c=-1&subcity=&subcitys=&p=1^-1,3^-1&day=-1&sort=1&PageIndex=1&class=1#this) | 2023/2/27 |      |                                          |
+| 花旗金融             | [暑期实习](http://2023.yingjiesheng.com/cstc/)               | 2023/3/3  |      | GPA 3.0/4.0或同等成绩以上                |
+| 招商银行             | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&fromType=school&qrgid=51108EB2-5BB6-446D-BAB2-D36CF8178086&back=1) | 2023/3/3  |      |                                          |
+| 招银网络科技         | [暑期实习](https://cmbntjob-mobile.cmbchina.com/home)        | 2023/3/3  |      |                                          |
+| 恒生                 | [暑期实习](https://campus.hundsun.com/intern/jobs)           | 2023/3/1  |      | 3月31日晚安排集中笔试，4月初安排在线面试 |
+| 邮储银行             | [暑期实习](https://special.zhaopin.com/campus/2023/bf/zgyz042411/index.html) | 2023/6/3  |      |                                          |
+| 数禾科技             | [暑期实习](https://shuhezhaopin.zhiye.com/intern)            | 2023/3/11 |      |                                          |
+| 金证科技             | [暑期实习](https://szkingdom.zhiye.com/campus/jobs?1=%5B%7B%22id%22%3A%2251%22%2C%22label%22%3A%22%E5%BC%80%E5%8F%91%E7%B1%BB%22%7D%5D) | 2023/3/11 |      |                                          |
+| 东方财富             | [日常实习](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/) [暑期实习](https://zhaopin.eastmoney.com/campus-recruitment/eastmoney/57971#/jobs?zhineng=131962) | 2023/3/11 |      |                                          |
+| 中国平安             | [日常实习](https://campus.pingan.com/internStudent)          | 2023/3/11 |      |                                          |
+| 龙湖地产             | 暂无技术岗实习                                               | 2023/3/14 |      |                                          |
+| 文华财经             | [转正实习](http://hr.wenhua.com.cn/Job/Index)                | 2023/3/15 | 大连 |                                          |
+| 中国银行             | [暑期实习](https://www.boc.cn/aboutboc/bi4/202303/t20230316_22730218.html) | 2023/3/16 |      |                                          |
+| 泰康资产             | [日常实习](http://jobtaikang.zhiye.com/shixi?k=&c=-1&subcity=&p=1^-1,3^6&day=-1&sort=1&PageIndex=1&class=3#this) | 2023/3/19 |      |                                          |
+| 华泰证券             | [暑期实习](https://wecruit.hotjob.cn/SU6013d14e5d83dc11e4a8ae4d/pb/interns.html) | 2023/3/27 |      |                                          |
+| 中欧基金             | [暑期实习](http://zofund.zhiye.com/intern)                   | 2023/3/30 |      |                                          |
+| 同花顺               | 暂无技术岗实习                                               | 2023/4/2  |      |                                          |
+| 微众银行             | [暑期实习](https://app-tc.mokahr.com/campus-recruitment/webankhr/18005#/) | 2023/4/3  |      |                                          |
+| 平安基金             | [暑期实习](https://wetalent.pingan.com/bb81a1239d153997a4199d43c2946bc4/campus/search?from=home&tab=sort) | 2023/4/3  |      |                                          |
+| 平安集团             | [暑期实习](https://campus.pingan.com/freshGraduates)         | 2023/4/3  |      |                                          |
+| Wind                 | [暑期实习](https://www.wind.com.cn/mobile/JoinUS/RecruitDetail/zh.html?entry=school) | 2023/4/5  |      |                                          |
+| 招联                 | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/5  |      |                                          |
+| 广发证券             | [暑期实习](https://gf.hotjob.cn/SU625527c30dcad4021443cdda/pb/index.html#/) | 2023/4/5  |      |                                          |
+| 招联                 | [暑期实习](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/interns.html) | 2023/4/10 |      |                                          |
+| 中国电子云           | [暑期实习](https://campus.cestc.cn/campus_apply/cestc/7509/#/jobs?commitment=%E5%AE%9E%E4%B9%A0&location=%E5%8C%97%E4%BA%AC%E5%B8%82) | 2023/4/10 |      |                                          |
+| 工银瑞信             | [暑期实习](https://wecruit.hotjob.cn/SU606fe7290dcad451044ebdc7/mc/position/campus) | 2023/4/13 |      |                                          |
+| 兴业证券             | [暑期实习](https://www.hotjob.cn/wt/xyzq/mobweb/v8/position/list?openid=oifBit-JrhfLhsKsVb6ZGcRp63is&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/4/16 |      |                                          |
+| 中证信用             | [暑期实习](https://wecruit.hotjob.cn/SU60867bdc2f9d2403ab74fbf7/pb/interns.html) | 2023/4/21 |      |                                          |
+| 长江证券             | [暑期实习](https://cjzq.zhiye.com/jobs?activityGuid=8fb4149f-8006-42fb-a9c6-b83e34b2eb09) | 2023/4/22 |      |                                          |
+| 中冶赛迪             | [暑期实习](http://hr.cisdi.com.cn/job.php)                   | 2023/4/23 |      |                                          |
+| 宁银理财             | [暑期实习](https://mp.weixin.qq.com/s/J_HnDAYdiMv-NSjTkn_eXQ) | 2023/4/23 |      |                                          |
+| 兴业银行             | [暑期实习](https://wecruit.hotjob.cn/SU611a47a02f9d24229eff074c/pb/interns.html) | 2023/5/3  |      |                                          |
+| 国金证券             | [暑期实习](http://career.gjzq.com.cn/campus?r=&p=3^-1&c=&d=-1&k=#jlt) | 2023/5/5  |      |                                          |
+| 中国外贸信托         | [暑期实习](https://sinochem.hotjob.cn/SU611a641a0dcad4106f04950e/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/5/5  |      |                                          |
+| 建发集团             | [暑期实习](https://chinacdc.m.zhiye.com/2021/sxsindex.htmlhttps://chinacdc.m.zhiye.com/2021/sxsindex.html) | 2023/5/8  |      |                                          |
+| 永赢金租             | [暑期实习](https://maxwealthflhr.nbcb.com.cn/#/internship-recruitment) | 2023/5/11 |      |                                          |
+| 苏州银行             | [暑期实习](http://hr.suzhoubank.com/zpweb/bulletinEdit.do?actPara=findBulletin&bulletinId=OGE4ZmM1NWU4NDkxMTU0NDAxODgwZjI4ZWU2OTNkOTE=&csrftoken=YTk0YzNmMWI=) | 2023/5/16 |      |                                          |
+| 景顺长城基金         | [暑期实习](https://invescogreatwall.zhiye.com/campus/?p=1%5E-1&PageIndex=1) | 2023/5/16 |      |                                          |
+| 中国光大银行         | [暑期实习](https://campus.51job.com/cebbank/intern.html)     | 2023/5/19 |      |                                          |
+| 南银理财             | [暑期实习](https://job.njcb.com.cn/#/index/notic/details?id=293&tableName=notic&q=activity) | 2023/5/19 |      |                                          |
+| 国贸股份             | [暑期实习](https://itgholding.m.zhiye.com/subjoblist.html?jc=3&ky=&pi=1&ps=10&c1=1_14&c2=3_24&c=&key=gmgf&job=intern) | 2023/5/19 |      |                                          |
+| 邮储浙江分行         | [暑期实习](https://special.zhaopin.com/campus/2023/sh/zgyz051758/sxszp.html) | 2023/5/20 |      |                                          |
+| 中金所技术公司       | [暑期实习](https://cffexit.m.zhiye.com/#/jobs?jc=3&shareid=21e05b2c-6963-4f78-b312-98fce3996e57&token=7e5cbee1f3e51c14359ec8a72ddee2a1) | 2023/5/20 |      |                                          |
+| 招银理财             | [暑期实习](https://social-recruit-front.paas.cmbchina.com/index.html#jobListSchool?id=DF94FD6D-26D3-4A19-9E69-577C4BA1DE82&back=1) | 2023/5/22 |      |                                          |
+| 华侨永享银行         | [暑期实习](http://campus.51job.com/OCBC/talent1.html)        | 2023/5/22 |      |                                          |
+| 中国人寿             | [暑期实习](https://www.hotjob.cn/wt/chinalife/mobweb/v8/position/list?openid=oo3tm0oSbK6GyMcMKrlrVMSf_Wzg&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/5/27 |      |                                          |
+| 中邮理财             | [暑期实习](https://zylcsx2023.zhaopin.com/)                  | 2023/5/27 |      |                                          |
+| 成都农商银行         | [暑期实习](https://www.cdrcb.com/pin/newsdetail.php?id=157)  | 2023/5/27 |      |                                          |
+| 中国民生银行         | [暑期实习](http://career.cmbc.com.cn:8080/)                  | 2023/5/27 |      |                                          |
+| 上海农商银行         | [暑期实习](https://shrcb.m.zhiye.com/#/jobs?jc=3&shareid=6645ce24-a06d-4d11-b8a5-20432c32eccb&token=c33d18c519b1bd7ab816f888860e0f6) | 2023/5/27 |      |                                          |
+| 中交集团             | [暑期实习](https://ccccltd.m.zhiye.com/new/xzywbk.html)      | 2023/5/27 |      |                                          |
+| 中国银河证券         | [暑期实习](https://chinastock.zhiye.com/custom/dc66c008-572c-beb0-8389-5913cf8fc0b5) | 2023/5/27 |      |                                          |
+| 中国建设银行         | [暑期实习](http://job2.ccb.com/cn/job/mobilev3/notice_detail.html?annoId=20230531122406558627) | 2023/6/1  |      |                                          |
+| 嘉兴银行             | [暑期实习](https://www.duomian.com/project/16362491/)        | 2023/6/1  |      |                                          |
+| 东方电气集团         | [暑期实习](http://dongfang2023.zhaopin.com/jobs.html)        | 2023/6/1  |      |                                          |
+| 中国机械工业集团     | [暑期实习](https://wecruit.hotjob.cn/SU63fdaf4a2f9d240675de3ec9/mc/position/campus) | 2023/6/1  |      |                                          |
+| 九江银行             | [暑期实习](https://www.hotjob.cn/wt/JJYH/mobweb/v8/position/list?openid=oRNmQ5kHd-W3eVaYx3zhh_g3GBPo&recruitType=12&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/1  |      |                                          |
+| 中国五矿             | [暑期实习](https://wecruit.hotjob.cn/SU62f3786ebef57c29ead8adba/mc/position/intern?projectCode=102701&showProjectBanner=true) | 2023/6/3  |      |                                          |
+| 广发银行             | [暑期实习](https://www.hotjob.cn/wt/chinalife/mobweb/v8/position/list?openid=o5jV3wCBHz440_Dk2igNhY7Jv4Gk&recruitType=12&channelId=&brandCode=100201&request_locale=zh_CN) | 2023/6/3  |      |                                          |
+| 中国工商银行         | [暑期实习](https://job.icbc.com.cn/pc/index.html#/main/internship/home/struct) | 2023/6/7  |      |                                          |
+| 农银金科             | [暑期实习](https://career.abchina.com/buildMobile/index.html#/OrgPositionList/103/2390,10001183,-1) | 2023/6/7  |      |                                          |
+| 中物院软件中心       | [暑期实习](http://www.caep-scns.ac.cn/job_list_practice.php) | 2023/6/7  |      |                                          |
+| 山东邮政             | [暑期实习](https://special.zhaopin.com/Flying/Campus/20230531/W1_71137_13254720_ZL82493/zpzw.html) | 2023/6/7  |      |                                          |
+| 徽商银行             | [暑期实习](http://rczp.hsbank.com.cn/job/dist/#/Postdetial?id=740430) | 2023/6/7  |      |                                          |
+| 中国外汇交易中心     | [暑期实习](http://campus.51job.com/jyzxintern/job.html)      | 2023/6/7  |      |                                          |
+| 中原银行             | [暑期实习](https://zybank.m.zhiye.com/#/jobs?jc=3&shareid=4d6caaaf-9934-4005-ad3e-03e51e4b35ca&token=65ac288dec7ec94ac3307591b4d6cc9c) | 2023/6/7  |      |                                          |
+| 瑞丰银行             | [暑期实习](https://zp.borf.cn:9191/recruit/wechat/page/jobList.html?recruitType=trainee) | 2023/6/7  |      |                                          |
+| 交通银行             | [暑期实习](https://job.bankcomm.com/we_bankJob.do?orgCode=1000000003&engageType=1&mark=1) | 2023/6/12 |      |                                          |
+| 西南证券             | [暑期实习](https://wecruit.hotjob.cn/SU61d3f9682f9d24431f650b27/mc/position/intern?t=1686364738739) | 2023/6/12 |      |                                          |
+| 工银科技             | [暑期实习](https://job.icbc.com.cn/mobile/index.html?type=login&code=091pJB0w3f8kM03mnc0w3ZiGe83pJB0P&state=303077307234386131323563623836386335343137373966653165613463333636393037663174726D6F#/main/recruit/trainee/postSearch/fullScreen) | 2023/6/12 |      |                                          |
+| 中粮集团             | [暑期实习](http://cofcotrading-campus.zhaopin.com/job.html)  | 2023/6/18 |      |                                          |
+| 国家电投             | [暑期实习](https://spic.iguopin.com/job)                     | 2023/6/18 |      |                                          |
+| 中核集团             | [暑期实习](https://cnecc.m.zhiye.com/cnec5/joblist.html?jc=3) | 2023/6/18 |      |                                          |
+| 西部证券             | [暑期实习](https://wecruit.hotjob.cn/SU614049aebef57c3b638d207c/pb/interns.html) | 2023/6/18 |      |                                          |
+| 平安银行             | [暑期实习](https://wetalent.pingan.com/91f8800d99a13199801575196b665af2/campus/search?positionShareId=0af4aa2b7232337d9971c9da3b3d70c7) | 2023/6/18 |      |                                          |
+| 工银理财             | [暑期实习](https://job.icbc.com.cn/pc/index.html#/main/internship/home/struct) | 2023/6/18 |      |                                          |
+| 宁波银行             | [暑期实习](https://zhaopin.nbcb.com.cn/app/#/?postType=2)    | 2023/6/18 |      |                                          |
+| 中国出口信用保险公司 | [暑期实习](https://sinosure.zhiye.com/sxsgw)                 | 2023/6/22 |      |                                          |
+| 中国船舶集团         | [暑期实习](https://csic.zhiye.com/https://csic.zhiye.com/)   | 2023/6/22 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
@@ -345,6 +353,8 @@
 | 新和成           | [暑期实习](https://cnhu.m.zhiye.com/JobAd/List?code=6e249d22-e7ce-4a5a-a28a-312d9f7a26f3) | 2023/6/18 |      |              |
 | 中国建研院       | [暑期实习](http://cabr.zhaopin.com/)                         | 2023/6/18 |      |              |
 | 潍柴动力         | [暑期实习](https://weichaidongli.m.zhiye.com/#/jobs?jc=3)    | 2023/6/18 |      |              |
+| 大华集团         | [暑期实习](https://app.mokahr.com/campus-recruitment/dahua/55998#/) | 2023/6/22 |      |              |
+| 中海物业         | [暑期实习](https://copm.zhiye.com/intern/jobs?queryId=51fc1ddf-de6d-40bd-a91e-1a84b942c66d) | 2023/6/22 |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
