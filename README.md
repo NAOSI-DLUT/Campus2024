@@ -31,6 +31,7 @@
 | 公司    | 招聘状态&&投递链接                   | 更新日期  | 地点 | 备注 |
 | ------- | ------------------------------------ | --------- | ---- | ---- |
 | TP-LINK | [提前批](https://hr.tp-link.com.cn/) | 2023/5/19 |      |      |
+| OPPO    | [提前批](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2023/6/28 |      |      |
 
 ### 银行&&保险&&金融&&地产&&国企
 
