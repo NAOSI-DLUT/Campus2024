@@ -14,10 +14,11 @@
 
 ### 游戏公司
 
-| 公司     | 招聘状态&&投递链接                            | 更新日期  | 地点 | 备注 |
-| -------- | --------------------------------------------- | --------- | ---- | ---- |
-| 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)   | 2023/6/22 |      |      |
-| 火羽科技 | [秋招](https://campus.huoyugame.com/job.html) | 2023/6/19 |      |      |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
+| -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
+| 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 |      |      |
+| 火羽科技 | [秋招](https://campus.huoyugame.com/job.html)                | 2023/6/19 |      |      |
 
 ### 外企
 
@@ -38,6 +39,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 九坤投资            | [提前批](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/) | 2023/7/3  |      |              |
 | 苏宁银行            | [秋招](https://app.mokahr.com/campus-recruitment/snb/45592#/) | 2023/6/28 |      |              |
 | 中化蓝天            | [提前批](https://sinochem.hotjob.cn/SU63f894162f9d240675d9b106/mc/position/intern) | 2023/6/25 |      |              |
 | 南京银行            | [提前批](https://jobwx.njcb.com.cn/#/Campus)                 | 2023/6/22 |      |              |
@@ -313,6 +315,7 @@
 | 安永                 | [暑期实习](https://wecruit.hotjob.cn/SU640192b0bef57c71d90d025a/pb/interns.html) | 2023/7/1  |      |                                          |
 | 高盛                 | [暑期实习](https://www.goldmansachs.com/careers/students/index.html) | 2023/7/1  |      |                                          |
 | 万联证券             | [暑期实习](https://www.moseeker.com/positions/index/cid/2084964?candidateSource=1#1687918952616) | 2023/7/1  |      |                                          |
+| 新开发银行           | [暑期实习](https://career15.sapsf.cn/career?career%5fns=job%5flisting&company=newdevelop&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=1380&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Asia/Shanghai&_s.crb=LOgik2I6jpNj0RvQH6UzzsxPlsgMM%2fS0FpmH1l0RJus%3d) | 2023/7/3  |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
