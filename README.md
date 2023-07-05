@@ -16,6 +16,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 米哈游   | [提前批](https://campus.mihoyo.com/#/campus/position)        | 2023/7/5  |      |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
 | 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 |      |      |
 | 火羽科技 | [秋招](https://campus.huoyugame.com/job.html)                | 2023/6/19 |      |      |
@@ -60,6 +61,7 @@
 
 | 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | ---------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 格力电器         | [提前批](https://gree.zhiye.com/Campus)                      | 2023/7/5  |      |                        |
 | 上海电气         | [暑期提前批](https://sec.hotjob.cn/wt/SEC/web/index/webPositionN310!getOnePosition?postId=314701&recruitType=12&brandCode=1&importPost=1&columnId=12) | 2023/7/1  |      | 不知道算实习还是提前批 |
 | 中国航天科技集团 | [提前批](https://www.spacetalent.com.cn/xcjh.html)           | 2023/6/28 |      |                        |
 | 上海市政总院     | [秋招](http://campus.51job.com/smedi/index.html)             | 2023/6/28 |      |                        |
@@ -215,7 +217,7 @@
 | 东风日产                 | [暑期实习](https://dongfengnissan.m.zhiye.com/#/jobdetail?id=510802549&jc=3&isReward=false) | 2023/5/27 |      |                          |
 | 上汽大众                 | [暑期实习](https://csvw.zhiye.com/Intern)                    | 2023/6/1  |      |                          |
 | 上汽集团创新研究开发总院 | [暑期实习](https://srih.zhiye.com/intern/jobs)               | 2023/6/1  |      |                          |
-| 中国移动                 | [暑期实习](http://campus.51job.com/zgydsxs/)                 | 2023/6/3  |      |                          |
+| 中国移动                 | [暑期实习](http://campus.51job.com/zgydsxs/) [暑期线上实习](https://bigdata.10086.cn/honghu/hhweb/#/practiceApply?id=54) | 2023/7/5  |      |                          |
 | 文远知行                 | [暑期实习](https://app.mokahr.com/campus_apply/jingchi/2137#/jobs) | 2023/6/12 |      |                          |
 | 中国重汽                 | [暑期实习](https://zhaopin.sinotruk.com:8009/mobile/#/schoolRecruit) | 2023/6/12 |      |                          |
 | 宝马信息技术中心         | [暑期实习](https://bmw-brilliance.tupu360.com/position/list?QueryPositionsId=2ad9d664cabeec9c&enter=menu&lang=zh_CN&type=INTERNSHIPRECRUITMENT&state=eb7d0a1de312840d88933ba2f141da62&code=071O5E000wPZ8Q14Hh400LjeVJ1O5E0g&_t=1686795590479&userMarkUUUTimes=d5e6254a-b012-4338-a5b6-ed55b1392867) | 2023/6/18 |      |                          |
@@ -224,6 +226,7 @@
 | 理想汽车                 | [暑期实习](https://www.lixiang.com/employ/campus/list.html?job_mode=2&project_id=5&functionsids=37&fromJob=1) | 2023/6/22 |      |                          |
 | 烽火通信                 | [暑期实习](https://app.mokahr.com/campus-recruitment/whfhtx/73922#/) | 2023/6/28 |      |                          |
 | 高合汽车                 | [暑期实习](https://app.mokahr.com/campus-recruitment/human-horizons/45226?sourceToken=0a6c903220b13f38d55f7506ab738428#/) | 2023/7/1  |      |                          |
+| 比亚迪                   | [暑期实习](https://mp.weixin.qq.com/s/k9wy9wLFKzMpI6mOFbLrxg) | 2023/7/5  |      |                          |
 
 ### 银行&&保险&&金融&&地产&&国企
 
@@ -381,6 +384,7 @@
 | 云鲸智能         | [暑期实习](https://recruitment.narwal.com/campus-recruitment/narwal/69878#/page/%E5%AE%9E%E4%B9%A0%E7%94%9F%E6%8B%9B%E8%81%98) | 2023/7/1  |      |              |
 | 思谋科技         | [暑期实习](https://app.mokahr.com/campus-recruitment/smartmore/46221#/jobs?zhineng=93567) | 2023/7/1  |      |              |
 | 华润水泥         | [暑期实习](https://wecruit.hotjob.cn/SU61162cc22f9d24229ef94d28/mc/detail?postId=647843590dcad45af153f5fc&recruitType=campus&distance=undefined) | 2023/7/1  |      |              |
+| 北方工业         | [暑期实习](http://www.norinco.com/col/col5475/index.html)    | 2023/7/5  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
