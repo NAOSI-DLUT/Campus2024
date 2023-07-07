@@ -32,6 +32,7 @@
 
 | 公司    | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | ------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 华为    | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | 2023/7/7  |      |      |
 | 大疆    | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
 | 小米    | [硬件提前批](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7241520988906061932&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) | 2023/7/1  |      |      |
 | TP-LINK | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
@@ -62,6 +63,7 @@
 
 | 公司             | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | ---------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 北京国望         | [秋招](https://www.wjx.cn/vm/Pwnl8k7.aspx)                   | 2023/7/7  |      |                        |
 | 格力电器         | [提前批](https://gree.zhiye.com/Campus)                      | 2023/7/5  |      |                        |
 | 上海电气         | [暑期提前批](https://sec.hotjob.cn/wt/SEC/web/index/webPositionN310!getOnePosition?postId=314701&recruitType=12&brandCode=1&importPost=1&columnId=12) | 2023/7/1  |      | 不知道算实习还是提前批 |
 | 中国航天科技集团 | [提前批](https://www.spacetalent.com.cn/xcjh.html)           | 2023/6/28 |      |                        |
@@ -386,6 +388,7 @@
 | 思谋科技         | [暑期实习](https://app.mokahr.com/campus-recruitment/smartmore/46221#/jobs?zhineng=93567) | 2023/7/1  |      |              |
 | 华润水泥         | [暑期实习](https://wecruit.hotjob.cn/SU61162cc22f9d24229ef94d28/mc/detail?postId=647843590dcad45af153f5fc&recruitType=campus&distance=undefined) | 2023/7/1  |      |              |
 | 北方工业         | [暑期实习](http://www.norinco.com/col/col5475/index.html)    | 2023/7/5  |      |              |
+| 中国华电集团     | [暑期实习](https://chd.zhiye.com/)                           | 2023/7/7  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
