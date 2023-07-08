@@ -389,6 +389,7 @@
 | 华润水泥         | [暑期实习](https://wecruit.hotjob.cn/SU61162cc22f9d24229ef94d28/mc/detail?postId=647843590dcad45af153f5fc&recruitType=campus&distance=undefined) | 2023/7/1  |      |              |
 | 北方工业         | [暑期实习](http://www.norinco.com/col/col5475/index.html)    | 2023/7/5  |      |              |
 | 中国华电集团     | [暑期实习](https://chd.zhiye.com/)                           | 2023/7/7  |      |              |
+| 国家能源集团     | [暑期实习](https://www.ciiczhaopin.com/jobfair/detail?jobFairId=1675694506347433985) | 2023/7/8  |      |              |
 
 ### 安全公司&&软件公司&&云服务
 
