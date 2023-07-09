@@ -32,7 +32,6 @@
 
 | 公司    | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | ------- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 华为    | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html) | 2023/7/7  |      |      |
 | 大疆    | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
 | 小米    | [硬件提前批](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7241520988906061932&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) | 2023/7/1  |      |      |
 | TP-LINK | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
