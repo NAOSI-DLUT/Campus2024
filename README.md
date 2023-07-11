@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 字节跳动 | [提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT) | 2023/7/11 |      |      |
 | 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 |      |      |
 | 小红书   | [提前批](https://job.xiaohongshu.com/campus)                 | 2023/7/10 |      |      |
 | 百度     | [秋招](https://talent.baidu.com/jobs/list)                   | 2023/7/10 |      |      |
@@ -67,6 +68,7 @@
 
 | 公司                 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 传音                 | [秋招](http://transsion-mt.zhaopin.com/)                     | 2023/7/11 |      |                        |
 | 元戎启行             | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/7/10 |      |                        |
 | 芯动科技             | [秋招](https://innosilicon.zhiye.com/campus/jobs)            | 2023/7/10 |      |                        |
 | 中芯国际             | [秋招](https://smics.zhiye.com/campus)                       | 2023/7/10 |      |                        |
@@ -337,6 +339,7 @@
 | 万联证券             | [暑期实习](https://www.moseeker.com/positions/index/cid/2084964?candidateSource=1#1687918952616) | 2023/7/1  |      |                                          |
 | 新开发银行           | [暑期实习](https://career15.sapsf.cn/career?career%5fns=job%5flisting&company=newdevelop&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=1380&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Asia/Shanghai&_s.crb=LOgik2I6jpNj0RvQH6UzzsxPlsgMM%2fS0FpmH1l0RJus%3d) | 2023/7/3  |      |                                          |
 | 国网信通产业集团     | [暑期实习](https://xiaoyuan.zhaopin.com/company/CC000637547D90000046000) | 2023/7/10 |      |                                          |
+| 永赢基金             | [暑期实习](https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/index.html#/) | 2023/7/11 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
