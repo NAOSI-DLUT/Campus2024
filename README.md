@@ -20,6 +20,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 |      |      |
 | 米哈游   | [提前批](https://campus.mihoyo.com/#/campus/position)        | 2023/7/5  |      |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
 | 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 |      |      |
