@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 京东     | [秋招](https://campus.jd.com/#/jobs?to=present&type=present) | 2023/7/14 |      |      |
 | 字节跳动 | [提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT) | 2023/7/11 |      |      |
 | 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 |      |      |
 | 小红书   | [提前批](https://job.xiaohongshu.com/campus)                 | 2023/7/10 |      |      |
@@ -47,6 +48,8 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| metaapp             | [秋招]([加入MetaApp (feishu.cn)](https://meta.jobs.feishu.cn/index)) | 2023/7/14 |      |              |
+| 诚通证券            | [秋招](https://ctzqzp.zhaopin.com/job/index.html)            | 2023/7/14 |      |              |
 | 上海农商银行        | [秋招](https://shrcb.zhiye.com/Campus)                       | 2023/7/10 |      |              |
 | 九坤投资            | [提前批](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/) | 2023/7/3  |      |              |
 | 苏宁银行            | [秋招](https://app.mokahr.com/campus-recruitment/snb/45592#/) | 2023/6/28 |      |              |
@@ -69,6 +72,7 @@
 
 | 公司                 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 远景科技             | [秋招](https://app.mokahr.com/campus-recruitment/envisiongroup/43123?sourceToken=3d19e440a63d59c8804905c0a58cf1b1#/) | 2023/7/14 |      |                        |
 | 传音                 | [秋招](http://transsion-mt.zhaopin.com/)                     | 2023/7/11 |      |                        |
 | 元戎启行             | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/7/10 |      |                        |
 | 芯动科技             | [秋招](https://innosilicon.zhiye.com/campus/jobs)            | 2023/7/10 |      |                        |
@@ -341,6 +345,7 @@
 | 新开发银行           | [暑期实习](https://career15.sapsf.cn/career?career%5fns=job%5flisting&company=newdevelop&navBarLevel=JOB%5fSEARCH&rcm%5fsite%5flocale=en%5fUS&career_job_req_id=1380&selected_lang=en_US&jobAlertController_jobAlertId=&jobAlertController_jobAlertName=&browserTimeZone=Asia/Shanghai&_s.crb=LOgik2I6jpNj0RvQH6UzzsxPlsgMM%2fS0FpmH1l0RJus%3d) | 2023/7/3  |      |                                          |
 | 国网信通产业集团     | [暑期实习](https://xiaoyuan.zhaopin.com/company/CC000637547D90000046000) | 2023/7/10 |      |                                          |
 | 永赢基金             | [暑期实习](https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/index.html#/) | 2023/7/11 |      |                                          |
+| 诚通证券             | [暑期实习](https://ctzqzp.zhaopin.com/job/index.html)        | 2023/7/14 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
