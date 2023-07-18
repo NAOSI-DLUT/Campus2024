@@ -1,6 +1,6 @@
-> 此仓库为2024届毕业生的校招信息汇总仓库
+> 此仓库为 2024 届毕业生的校招信息汇总仓库
 >
-> 欢迎大家来 [Github仓库](https://github.com/NAOSI-DLUT/Campus2024) PR更新最新信息及勘误
+> 欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2024) PR 更新最新信息及勘误
 
 ## 秋招篇
 
@@ -38,6 +38,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 宁德时代 | [提前批](https://talent.catl.com/campus-recruitment/catlhr/115953#/jobs) | 2023/7/18 |  |  |
 | 联想 | [秋招](https://talent.lenovo.com.cn/campus) | 2023/7/17 |  |  |
 | 吉利     |[秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList)|2023/7/15|    |    |
 | 中国一汽 | [秋招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 2023/7/10 |      |      |
