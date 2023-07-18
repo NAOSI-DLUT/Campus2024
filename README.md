@@ -51,7 +51,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
-| metaapp             | [秋招]([加入MetaApp (feishu.cn)](https://meta.jobs.feishu.cn/index)) | 2023/7/14 |      |              |
+| metaapp             | [秋招](https://meta.jobs.feishu.cn/index) | 2023/7/14 |      |              |
 | 诚通证券            | [秋招](https://ctzqzp.zhaopin.com/job/index.html)            | 2023/7/14 |      |              |
 | 上海农商银行        | [秋招](https://shrcb.zhiye.com/Campus)                       | 2023/7/10 |      |              |
 | 九坤投资            | [提前批](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/) | 2023/7/3  |      |              |
