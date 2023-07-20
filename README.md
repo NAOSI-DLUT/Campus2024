@@ -6,21 +6,24 @@
 
 ### 互联网 && AI
 
-| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
-| -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 京东     | [秋招](https://campus.jd.com/#/jobs?to=present&type=present) | 2023/7/14 |      |      |
-| 字节跳动 | [提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT) | 2023/7/11 |      |      |
-| 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 |      |      |
-| 小红书   | [提前批](https://job.xiaohongshu.com/campus)                 | 2023/7/10 |      |      |
-| 百度     | [秋招](https://talent.baidu.com/jobs/list)                   | 2023/7/10 |      |      |
-| 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/6/19 |      |      |
-| 腾讯     | [技术大咖专场](https://join.qq.com/post.html?query=p_8)      | 2023/6/18 |      |      |
+| 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注     |
+| -------- | ------------------------------------------------------------ | --------- | ---- | -------- |
+| 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad)          | 2023/7/20 |      | 暂无技术 |
+| shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html)  | 2023/7/20 |      |          |
+| 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) [秋招](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/7/20 |      |          |
+| 京东     | [秋招](https://campus.jd.com/#/jobs?to=present&type=present) | 2023/7/14 |      |          |
+| 字节跳动 | [提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT) | 2023/7/11 |      |          |
+| 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 |      |          |
+| 小红书   | [提前批](https://job.xiaohongshu.com/campus)                 | 2023/7/10 |      |          |
+| 百度     | [秋招](https://talent.baidu.com/jobs/list)                   | 2023/7/10 |      |          |
+| 腾讯     | [技术大咖专场](https://join.qq.com/post.html?query=p_8)      | 2023/6/18 |      |          |
 
 
 ### 游戏公司
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 搜狐畅游 | [提前批](https://app.mokahr.com/campus_apply/cyou-inc/42233?recommendCode=DS9sr9r2#/jobs) | 2023/7/20 |      |      |
 | 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 |      |      |
 | 米哈游   | [提前批](https://campus.mihoyo.com/#/campus/position)        | 2023/7/5  |      |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
@@ -38,6 +41,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 雅迪科技 | [秋招](https://app.mokahr.com/campus-recruitment/yadea/26985#/) | 2023/7/20 |  |  |
 | 宁德时代 | [提前批](https://talent.catl.com/campus-recruitment/catlhr/115953#/jobs) | 2023/7/18 |  |  |
 | 联想 | [秋招](https://talent.lenovo.com.cn/campus) | 2023/7/17 |  |  |
 | 吉利     |[秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList)|2023/7/15|    |    |
@@ -73,35 +77,44 @@
 
 ### 制造业&&嵌入式&&研究所&&其他
 
-| 公司                 | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
-| -------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
-| 远景科技             | [秋招](https://app.mokahr.com/campus-recruitment/envisiongroup/43123?sourceToken=3d19e440a63d59c8804905c0a58cf1b1#/) | 2023/7/14 |      |                        |
-| 传音                 | [秋招](http://transsion-mt.zhaopin.com/)                     | 2023/7/11 |      |                        |
-| 元戎启行             | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/7/10 |      |                        |
-| 芯动科技             | [秋招](https://innosilicon.zhiye.com/campus/jobs)            | 2023/7/10 |      |                        |
-| 中芯国际             | [秋招](https://smics.zhiye.com/campus)                       | 2023/7/10 |      |                        |
-| 联发科技             | [提前批](https://mediatek.zhiye.com/campus)                  | 2023/7/10 |      |                        |
-| 中国电科十三所       | [提前批](https://mp.weixin.qq.com/s?__biz=MzIzNzEyOTQ2NQ==&mid=2650043676&idx=1&sn=3b7bc540ba3f23b965f3531a97fb1e75) | 2023/7/10 |      |                        |
-| 思远                 | [秋招](https://www.tkplusemi.com/join/)                      | 2023/7/10 |      |                        |
-| 飞腾信息技术有限公司 | [提前批](https://service.phytium.com.cn/recruitment/campus_recruit) | 2023/7/10 |      |                        |
-| 北方华创             | [秋招](https://career.naura.com/campus/jobs)                 | 2023/7/10 |      |                        |
-| 北京国望             | [秋招](https://www.wjx.cn/vm/Pwnl8k7.aspx)                   | 2023/7/7  |      |                        |
-| 格力电器             | [提前批](https://gree.zhiye.com/Campus)                      | 2023/7/5  |      |                        |
-| 上海电气             | [暑期提前批](https://sec.hotjob.cn/wt/SEC/web/index/webPositionN310!getOnePosition?postId=314701&recruitType=12&brandCode=1&importPost=1&columnId=12) | 2023/7/1  |      | 不知道算实习还是提前批 |
-| 中国航天科技集团     | [提前批](https://www.spacetalent.com.cn/xcjh.html)           | 2023/6/28 |      |                        |
-| 上海市政总院         | [秋招](http://campus.51job.com/smedi/index.html)             | 2023/6/28 |      |                        |
-| 中国电科29所         | [提前批](https://hr.swiee.com/company.html)                  | 2023/6/25 |      |                        |
-| 长鑫存储             | [提前批](http://jobs.cxmt.com/campus/jobs)                   | 2023/6/25 |      |                        |
-| 科华集团             | [提前批](https://wecruit.hotjob.cn/SU62d904340dcad43c775eb9cc/mc/position/campus) | 2023/6/22 |      |                        |
-| 立芯                 | [秋招](http://ledatech.cn/xyzp)                              | 2023/6/19 |      |                        |
-| ITC                  | [秋招](https://hr.itc-pa.cn/job/school.html)                 | 2023/6/19 |      |                        |
-| 歌尔                 | [秋招](https://www.goertek.com/join/advertises.html)         | 2023/6/19 |      |                        |
-| 韶音                 | [提前批](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/6/19 |      |                        |
-| 壁仞科技             | [秋招](https://app.mokahr.com/campus-recruitment/biren/44727#/jobs?zhineng=81088) | 2023/6/19 |      |                        |
-| 影石                 | [秋招](https://insta360.zhiye.com/Campus)                    | 2023/6/18 |      |                        |
-| 宇通集团             | [提前批](https://www.hotjob.cn/wt/yutong/mobweb/v8/position/list?openid=ovWxVt4VF8_Xfec3x8ZkNye4Xak0&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/12 |      |                        |
-| 三环集团             | [提前批](https://hr.cctc.cc/school)                          | 2023/6/7  |      |                        |
-| 三一集团             | [提前批](http://sanycampus.zhiye.com/campus?k=24%E5%B1%8A&c=&p=&d=&PageIndex=1&class=2&x=1040&n=22) | 2023/4/21 |      |                        |
+| 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
+| -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 地平线                     | [秋招](https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/social.html) | 2023/7/20 |      |                        |
+| 海信集团                   | [秋招](https://hisense.m.zhiye.com/#/jobs?jc=7)              | 2023/7/20 |      |                        |
+| TCL实业                    | [提前批](https://campus.tcl.com/campus/recruiting.html?id=26&jobmx=306001,306101#look) | 2023/7/20 |      |                        |
+| 飞腾公司                   | [提前批](https://www.wjx.top/vm/hNCJ6I6.aspx)                | 2023/7/20 |      |                        |
+| 中国电科五十五所           | [提前批](http://cetc55.zhaopin.com/jobs.html)                | 2023/7/20 |      |                        |
+| 中电十所                   | [提前批](https://zdss.51job.com/campus.html)                 | 2023/7/20 |      |                        |
+| 京东方                     | [提前批](https://boe.zhiye.com/xzzw2022)                     | 2023/7/20 |      |                        |
+| 中国兵器装备集团智元研究院 | [秋招](https://zycs.zhiye.com/campus/jobs?LocId=%5B%7B%22id%22%3A%223301%22%2C%22label%22%3A%22%E6%9D%AD%E5%B7%9E%E5%B8%82%22%7D%5D) | 2023/7/20 |      |                        |
+| 中国网安                   | [提前批](https://app.mokahr.com/campus_apply/cetc30/36270#/) | 2023/7/20 |      |                        |
+| 远景科技                   | [秋招](https://app.mokahr.com/campus-recruitment/envisiongroup/43123?sourceToken=3d19e440a63d59c8804905c0a58cf1b1#/) | 2023/7/14 |      |                        |
+| 传音                       | [秋招](http://transsion-mt.zhaopin.com/)                     | 2023/7/11 |      |                        |
+| 元戎启行                   | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/7/10 |      |                        |
+| 芯动科技                   | [秋招](https://innosilicon.zhiye.com/campus/jobs)            | 2023/7/10 |      |                        |
+| 中芯国际                   | [秋招](https://smics.zhiye.com/campus)                       | 2023/7/10 |      |                        |
+| 联发科技                   | [提前批](https://mediatek.zhiye.com/campus)                  | 2023/7/10 |      |                        |
+| 中国电科十三所             | [提前批](https://mp.weixin.qq.com/s?__biz=MzIzNzEyOTQ2NQ==&mid=2650043676&idx=1&sn=3b7bc540ba3f23b965f3531a97fb1e75) | 2023/7/10 |      |                        |
+| 思远                       | [秋招](https://www.tkplusemi.com/join/)                      | 2023/7/10 |      |                        |
+| 飞腾信息技术有限公司       | [提前批](https://service.phytium.com.cn/recruitment/campus_recruit) | 2023/7/10 |      |                        |
+| 北方华创                   | [秋招](https://career.naura.com/campus/jobs)                 | 2023/7/10 |      |                        |
+| 北京国望                   | [秋招](https://www.wjx.cn/vm/Pwnl8k7.aspx)                   | 2023/7/7  |      |                        |
+| 格力电器                   | [提前批](https://gree.zhiye.com/Campus)                      | 2023/7/5  |      |                        |
+| 上海电气                   | [暑期提前批](https://sec.hotjob.cn/wt/SEC/web/index/webPositionN310!getOnePosition?postId=314701&recruitType=12&brandCode=1&importPost=1&columnId=12) | 2023/7/1  |      | 不知道算实习还是提前批 |
+| 中国航天科技集团           | [提前批](https://www.spacetalent.com.cn/xcjh.html)           | 2023/6/28 |      |                        |
+| 上海市政总院               | [秋招](http://campus.51job.com/smedi/index.html)             | 2023/6/28 |      |                        |
+| 中国电科29所               | [提前批](https://hr.swiee.com/company.html)                  | 2023/6/25 |      |                        |
+| 长鑫存储                   | [提前批](http://jobs.cxmt.com/campus/jobs)                   | 2023/6/25 |      |                        |
+| 科华集团                   | [提前批](https://wecruit.hotjob.cn/SU62d904340dcad43c775eb9cc/mc/position/campus) | 2023/6/22 |      |                        |
+| 立芯                       | [秋招](http://ledatech.cn/xyzp)                              | 2023/6/19 |      |                        |
+| ITC                        | [秋招](https://hr.itc-pa.cn/job/school.html)                 | 2023/6/19 |      |                        |
+| 歌尔                       | [秋招](https://www.goertek.com/join/advertises.html)         | 2023/6/19 |      |                        |
+| 韶音                       | [提前批](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/6/19 |      |                        |
+| 壁仞科技                   | [秋招](https://app.mokahr.com/campus-recruitment/biren/44727#/jobs?zhineng=81088) | 2023/6/19 |      |                        |
+| 影石                       | [秋招](https://insta360.zhiye.com/Campus)                    | 2023/6/18 |      |                        |
+| 宇通集团                   | [提前批](https://www.hotjob.cn/wt/yutong/mobweb/v8/position/list?openid=ovWxVt4VF8_Xfec3x8ZkNye4Xak0&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/6/12 |      |                        |
+| 三环集团                   | [提前批](https://hr.cctc.cc/school)                          | 2023/6/7  |      |                        |
+| 三一集团                   | [提前批](http://sanycampus.zhiye.com/campus?k=24%E5%B1%8A&c=&p=&d=&PageIndex=1&class=2&x=1040&n=22) | 2023/4/21 |      |                        |
 
 ### 安全公司&&软件公司&&云服务
 
@@ -349,6 +362,7 @@
 | 国网信通产业集团     | [暑期实习](https://xiaoyuan.zhaopin.com/company/CC000637547D90000046000) | 2023/7/10 |      |                                          |
 | 永赢基金             | [暑期实习](https://wecruit.hotjob.cn/SU628a429c0dcad41af38720c0/pb/index.html#/) | 2023/7/11 |      |                                          |
 | 诚通证券             | [暑期实习](https://ctzqzp.zhaopin.com/job/index.html)        | 2023/7/14 |      |                                          |
+| 摩根士丹利证券       | [暑期实习](https://www.morganstanleychina.com/people/students-and-graduates/mssc-summer-analyst-2024) | 2023/7/20 |      |                                          |
 
 ### 制造业&&嵌入式&&研究所&&其他
 
