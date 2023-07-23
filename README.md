@@ -42,6 +42,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 毫末智行 | [秋招](https://career.haomoai.com/campus-recruitment/haomo/44789#/jobs?project=100074055&page=1&anchorName=jobsList) | 2023/7/22 |  |  |
 | 雅迪科技 | [秋招](https://app.mokahr.com/campus-recruitment/yadea/26985#/) | 2023/7/20 |  |  |
 | 宁德时代 | [提前批](https://talent.catl.com/campus-recruitment/catlhr/115953#/jobs) | 2023/7/18 |  |  |
 | 联想 | [秋招](https://talent.lenovo.com.cn/campus) | 2023/7/17 |  |  |
