@@ -81,6 +81,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 中电 28 所/中电莱斯         | [秋招](https://app.mokahr.com/campus_apply/cetcles/40889#/jobs?zhineng=66507) | 2023/77/22 | 南京 |           |
 | 地平线                     | [秋招](https://wecruit.hotjob.cn/SU64819a4f2f9d2433ba8b043a/pb/social.html) | 2023/7/20 |      |                        |
 | 海信集团                   | [秋招](https://hisense.m.zhiye.com/#/jobs?jc=7)              | 2023/7/20 |      |                        |
 | TCL实业                    | [提前批](https://campus.tcl.com/campus/recruiting.html?id=26&jobmx=306001,306101#look) | 2023/7/20 |      |                        |
