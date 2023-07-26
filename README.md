@@ -8,7 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注     |
 | -------- | ------------------------------------------------------------ | --------- | ---- | -------- |
-| 小红书   | [正式批](https://job.xiaohongshu.com/campus)                 | 2023/7/24 |      |          |
+| 小红书   | [秋招](https://job.xiaohongshu.com/campus)                 | 2023/7/24 |      |          |
 | 快手     | [秋招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs) | 2023/7/21 |    | 
 | 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad)          | 2023/7/20 |      | 暂无技术 |
 | shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html)  | 2023/7/20 |      |          |
@@ -24,9 +24,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 米哈游   | [秋招](https://campus.mihoyo.com/#/campus/position)        | 2023/7/25  |      |      |
 | 搜狐畅游 | [提前批](https://app.mokahr.com/campus_apply/cyou-inc/42233?recommendCode=DS9sr9r2#/jobs) | 2023/7/20 |      |      |
 | 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 |      |      |
-| 米哈游   | [提前批](https://campus.mihoyo.com/#/campus/position)        | 2023/7/5  |      |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
 | 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 |      |      |
 | 火羽科技 | [秋招](https://campus.huoyugame.com/job.html)                | 2023/6/19 |      |      |
