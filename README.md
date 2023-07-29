@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注     |
 | -------- | ------------------------------------------------------------ | --------- | ---- | -------- |
+| 虹软 | [秋招](https://www.arcsoft.com.cn/job/JobList.html) | 2023/7/29 | | |
 | 新浪微博 | [秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307) | 2023/7/28 | | 8/20 截止投递 |
 | 滴滴     | [提前批](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs)| 2023/7/28|     |      |
 | 小红书   | [秋招](https://job.xiaohongshu.com/campus)                 | 2023/7/24 |      |          |
