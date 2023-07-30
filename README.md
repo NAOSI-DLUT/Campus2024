@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注     |
 | -------- | ------------------------------------------------------------ | --------- | ---- | -------- |
+| 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad) 技术秋招 | 2023/7/30 |      | 技术秋招仅内推,无投递链接 |
 | 美团 | [北斗计划](https://zhaopin.meituan.com/web/beidou) | 2023/7/29 |  | 7.31开启 |
 | 菜鸟集团 | [海外秋招](https://jinshuju.net/f/kL1xXu) | 2023/7/29 |  |  |
 | 旷视 | [秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317) | 2023/7/29 |  |  |
@@ -15,7 +16,6 @@
 | 滴滴     | [提前批](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs)| 2023/7/28|     |      |
 | 小红书   | [秋招](https://job.xiaohongshu.com/campus)                 | 2023/7/24 |      |          |
 | 快手     | [秋招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs) | 2023/7/21 |    ||
-| 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad)          | 2023/7/20 |      | 暂无技术 |
 | shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html)  | 2023/7/20 |      |          |
 | 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) [秋招](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/7/20 |      |          |
 | 京东     | [管培生](https://campus.jd.com/#/jobs?to=present&type=present) | 2023/7/14 |      |  暂无技术        |
