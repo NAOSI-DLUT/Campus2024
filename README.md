@@ -9,7 +9,7 @@
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注     |
 | -------- | ------------------------------------------------------------ | --------- | ---- | -------- |
 | 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad) 技术秋招 | 2023/7/30 |      | 技术秋招仅内推,无投递链接 |
-| 美团 | [北斗计划](https://zhaopin.meituan.com/web/beidou) [正常批](https://zhaopin.meituan.com/web/campus) | 2023/8/2 |  | [内推码](https://www.nowcoder.com/discuss/515522902582685696?sourceSSR=users) |
+| 美团 | [北斗计划](https://zhaopin.meituan.com/web/beidou) [正常批](https://zhaopin.meituan.com/web/campus) | 2023/8/2 |  |  |
 | 菜鸟集团 | [海外秋招](https://jinshuju.net/f/kL1xXu) | 2023/7/29 |  |  |
 | 旷视 | [秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317) | 2023/7/29 |  |  |
 | 新浪微博 | [秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307) | 2023/7/28 | | 8/20 截止投递 |
