@@ -48,6 +48,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 荣耀 | [秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?currentPage=1) | 2023/8/3 |     |     |
 | 宁德时代 | [提前批](https://talent.catl.com/campus-recruitment/catlhr/115953#/jobs) [秋招](https://talent.catl.com/campus-recruitment/catlhr/115953#/) | 2023/8/2  |      |      |
 | 极氪     | [提前批](https://campus.zeekrlife.com/campus-recruitment/geely/98147#/jobs) | 2023/7/29 |      |      |
 | 小马智行 | [秋招](https://ponyai.jobs.feishu.cn/ponycampus/?spread=2398H3Q) | 2023/7/29 |      |      |
