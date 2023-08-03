@@ -41,6 +41,7 @@
 
 | 公司           | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注 |
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
+| 特斯拉 | [秋招](https://app.mokahr.com/campus-recruitment/tesla/41460#/jobs) | 2023/8/3 |      |      |
 | 微软亚洲研究院 | [秋招](https://jobs.careers.microsoft.com/global/en/job/1597996/Researcher---MSRA---2024-Full-Time-Opportunities-for-University-Graduates) | 2023/8/2 |      |      |
 
 
