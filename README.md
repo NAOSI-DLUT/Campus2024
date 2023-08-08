@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 饿了么 | [秋招](https://talent.ele.me/campus/position-list?campusType=freshman&lang=zh) | 2023/8/8 | | |
 | 美团     | [北斗计划](https://zhaopin.meituan.com/web/beidou) [秋招](https://zhaopin.meituan.com/web/campus) | 2023/8/2  |      |                           |
 | 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad) 技术秋招 | 2023/7/30 |      | 技术秋招仅内推,无投递链接 |
 | 菜鸟集团 | [海外秋招](https://jinshuju.net/f/kL1xXu)                    | 2023/7/29 |      |                           |
