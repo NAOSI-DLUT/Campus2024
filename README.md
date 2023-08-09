@@ -94,6 +94,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 紫光同芯                   | [秋招](https://www.tsinghuaic.com/index/join/school_job.html?type=1)| 2023/8/9|   |     |
 | 复旦微电子                 | [秋招](http://campus.51job.com/fmsh/company.html)            | 2023/8/2  |      |                        |
 | 电科十四所                 | [秋招](http://hr.nriet.com/)                                 | 2023/8/2  |      |                        |
 | 海大集团                   | [秋招](https://app.mokahr.com/campus-recruitment/haid/101909#/jobs?page=1&anchorName=jobsList) | 2023/8/2  |      |                        |
