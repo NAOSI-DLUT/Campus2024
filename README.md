@@ -8,6 +8,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| BiliBili | [秋招](https://jobs.bilibili.com/campus/positions?type=3&channel=nowcoder) | 2023/8/9 | | |
+| 高德地图 | [秋招](https://talent.amap.com/campus/position-list?campusType=freshman) | 2023/8/9 | | |
+| 猿辅导 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/9 | | |
 | 饿了么 | [秋招](https://talent.ele.me/campus/position-list?campusType=freshman&lang=zh) | 2023/8/8 | | |
 | 美团     | [北斗计划](https://zhaopin.meituan.com/web/beidou) [秋招](https://zhaopin.meituan.com/web/campus) | 2023/8/2  |      |                           |
 | 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad) 技术秋招 | 2023/7/30 |      | 技术秋招仅内推,无投递链接 |
