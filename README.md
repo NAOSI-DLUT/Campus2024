@@ -50,6 +50,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 文远知行 | [秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/jobs) | 2023/8/10 |     |     |
 | 荣耀 | [秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?currentPage=1) | 2023/8/3 |     |     |
 | 宁德时代 | [提前批](https://talent.catl.com/campus-recruitment/catlhr/115953#/jobs) [秋招](https://talent.catl.com/campus-recruitment/catlhr/115953#/) | 2023/8/2  |      |      |
 | 极氪     | [提前批](https://campus.zeekrlife.com/campus-recruitment/geely/98147#/jobs) | 2023/7/29 |      |      |
@@ -94,6 +95,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 先导智能                   | [秋招](https://leadchina.zhiye.com/campus)| 2023/8/10 |   |     |
 | 紫光同芯                   | [秋招](https://www.tsinghuaic.com/index/join/school_job.html?type=1)| 2023/8/9|   |     |
 | 复旦微电子                 | [秋招](http://campus.51job.com/fmsh/company.html)            | 2023/8/2  |      |                        |
 | 电科十四所                 | [秋招](http://hr.nriet.com/)                                 | 2023/8/2  |      |                        |
