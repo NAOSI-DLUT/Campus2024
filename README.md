@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 阿里巴巴 | [秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/11 | | |
 | BiliBili | [秋招](https://jobs.bilibili.com/campus/positions?type=3&channel=nowcoder) | 2023/8/9 | | |
 | 高德地图 | [秋招](https://talent.amap.com/campus/position-list?campusType=freshman) | 2023/8/9 | | |
 | 猿辅导 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/9 | | |
