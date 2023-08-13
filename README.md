@@ -37,6 +37,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 多益网络 | [秋招](https://xz.duoyi.com/v40/#/positions)                 | 2023/8/13 |      |      |
+| 完美世界 | [秋招](https://app.mokahr.com/campus-recruitment/pwrd/98446#/) | 2023/8/13 |      |      |
 | 灵犀互娱 | [秋招](https://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zhhttps://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |      |      |
 | 疯狂游戏 | [秋招](http://official-website.hortorgames.com/#/web/list)   | 2023/8/13 |      |      |
 | 网龙网络 | [秋招](https://nd.zhiye.com/campus)                          | 2023/8/13 |      |      |
@@ -62,6 +64,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 元戎启行 | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/8/13 |  |  |
 | 华为 | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList) | 2023/8/13 |  |  |
 | 文远知行 | [秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/jobs) | 2023/8/10 |     |     |
 | 荣耀 | [秋招](https://career.hihonor.com/SU60eea919bef57c1023f6fe78/pb/school.html?currentPage=1) | 2023/8/3 |     |     |
@@ -82,6 +85,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 东方财富            | [秋招](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/home) | 2023/8/13 |      |              |
 | 广发卡              | [提前批](https://zpxt.zhiye.com/Campus?activityGuid=8849c0d6-3fcd-408e-bb2f-a1d1be957f72&ActivityJumpPage=PortalPage) | 2023/8/13 |      |              |
 | 普华永道            | [秋招](https://pwctalentportal.avature.cn/zh_CN/careers/SearchJobs/?2888=%5B178671%2C178672%2C178673%2C178674%2C3314361%2C5741846%5D&2888_format=2481&listFilterMode=1&folderRecordsPerPage=6&?source=WeChat) | 2023/8/13 |      |              |
 | 中国人保            | [秋招](http://picc.zhiye.com/xiaoyuan)                       | 2023/8/13 |      |              |
@@ -168,6 +172,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 中望软件 | [秋招](https://www.zwsoft.cn/job/campus)                     | 2023/8/13 |      |      |
 | 合合信息 | [算法提前批](http://www.intsig.com/recruit)                  | 2023/8/2  |      |      |
 | 识渊科技 | [秋招](https://sailyond.jobs.feishu.cn/index/)               | 2023/8/2  |      |      |
 | 奇安信   | [提前批](https://campus.qianxin.com/campus/jobSearch)        | 2023/8/2  |      |      |
