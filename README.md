@@ -85,6 +85,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 恒生电子            | [秋招](https://campus.hundsun.com/) | 2023/8/14 |      |              |
 | 东方财富            | [秋招](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/home) | 2023/8/13 |      |              |
 | 广发卡              | [提前批](https://zpxt.zhiye.com/Campus?activityGuid=8849c0d6-3fcd-408e-bb2f-a1d1be957f72&ActivityJumpPage=PortalPage) | 2023/8/13 |      |              |
 | 普华永道            | [秋招](https://pwctalentportal.avature.cn/zh_CN/careers/SearchJobs/?2888=%5B178671%2C178672%2C178673%2C178674%2C3314361%2C5741846%5D&2888_format=2481&listFilterMode=1&folderRecordsPerPage=6&?source=WeChat) | 2023/8/13 |      |              |
@@ -115,6 +116,8 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 瑞晟微电子 | [秋招](https://www.realsil.com.cn/Home/Position) | 2023/8/14 |  |  |
+| 爱旭新能源 | [秋招](https://wecruit.hotjob.cn/SU6114ca1abef57c65330918e8/pb/school.html) | 2023/8/14 |  |  |
 | 龙芯中科 | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=11880321-18aa-43a7-a2a6-8a3a1affed78&color=31BE88) | 2023/8/13 |  |  |
 | 平头哥 | [秋招](https://www.t-head.cn/careers?lang=zh) | 2023/8/13 |  |  |
 | 茄子科技 | [秋招](https://share.zhiye.com/campus/jobs) | 2023/8/13 |  |  |
@@ -173,6 +176,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 科来软件 | [秋招](http://zhaopin.colasoft.com.cn/Campus)                     | 2023/8/14 |      |      |
 | 中望软件 | [秋招](https://www.zwsoft.cn/job/campus)                     | 2023/8/13 |      |      |
 | 合合信息 | [算法提前批](http://www.intsig.com/recruit)                  | 2023/8/2  |      |      |
 | 识渊科技 | [秋招](https://sailyond.jobs.feishu.cn/index/)               | 2023/8/2  |      |      |
