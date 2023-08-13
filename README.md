@@ -118,6 +118,7 @@
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
 | 瑞晟微电子 | [秋招](https://www.realsil.com.cn/Home/Position) | 2023/8/14 |  |  |
 | 爱旭新能源 | [秋招](https://wecruit.hotjob.cn/SU6114ca1abef57c65330918e8/pb/school.html) | 2023/8/14 |  |  |
+| 龙芯中科 | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=11880321-18aa-43a7-a2a6-8a3a1affed78&color=31BE88) | 2023/8/13 |  |  |
 | 平头哥 | [秋招](https://www.t-head.cn/careers?lang=zh) | 2023/8/13 |  |  |
 | 茄子科技 | [秋招](https://share.zhiye.com/campus/jobs) | 2023/8/13 |  |  |
 | 图森未来 | [秋招](https://app.mokahr.com/campus_apply/tusenweilai/68335#/jobs?page=1&anchorName=jobsList&commitment%5B0%5D=%E5%85%A8%E8%81%8C%23%2Fjobs&commitment%5B1%5D=%E5%85%A8%E8%81%8C) | 2023/8/13 |  |  |
