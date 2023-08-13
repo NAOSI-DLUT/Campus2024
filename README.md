@@ -8,7 +8,6 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
-| 饿了么 | [秋招](https://talent.ele.me/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |  |  |
 | 达摩院 | [秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |  |  |
 | 阿里大文娱 | [秋招](https://jobs.alibaba-dme.com/off-campus/position-list?lang=zh) | 2023/8/13 |  |  |
 | 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039?previewKey=5a77f111a2994afc9669a3d68a8d050f139d9b6d4aa142029d3a9f20a6eba005#/jobs) | 2023/8/13 |  |  |
