@@ -85,6 +85,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 数禾科技            | [秋招](https://shuhegroup1.zhiye.com/campus/jobs)    | 2023/8/14 |      |                   |
 | 恒生电子            | [秋招](https://campus.hundsun.com/) | 2023/8/14 |      |              |
 | 东方财富            | [秋招](https://app.mokahr.com/campus-recruitment/eastmoney/57971#/home) | 2023/8/13 |      |              |
 | 广发卡              | [提前批](https://zpxt.zhiye.com/Campus?activityGuid=8849c0d6-3fcd-408e-bb2f-a1d1be957f72&ActivityJumpPage=PortalPage) | 2023/8/13 |      |              |
@@ -116,6 +117,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 仙工智能 | [秋招](https://campus.seer-group.com/campus_apply/seer/39147#/) | 2023/8/14 |  |  |
 | 瑞晟微电子 | [秋招](https://www.realsil.com.cn/Home/Position) | 2023/8/14 |  |  |
 | 爱旭新能源 | [秋招](https://wecruit.hotjob.cn/SU6114ca1abef57c65330918e8/pb/school.html) | 2023/8/14 |  |  |
 | 平头哥 | [秋招](https://www.t-head.cn/careers?lang=zh) | 2023/8/13 |  |  |
