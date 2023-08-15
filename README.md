@@ -8,6 +8,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 淘天 | [秋招](https://talent.taotian.com/campus/home?lang=zh) | 2023/8/17 |  | 8.17开启 |
+| 搜狐 | [秋招](https://app.mokahr.com/campus-recruitment/sohu/5682?sourceToken=b74e8a9dc0050254f9ae3f3c501d21bb#/) | 2023/8/16 |  |  |
+| 得物 | [秋招](https://app.mokahr.com/campus-recruitment/thedu/37483?sourceToken=077e175133b9ae5560c45e22677f68e4#/) | 2023/8/16 |  |  |
 | 达摩院 | [秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |  |  |
 | 阿里大文娱 | [秋招](https://jobs.alibaba-dme.com/off-campus/position-list?lang=zh) | 2023/8/13 |  |  |
 | 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039?previewKey=5a77f111a2994afc9669a3d68a8d050f139d9b6d4aa142029d3a9f20a6eba005#/jobs) | 2023/8/13 |  |  |
@@ -54,6 +57,7 @@
 
 | 公司           | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注 |
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
+| 瑞银中国 | [秋招](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=8455#keyWordSearch=&locationSearch=) | 2023/8/16 |  |  |
 | Apple | [秋招](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN&cid=wechat_corporate_china_wechat_china_2023autumnur&board_id=JB089) | 2023/8/13 |  |  |
 | 施耐德电气 | [秋招](https://www.zhipin.com/zt/2023/schneider/yanfaxinxing.html) | 2023/8/13 |  |  |
 | 特斯拉 | [秋招](https://app.mokahr.com/campus-recruitment/tesla/41460#/jobs) | 2023/8/3 |      |      |
@@ -64,6 +68,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 极氪 | [秋招](https://app.mokahr.com/campus-recruitment/geely/98147?sourceToken=7aece89dc565a56cab5729f0633412eb#/) | 2023/8/16 |  |  |
+| OPPO     | [提前批](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) [秋招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2023/8/16 |      |      |
 | 蔚来 | [秋招](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=CDRBT29) | 2023/8/15 | 上海 合肥 北京 |  |
 | 元戎启行 | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/8/13 | 深圳 北京 |  |
 | 华为 | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList) | 2023/8/13 |  |  |
@@ -80,7 +86,6 @@
 | 大疆     | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
 | 小米     | [硬件提前批](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7241520988906061932&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) | 2023/7/1  |      |      |
 | TP-LINK  | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
-| OPPO     | [提前批](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2023/6/28 |      |      |
 
 ### 银行&&保险&&金融&&地产&&国企
 
