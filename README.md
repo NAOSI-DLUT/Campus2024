@@ -64,6 +64,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 蔚来 | [秋招](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=CDRBT29) | 2023/8/15 | 上海 合肥 北京 |  |
 | 元戎启行 | [秋招](https://app.mokahr.com/campus_apply/deeproute/6487#/) | 2023/8/13 | 深圳 北京 |  |
 | 华为 | [秋招](https://career.huawei.com/reccampportal/portal5/campus-recruitment.html#jobList) | 2023/8/13 |  |  |
 | 文远知行 | [秋招](https://app.mokahr.com/campus_apply/jingchi/2137#/jobs) | 2023/8/10 | 广州 深圳 上海 北京 |     |
