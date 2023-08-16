@@ -11,27 +11,27 @@
 | 淘天 | [秋招](https://talent.taotian.com/campus/home?lang=zh) | 2023/8/17 |  | 8.17开启 |
 | 搜狐 | [秋招](https://app.mokahr.com/campus-recruitment/sohu/5682?sourceToken=b74e8a9dc0050254f9ae3f3c501d21bb#/) | 2023/8/16 |  |  |
 | 得物 | [秋招](https://app.mokahr.com/campus-recruitment/thedu/37483?sourceToken=077e175133b9ae5560c45e22677f68e4#/) | 2023/8/16 |  |  |
-| 达摩院 | [秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |  |  |
+| 达摩院 | [秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 | 杭州 北京 上海 |  |
 | 阿里大文娱 | [秋招](https://jobs.alibaba-dme.com/off-campus/position-list?lang=zh) | 2023/8/13 |  |  |
-| 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039?previewKey=5a77f111a2994afc9669a3d68a8d050f139d9b6d4aa142029d3a9f20a6eba005#/jobs) | 2023/8/13 |  |  |
+| 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039?previewKey=5a77f111a2994afc9669a3d68a8d050f139d9b6d4aa142029d3a9f20a6eba005#/jobs) | 2023/8/13 | 广州 北京 |  |
 | 字节跳动 | [提前批](https://jobs.bytedance.com/campus/position?keywords=&category=&location=&project=&type=2&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=9RJJHVT) [秋招](https://jobs.bytedance.com/campus/position) | 2023/8/13 |      |                           |
 | 阿里巴巴控股集团 | [秋招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/11 | | |
-| BiliBili | [秋招](https://jobs.bilibili.com/campus/positions?type=3&channel=nowcoder) | 2023/8/9 | | |
-| 高德地图 | [秋招](https://talent.amap.com/campus/position-list?campusType=freshman) | 2023/8/9 | | |
-| 猿辅导 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/9 | | |
+| BiliBili | [秋招](https://jobs.bilibili.com/campus/positions?type=3&channel=nowcoder) | 2023/8/9 | 上海为主 北京 重庆 | |
+| 高德地图 | [秋招](https://talent.amap.com/campus/position-list?campusType=freshman) | 2023/8/9 | 北京 | |
+| 猿辅导 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/9 | 北京 上海 青岛 | |
 | 饿了么 | [秋招](https://talent.ele.me/campus/position-list?campusType=freshman&lang=zh) | 2023/8/8 | | |
 | 美团     | [北斗计划](https://zhaopin.meituan.com/web/beidou) [秋招](https://zhaopin.meituan.com/web/campus) | 2023/8/2  |      |                           |
 | 拼多多   | [提前批](https://careers.pinduoduo.com/campus/grad) 技术秋招 | 2023/7/30 |      | 技术秋招仅内推,无投递链接 |
 | 菜鸟集团 | [海外秋招](https://jinshuju.net/f/kL1xXu)                    | 2023/7/29 |      |                           |
-| 旷视     | [秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317) | 2023/7/29 |      |                           |
-| 新浪微博 | [秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307) | 2023/7/28 |      | 8/20 截止投递             |
+| 旷视     | [秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317) | 2023/7/29 | 北京为主 上海 |                           |
+| 新浪微博 | [秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307) | 2023/7/28 | 北京 | 8/20 截止投递             |
 | 滴滴     | [提前批](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs) | 2023/7/28 |      |                           |
-| 小红书   | [秋招](https://job.xiaohongshu.com/campus)                   | 2023/7/24 |      |                           |
+| 小红书   | [秋招](https://job.xiaohongshu.com/campus)                   | 2023/7/24 | 北京 上海 武汉 广州 |                           |
 | 快手     | [秋招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs) | 2023/7/21 |      |                           |
-| shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html)  | 2023/7/20 |      |                           |
+| shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html)  | 2023/7/20 | 广东 南京 |                           |
 | 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) [秋招](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/7/20 |      |                           |
 | 京东     | [秋招](https://campus.jd.com/#/jobs?to=present&type=present) | 2023/7/14 |      |                           |
-| 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 |      |                           |
+| 作业帮   | [秋招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/10 | 北京 厦门 成都 武汉 |                           |
 | 百度     | [秋招](https://talent.baidu.com/jobs/list)                   | 2023/7/10 |      |                           |
 | 腾讯     | [技术大咖专场](https://join.qq.com/post.html?query=p_8) [管培生](https://join.qq.com/post.html?query=p_9) | 2023/6/18 |      |                           |
 
@@ -45,12 +45,12 @@
 | 灵犀互娱 | [秋招](https://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zhhttps://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |      |      |
 | 疯狂游戏 | [秋招](http://official-website.hortorgames.com/#/web/list)   | 2023/8/13 |      |      |
 | 网龙网络 | [秋招](https://nd.zhiye.com/campus)                          | 2023/8/13 |      |      |
-| 4399     | [秋招](https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1) | 2023/8/2  |      |      |
+| 4399     | [秋招](https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1) | 2023/8/2  | 广州 |      |
 | 米哈游   | [秋招](https://campus.mihoyo.com/#/campus/position)          | 2023/7/25 |      |      |
 | 搜狐畅游 | [提前批](https://app.mokahr.com/campus_apply/cyou-inc/42233?recommendCode=DS9sr9r2#/jobs) | 2023/7/20 |      |      |
-| 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 |      |      |
+| 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 | 杭州 |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
-| 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 |      |      |
+| 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 | 北京 西安 深圳 |      |
 | 火羽科技 | [秋招](https://campus.huoyugame.com/job.html)                | 2023/6/19 |      |      |
 
 ### 外企
@@ -82,7 +82,7 @@
 | 雅迪科技 | [秋招](https://app.mokahr.com/campus-recruitment/yadea/26985#/) | 2023/7/20 |      |      |
 | 联想     | [秋招](https://talent.lenovo.com.cn/campus)                  | 2023/7/17 |      |      |
 | 吉利     | [秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/15 |      |      |
-| 中国一汽 | [秋招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 2023/7/10 |      |      |
+| 中国一汽 | [秋招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 2023/7/10 | 北京 长春 |      |
 | 大疆     | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
 | 小米     | [硬件提前批](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7241520988906061932&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) | 2023/7/1  |      |      |
 | TP-LINK  | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
