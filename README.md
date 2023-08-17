@@ -8,7 +8,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
-| 淘天 | [秋招](https://talent.taotian.com/campus/home?lang=zh) | 2023/8/17 |  | 8.17开启 |
+| 微众银行 | [秋招](https://campus.webank.com/campus-recruitment/webankhr/18005/#/) | 2023/8/17 | 深圳 武汉 |  |
+| 淘天 | [秋招](https://talent.taotian.com/campus/home?lang=zh) | 2023/8/17 |  |  |
 | 搜狐 | [秋招](https://app.mokahr.com/campus-recruitment/sohu/5682?sourceToken=b74e8a9dc0050254f9ae3f3c501d21bb#/) | 2023/8/16 |  |  |
 | 得物 | [秋招](https://app.mokahr.com/campus-recruitment/thedu/37483?sourceToken=077e175133b9ae5560c45e22677f68e4#/) | 2023/8/16 |  |  |
 | 达摩院 | [秋招](https://joindamo.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 | 杭州 北京 上海 |  |
