@@ -71,6 +71,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 小米 | [秋招](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7262301022080532589&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) |2023/8/18|   | |||
 | 极氪 | [秋招](https://app.mokahr.com/campus-recruitment/geely/98147?sourceToken=7aece89dc565a56cab5729f0633412eb#/) | 2023/8/16 |  |  |
 | OPPO     | [提前批](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) [秋招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2023/8/16 |      |      |
 | 蔚来 | [秋招](https://nio.jobs.feishu.cn/campus/?keywords=&category=&location=&project=7254481820200159547&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=&spread=CDRBT29) | 2023/8/15 | 上海 合肥 北京 |  |
@@ -87,7 +88,6 @@
 | 吉利     | [秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/15 |      |      |
 | 中国一汽 | [秋招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 2023/7/10 | 北京 长春 |      |
 | 大疆     | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
-| 小米     | [硬件提前批](https://xiaomi.jobs.f.mioffice.cn/campus/?keywords=&category=&location=&project=7241520988906061932&type=&job_hot_flag=&current=1&limit=10&functionCategory=&spread=J7NS6YR) | 2023/7/1  |      |      |
 | TP-LINK  | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
 
 ### 银行&&保险&&金融&&地产&&国企
