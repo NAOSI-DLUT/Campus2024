@@ -45,8 +45,8 @@
 | 多益网络 | [秋招](https://xz.duoyi.com/v40/#/positions)                 | 2023/8/13 | 广州 成都 武汉 |      |
 | 完美世界 | [秋招](https://app.mokahr.com/campus-recruitment/pwrd/98446#/) | 2023/8/13 | 北京 成都 杭州 |      |
 | 灵犀互娱 | [秋招](https://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zhhttps://talent.lingxigames.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/13 |      |      |
-| 疯狂游戏 | [秋招](http://official-website.hortorgames.com/#/web/list)   | 2023/8/13 |      |      |
-| 网龙网络 | [秋招](https://nd.zhiye.com/campus)                          | 2023/8/13 |      |      |
+| 疯狂游戏 | [秋招](http://official-website.hortorgames.com/#/web/list)   | 2023/8/13 | 北京 |      |
+| 网龙网络 | [秋招](https://nd.zhiye.com/campus)                          | 2023/8/13 | 福州 |      |
 | 4399     | [秋招](https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1) | 2023/8/2  | 广州 |      |
 | 米哈游   | [秋招](https://campus.mihoyo.com/#/campus/position)          | 2023/7/25 |      |      |
 | 搜狐畅游 | [提前批](https://app.mokahr.com/campus_apply/cyou-inc/42233?recommendCode=DS9sr9r2#/jobs) | 2023/7/20 |      |      |
@@ -87,7 +87,6 @@
 | 联想     | [秋招](https://talent.lenovo.com.cn/campus)                  | 2023/7/17 |      |      |
 | 吉利     | [秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/15 |      |      |
 | 中国一汽 | [秋招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202301) | 2023/7/10 | 北京 长春 |      |
-| 大疆     | [秋招](https://we.dji.com/zh-CN/campus/recruitment)          | 2023/7/6  |      |      |
 | TP-LINK  | [提前批](https://hr.tp-link.com.cn/)                         | 2023/5/19 |      |      |
 
 ### 银行&&保险&&金融&&地产&&国企
@@ -105,7 +104,7 @@
 | metaapp             | [秋招](https://meta.jobs.feishu.cn/index)                    | 2023/7/14 |      |              |
 | 诚通证券            | [秋招](https://ctzqzp.zhaopin.com/job/index.html)            | 2023/7/14 |      |              |
 | 上海农商银行        | [秋招](https://shrcb.zhiye.com/Campus)                       | 2023/7/10 | 上海 |              |
-| 九坤投资            | [提前批](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/) | 2023/7/3  |      |              |
+| 九坤投资            | [提前批](https://app.mokahr.com/campus_apply/ubiquantrecruit/37031?sourceToken=11e5413ce0921abca7937e8e087fa050#/) | 2023/7/3  | 北京 上海 深圳 |              |
 | 苏宁银行            | [秋招](https://app.mokahr.com/campus-recruitment/snb/45592#/) | 2023/6/28 |      |              |
 | 中化蓝天            | [提前批](https://sinochem.hotjob.cn/SU63f894162f9d240675d9b106/mc/position/intern) | 2023/6/25 |      |              |
 | 南京银行            | [提前批](https://jobwx.njcb.com.cn/#/Campus)                 | 2023/6/22 |      |              |
@@ -188,12 +187,12 @@
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 科来软件 | [秋招](http://zhaopin.colasoft.com.cn/Campus)                     | 2023/8/14 |      |      |
-| 中望软件 | [秋招](https://www.zwsoft.cn/job/campus)                     | 2023/8/13 |      |      |
+| 中望软件 | [秋招](https://www.zwsoft.cn/job/campus)                     | 2023/8/13 | 广州 西安 北京 武汉 |      |
 | 合合信息 | [算法提前批](http://www.intsig.com/recruit)                  | 2023/8/2  |      |      |
 | 识渊科技 | [秋招](https://sailyond.jobs.feishu.cn/index/)               | 2023/8/2  |      |      |
 | 奇安信   | [提前批](https://campus.qianxin.com/campus/jobSearch)        | 2023/8/2  |      |      |
 | 星环科技 | [提前批](https://app.mokahr.com/campus_apply/transwarp/3196#/jobs?zhineng=14487) | 2023/8/2  |      |      |
-| 虹软     | [秋招](https://www.arcsoft.com.cn/job/JobList.html)          | 2023/7/29 |      |      |
+| 虹软     | [秋招](https://www.arcsoft.com.cn/job/JobList.html)          | 2023/7/29 | 杭州为主 上海 南京 |      |
 | 帆软     | [秋招](https://join.fanruan.com/campus)                      | 2023/7/10 |      |      |
 | 用友     | [SP专场](https://www.nowcoder.com/jobs/company-project?projectId=1401&recruitType=1&deliverSource=4&activityId=37&activitySuffix=2024SP&pageSource=5007) | 2023/7/10 |      |      |
 | 深信服   | [提前批](https://hr.sangfor.com/campucompon/schoolRecruitment) | 2023/6/28 |      |      |
