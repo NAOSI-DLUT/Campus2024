@@ -197,6 +197,21 @@
 | 用友     | [SP专场](https://www.nowcoder.com/jobs/company-project?projectId=1401&recruitType=1&deliverSource=4&activityId=37&activitySuffix=2024SP&pageSource=5007) | 2023/7/10 |      |      |
 | 深信服   | [提前批](https://hr.sangfor.com/campucompon/schoolRecruitment) | 2023/6/28 |      |      |
 
+### 停止投递
+
+| 公司           | 更新时间  |
+| -------------- | --------- |
+| 大疆           | 2023/8/18 |
+| 小米硬件提前批 | 2023/8/18 |
+
+### 补录
+
+| 公司 | 投递链接 | 更新日期 | 地点 | 备注 |
+| ---- | -------- | -------- | ---- | ---- |
+|      |          |          |      |      |
+
+
+
 ## 实习篇
 
 ### 互联网 && AI
