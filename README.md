@@ -126,6 +126,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 美的 | [秋招](https://careers.midea.com/schoolOut/home) | 2023/8/18 |  |  |
 | 仙工智能 | [秋招](https://campus.seer-group.com/campus_apply/seer/39147#/) | 2023/8/14 | 上海 |  |
 | 瑞晟微电子 | [秋招](https://www.realsil.com.cn/Home/Position) | 2023/8/14 | 苏州 合肥 |  |
 | 爱旭新能源 | [秋招](https://wecruit.hotjob.cn/SU6114ca1abef57c65330918e8/pb/school.html) | 2023/8/14 | 义乌 深圳 |  |
