@@ -59,6 +59,7 @@
 
 | 公司           | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注 |
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
+| 思科 | [秋招](https://campus.51job.com/cisco/school.html) | 2023/8/21 |  |  |
 | 博世 | [秋招](https://app.mokahr.com/campus-recruitment/bosch/73873#/) | 2023/8/17 |  |  |
 | 瑞银中国 | [秋招](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=searchResults&SearchType=linkquery&LinkID=8455#keyWordSearch=&locationSearch=) | 2023/8/16 |  |  |
 | Apple | [秋招](https://jobs.apple.com/zh-cn/search?location=china-CHNC&team=internships-STDNT-INTRN&cid=wechat_corporate_china_wechat_china_2023autumnur&board_id=JB089) | 2023/8/13 |  |  |
@@ -126,6 +127,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 兵器 203 所 | [秋招](https://mp.weixin.qq.com/s/0zPvUee1AVJJaj2-_cVgYg) | 2023/8/21 | 西安 |  |
 | 台积电 | [秋招](https://wecruit.hotjob.cn/SU61075bbabef57c43d825d671/mc/position/campus) | 2023/8/18 | 南京 |  |
 | 美的 | [秋招](https://careers.midea.com/schoolOut/home) | 2023/8/18 |  |  |
 | 高德红外 | [秋招](https://wecruit.hotjob.cn/SU61137860bef57c653306515b/pb/school.html) | 2023/8/16 |  |  |
