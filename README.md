@@ -44,6 +44,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 网易互娱 | [秋招](https://game.campus.163.com/position) | 2023/8/22 | 广州 杭州 |  |
 | 点点互动 | [秋招](https://centurygame.zhiye.com/) | 2023/8/22 |  |  |
 | 多益网络 | [秋招](https://xz.duoyi.com/v40/#/positions)                 | 2023/8/13 | 广州 成都 武汉 |      |
 | 完美世界 | [秋招](https://app.mokahr.com/campus-recruitment/pwrd/98446#/) | 2023/8/13 | 北京 成都 杭州 |      |
@@ -53,7 +54,7 @@
 | 4399     | [秋招](https://hr.4399om.com/weixin/?r=job/agent&type=2&isOpen=0&jobTableType=1) | 2023/8/2  | 广州 |      |
 | 米哈游   | [秋招](https://campus.mihoyo.com/#/campus/position)          | 2023/7/25 |      |      |
 | 搜狐畅游 | [提前批](https://app.mokahr.com/campus_apply/cyou-inc/42233?recommendCode=DS9sr9r2#/jobs) | 2023/7/20 |      |      |
-| 雷火     | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 | 杭州 |      |
+| 网易雷火 | [秋招](https://leihuo.163.com/campus/#/)                     | 2023/7/12 | 杭州 |      |
 | 鹰角网络 | [提前批](https://jobs.hypergryph.com/campus_apply/hypergryph/26326#/jobs?zhineng=72529) | 2023/7/3  |      |      |
 | 诺瓦星云 | [提前批](https://novastar.zhiye.com/campus)                  | 2023/6/22 | 北京 西安 深圳 |      |
 | 火羽科技 | [秋招](https://campus.huoyugame.com/job.html)                | 2023/6/19 |      |      |
@@ -135,6 +136,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 兆易创新 | [秋招](https://app.mokahr.com/campus-recruitment/gigadevice/92215#/) | 2023/8/22 |  | 存储器/芯片公司 |
 | 华勤技术 | [秋招](https://app.mokahr.com/campus-recruitment/hq/44757#/jobs) | 2023/8/22 |  |  |
 | 中国电科29所               | [提前批 ](https://hr.swiee.com/company.html) [秋招](http://campus.51job.com/cetc29/company.html) | 2023/8/22 |      |                        |
 | 汇川技术 | [秋招](https://inovance.m.zhiye.com/joblist1.html?jc=2) | 2023/8/2 |  |  |
