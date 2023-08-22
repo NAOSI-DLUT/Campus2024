@@ -111,7 +111,7 @@
 | 普华永道            | [秋招](https://pwctalentportal.avature.cn/zh_CN/careers/SearchJobs/?2888=%5B178671%2C178672%2C178673%2C178674%2C3314361%2C5741846%5D&2888_format=2481&listFilterMode=1&folderRecordsPerPage=6&?source=WeChat) | 2023/8/13 |      |              |
 | 中国人保            | [秋招](http://picc.zhiye.com/xiaoyuan)                       | 2023/8/13 |      |              |
 | 招银网络科技        | [秋招](https://cmbnt.cmbchina.com/pages/schoolRecruit/index.html) | 2023/8/2  |      |              |
-| 华夏银行            | [秋招](https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/school.html) | 203/7/29  |      |              |
+| 华夏银行            | [秋招](https://wecruit.hotjob.cn/SU645b0d18bef57c0907e9fbc8/pb/school.html) | 2023/7/29  |      |              |
 | metaapp             | [秋招](https://meta.jobs.feishu.cn/index)                    | 2023/7/14 |      |              |
 | 诚通证券            | [秋招](https://ctzqzp.zhaopin.com/job/index.html)            | 2023/7/14 |      |              |
 | 上海农商银行        | [秋招](https://shrcb.zhiye.com/Campus)                       | 2023/7/10 | 上海 |              |
@@ -138,7 +138,7 @@
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
 | 兆易创新 | [秋招](https://app.mokahr.com/campus-recruitment/gigadevice/92215#/) | 2023/8/22 |  | 存储器/芯片公司 |
 | 华勤技术 | [秋招](https://app.mokahr.com/campus-recruitment/hq/44757#/jobs) | 2023/8/22 |  |  |
-| 中国电科29所               | [提前批 ](https://hr.swiee.com/company.html) [秋招](http://campus.51job.com/cetc29/company.html) | 2023/8/22 |      |                        |
+| 中国电科29所               | [提前批 ](https://hr.swiee.com/company.html) [秋招](http://campus.51job.com/cetc29/company.html) | 2023/8/22 |   成都   |                        |
 | 汇川技术 | [秋招](https://inovance.m.zhiye.com/joblist1.html?jc=2) | 2023/8/2 |  |  |
 | 中海达集团 | [秋招](https://www.zhdgps.com/college) | 2023/8/22 |  |  |
 | 奕斯伟计算 | [秋招](https://campus.eswincomputing.com/) | 2023/8/22 |  |  |
