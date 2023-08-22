@@ -136,6 +136,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 启元实验室 | [秋招](https://qiyuanzp.zhiye.com/campus/jobs) | 2023/8/22 | 北京 | 科研事业单位 |
 | 兆易创新 | [秋招](https://app.mokahr.com/campus-recruitment/gigadevice/92215#/) | 2023/8/22 |  | 存储器/芯片公司 |
 | 华勤技术 | [秋招](https://app.mokahr.com/campus-recruitment/hq/44757#/jobs) | 2023/8/22 |  |  |
 | 中国电科29所               | [提前批 ](https://hr.swiee.com/company.html) [秋招](http://campus.51job.com/cetc29/company.html) | 2023/8/22 |      |                        |
@@ -208,6 +209,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 威努特 | [秋招](https://www.winicssec.com/about/l180.html) | 2023/8/22 |  | 安全公司 |
 | 看云控股 | [秋招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2023/8/22 |  |  |
 | 奇安信   | [提前批](https://campus.qianxin.com/campus/jobSearch) [秋招](https://campus.qianxin.com/) | 2023/8/22 |      |      |
 | 科来软件 | [秋招](http://zhaopin.colasoft.com.cn/Campus)                     | 2023/8/14 |      |      |
