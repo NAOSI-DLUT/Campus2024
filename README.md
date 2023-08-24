@@ -2,7 +2,9 @@
 >
 > 欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2024) PR 更新最新信息及勘误
 >
-> [实习篇](./intern.html.)
+> 因为实习已经基本结束,目前主要是秋招,想看实习的信息的朋友们请看实习篇
+>
+> [实习篇](./intern.html)
 ## 秋招篇
 
 ### 互联网 && AI
