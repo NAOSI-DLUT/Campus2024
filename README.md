@@ -107,9 +107,10 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
-| 龙湖集团 | [秋招](http://2023.yingjiesheng.com/longfor/sgs/) | 2023/8/24 |  |  |
-| 富途 | [秋招](https://join.futunn.com/#position) | 2023/8/22 |  |  |
-| 民生证券 | [秋招](https://mszq.hotjob.cn/) | 2023/8/22 |  |  |
+| 中海油               | [秋招](http://cnooc.zhaopin.com/) | 2023/8/24 |  | 截止9/17 |
+| 龙湖集团             | [秋招](http://2023.yingjiesheng.com/longfor/sgs/) | 2023/8/24 |  |  |
+| 富途                | [秋招](https://join.futunn.com/#position) | 2023/8/22 |  |  |
+| 民生证券            | [秋招](https://mszq.hotjob.cn/) | 2023/8/22 |  |  |
 | 南瑞继保            | [秋招](https://nrec.zhiye.com/campus)    | 2023/8/19 | 南京 |                   |
 | 数禾科技            | [秋招](https://shuhegroup1.zhiye.com/campus/jobs)    | 2023/8/14 | 上海 |                   |
 | 恒生电子            | [秋招](https://campus.hundsun.com/) | 2023/8/14 | 杭州 武汉 |              |
