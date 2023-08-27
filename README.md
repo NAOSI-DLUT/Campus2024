@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 哈啰 | [秋招](https://careers.hellobike.com/#/recruit/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/8/27 |  |  |                                                                   
 | 蚂蚁集团 | [秋招](https://talent.antgroup.com/campus-list?type=freshman&batchId=23080700035818) | 2023/8/25 |  |  |
 | 收钱吧 | [秋招](https://shouqianba.zhiye.com/) | 2023/8/24 |  |  |
 | 顺丰 | [秋招](https://campus.sf-express.com/#/homePage) | 2023/8/24 |  |  |
