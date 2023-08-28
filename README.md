@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 网易互联网 | [秋招](https://campus.163.com/app/job/position?id=55)      |2023/8/28|  |  |
 | 携程 | [秋招](https://campus.ctrip.com/campus-recruitment/trip/37757#/jobs?project%5B0%5D=100060448&page=1&anchorName=jobsList) | 2023/8/28 |  |  |
 | 阿里云 | [秋招](https://careers.aliyun.com/campus/position-list?campusType=freshman&lang=zh) | 2023/8/28 |  |  |
 | 哈啰 | [秋招](https://careers.hellobike.com/#/recruit/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/8/27 |  |  |
