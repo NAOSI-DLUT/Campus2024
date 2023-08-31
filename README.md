@@ -94,6 +94,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 广联达 | [秋招](https://campus.glodon.com/#/) | 2023/8/31 |  |  |
+| vivo | [秋招](https://hr.vivo.com/wt/vivo/web/index/CompvivoAboutCampus) | 2023/8/31 |  |  |
 | 中国电信 | [秋招](http://campus.51job.com/chinatelecom2024/job.html) | 2023/8/28 |  |  |
 | Momenta | [秋招](https://momenta.jobs.feishu.cn/campus/?spread=UUN2S82) | 2023/8/28 |  |  |
 | realme | [秋招](https://career.realme.com/official/realme/) | 2023/8/28 |  |  |
@@ -121,6 +123,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 同花顺 | [秋招](https://job.10jqka.com.cn/#/) | 2023/8/31 |  |  |
 | 中铁八局 | [秋招](https://special.zhaopin.com/2022/cd/ztbj082902/xiao.html) | 2023/8/28 |  |  |
 | 中广核 | [秋招](https://cgn.hotjob.cn/) | 2023/8/28 |  |  |
 | 交通银行 | [秋招](https://job.bankcomm.com/queryPosition.do) | 2023/8/28 |  |  |
