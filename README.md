@@ -80,6 +80,7 @@
 
 | 公司           | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注 |
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
+| 沃尔玛 | [秋招](https://walmart.zhaopin.com/) | 2023/9/1 |  | 管培生，山姆会员店 |
 | Sea | [秋招](https://app.mokahr.com/campus-recruitment/shopee/98508#/) | 2023/8/28 |  |  |
 | Discover | [秋招](https://discover.wd5.myworkdayjobs.com/Discover/job/Shanghai-China/Data-Analyst---2024-Campus-Recruitment_R28981) | 2023/8/22 |  |  |
 | 思科 | [秋招](https://campus.51job.com/cisco/school.html) | 2023/8/21 |  |  |
