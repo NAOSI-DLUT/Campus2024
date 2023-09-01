@@ -172,6 +172,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 养生堂（农夫山泉） | [秋招](https://jobs.yst.com.cn/campus-recruitment/yst/68367#/) | 2023/9/1 |  |  |
 | 基恩士 | [秋招](https://keyence.zhiye.com/campus/detail?jobAdId=f44f5b8f-61b8-469b-b9fc-e8c648dd24da) | 2023/8/31 |  |  |
 | 途虎养车 | [秋招](https://app.mokahr.com/campus_apply/tuhu/28398#/) | 2023/8/31 |  |  |
 | 海光信息 | [秋招](https://www.hotjob.cn/wt/Hygon/mobweb/v8/position/list?openid=of1k8whCjVEWrmsIZYtMWSoLGXyM&recruitType=1&channelId=&brandCode=1&request_locale=zh_CN) | 2023/8/28 |  |  |
