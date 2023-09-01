@@ -95,6 +95,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 比亚迪 | [秋招](https://job.byd.com/portal/pc/#/school/schoolSangfor?enBUeXBlPTAwMjcy) | 2023/9/1 |  |  |
 | 理想汽车 | [秋招](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/8/31 |  |  |
 | 奇瑞汽车 | [秋招](https://chery.zhiye.com/campus) | 2023/8/31 |  |  |
 | 中国三星 | [秋招](https://dearsamsung.zhiye.com/#/samsung/pc/campus/xzlb) | 2023/8/31 |  |  |
