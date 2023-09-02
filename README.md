@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 滴滴     | [提前批|秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)| 2023/9/1 |      |                           |
 | shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html) [秋招](https://app.mokahr.com/campus-recruitment/shein/2932#/) | 2023/8/31 | 广东 南京 |                           |
 | 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039#/) | 2023/8/28 |  |  |
 | 小黑盒 | [秋招](https://mp.weixin.qq.com/s?__biz=Mzg3MDgxMjc1OQ==&mid=2247487267&idx=1&sn=5f26339665a1eeed5722f7af4058ba75&chksm=ce89521bf9fedb0d0abc1660d7259fe31ec7f6063ee6bb5c5a431461adc6acbd0d1cdcc861e3&mpshare=1) | 2023/8/28 |  |  |
@@ -43,7 +44,6 @@
 | 菜鸟集团 | [海外秋招](https://jinshuju.net/f/kL1xXu)                    | 2023/7/29 |      |                           |
 | 旷视     | [秋招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?project=100052317) | 2023/7/29 | 北京为主 上海 |                           |
 | 新浪微博 | [秋招](https://app.mokahr.com/campus-recruitment/sina/43536#/jobs?page=1&anchorName=jobsList&project%5B0%5D=100060307) | 2023/7/28 | 北京 | 8/20 截止投递             |
-| 滴滴     | [提前批](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/jobs) | 2023/7/28 |      |                           |
 | 小红书   | [秋招](https://job.xiaohongshu.com/campus)                   | 2023/7/24 | 北京 上海 武汉 广州 |                           |
 | 快手     | [秋招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs) | 2023/7/21 |      |                           |
 | 科大讯飞 | [飞凡计划](https://campus.iflytek.com/official-pc/jobList?index=1) [秋招](https://campus.iflytek.com/official-pc/jobList?index=1) | 2023/7/20 |      |                           |
