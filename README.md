@@ -8,7 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
-| 滴滴     | [提前批|秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)| 2023/9/1 |      |                           |
+| 滴滴     | [提前批 秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)| 2023/9/1 |      |                           |
 | shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html) [秋招](https://app.mokahr.com/campus-recruitment/shein/2932#/) | 2023/8/31 | 广东 南京 |                           |
 | 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039#/) | 2023/8/28 |  |  |
 | 小黑盒 | [秋招](https://mp.weixin.qq.com/s?__biz=Mzg3MDgxMjc1OQ==&mid=2247487267&idx=1&sn=5f26339665a1eeed5722f7af4058ba75&chksm=ce89521bf9fedb0d0abc1660d7259fe31ec7f6063ee6bb5c5a431461adc6acbd0d1cdcc861e3&mpshare=1) | 2023/8/28 |  |  |
