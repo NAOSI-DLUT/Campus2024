@@ -8,6 +8,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 58同城 | [秋招](https://campus.58.com/campus/jobs) | 2023/9/3 |  |  |
+| 金山办公 | [秋招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2023/9/3 |  |  |
+| 斗鱼 | [秋招](https://app.mokahr.com/campus_apply/douyu/7623#/) | 2023/9/3 |  |  |
 | 虎牙 | [秋招](https://app.mokahr.com/campus_apply/huya/4112#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98?_k=00t86y) | 2023/9/3 |  |  |
 | 同程 | [秋招](https://mhr.ly.com/recruit/schoolPortal/#/navigation) | 2023/9/3 |  |  |
 | 知乎 | [秋招](https://app.mokahr.com/su/njdwco) | 2023/9/3 |  |  |
@@ -59,6 +62,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 叠纸游戏 | [秋招](https://papergames.jobs.feishu.cn/campus/position/list) | 2023/9/3 |  |  |
 | 诗悦网络 | [秋招](https://campus.shiyue.com/campus-recruitment/shiyuehr/72055#/) | 2023/8/31 |  |  |
 | 麦吉太文 | [秋招](https://campus.magictavern.com/joinUs#jobs) | 2023/8/28 |  |  |
 | FUNPLUS | [秋招](https://app.mokahr.com/campus-recruitment/funplus01/23962?sourceToken=19641429a62ac933a3b91b77fdef6e26#/) | 2023/8/28 |  |  |
@@ -99,6 +103,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 中国电信江苏公司 | [秋招](https://zhaopin.telecomjs.com/portal/web/home) | 2023/9/32023/9/3 |  |  |
+| 一汽大众 | [秋招](https://faw-zhaopin.hotjob.cn/SU64b9e0c92f9d24760af2123c/mc/position/overseas?projectCode=202801&showProjectBanner=true) | 2023/9/3 |  |  |
 | 比亚迪 | [秋招](https://job.byd.com/portal/pc/#/school/schoolSangfor?enBUeXBlPTAwMjcy) | 2023/9/1 |  |  |
 | 理想汽车 | [秋招](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/8/31 |  |  |
 | 奇瑞汽车 | [秋招](https://chery.zhiye.com/campus) | 2023/8/31 |  |  |
@@ -178,6 +184,10 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 中国能建 | [秋招](https://ceec.iguopin.com/job) | 2023/9/3 |  |  |
+| 中国航发 | [秋招](https://aecc.iguopin.com/job) | 2023/9/3 |  |  |
+| 中国东方航空 | [秋招](https://job.ceair.com/campus/campusJobList.html) | 2023/9/3 |  |  |
+| 奥克斯 | [秋招](https://auxgroup.zhiye.com/campus/jobs) | 2023/9/3 |  |  |
 | 养生堂（农夫山泉） | [秋招](https://jobs.yst.com.cn/campus-recruitment/yst/68367#/) | 2023/9/1 |  |  |
 | 基恩士 | [秋招](https://keyence.zhiye.com/campus/detail?jobAdId=f44f5b8f-61b8-469b-b9fc-e8c648dd24da) | 2023/8/31 |  |  |
 | 途虎养车 | [秋招](https://app.mokahr.com/campus_apply/tuhu/28398#/) | 2023/8/31 |  |  |
@@ -274,6 +284,7 @@
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
 | 金山     | [秋招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2023/9/3 |  |  |
+| 东软 | [秋招](https://neusoft-campus.zhiye.com/) | 2023/9/3 |  |  |
 | 腾讯云智 | [秋招](https://app-tc.mokahr.com/campus-recruitment/csig/20001#/) | 2023/8/31 |  |  |
 | 奥比中光 | [秋招](https://job.orbbec.com.cn/campus) | 2023/8/28 |  |  |
 | 神策数据 | [秋招](https://sensorsdata.zhiye.com/) | 2023/8/28 |  |  |
