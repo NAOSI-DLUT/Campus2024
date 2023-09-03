@@ -8,6 +8,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 虎牙 | [秋招](hr.huya.com) | 2023/9/3 |  |  |
+| 同程 | [秋招](join.ly.com) | 2023/9/3 |  |  |
+| 知乎 | [秋招](https://app.mokahr.com/su/njdwco) | 2023/9/3 |  |  |
 | 滴滴     | [提前批 秋招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)| 2023/9/1 |      |                           |
 | shein    | [提前批](https://talent.sheincorp.cn/CampusRecruiting.html) [秋招](https://app.mokahr.com/campus-recruitment/shein/2932#/) | 2023/8/31 | 广东 南京 |                           |
 | 唯品会 | [秋招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039#/) | 2023/8/28 |  |  |
@@ -128,6 +131,8 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 易方达 | [秋招](http://job.efunds.com.cn) | 2023/9/3 |  |  |
+| 申万宏源 | [秋招](https://app.mokahr.com/campus-recruitment/swhysc-job/117918#/) | 2023/9/3 |  |  |
 | 招联 | [秋招](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/school.html) | 2023/9/1 |  |  |
 | 平安银行 | [秋招](https://campus.pingan.com/pab/position) | 2023/8/31 |  |  |
 | 同花顺 | [秋招](https://job.10jqka.com.cn/#/) | 2023/8/31 |  |  |
@@ -268,6 +273,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 金山 | [秋招](join.wps.cn) | 2023/9/3 |  |  |
 | 腾讯云智 | [秋招](https://app-tc.mokahr.com/campus-recruitment/csig/20001#/) | 2023/8/31 |  |  |
 | 奥比中光 | [秋招](https://job.orbbec.com.cn/campus) | 2023/8/28 |  |  |
 | 神策数据 | [秋招](https://sensorsdata.zhiye.com/) | 2023/8/28 |  |  |
