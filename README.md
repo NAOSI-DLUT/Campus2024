@@ -9,7 +9,6 @@
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
 | 58同城 | [秋招](https://campus.58.com/campus/jobs) | 2023/9/3 |  |  |
-| 金山办公 | [秋招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2023/9/3 |  |  |
 | 斗鱼 | [秋招](https://app.mokahr.com/campus_apply/douyu/7623#/) | 2023/9/3 |  |  |
 | 虎牙 | [秋招](https://app.mokahr.com/campus_apply/huya/4112#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98?_k=00t86y) | 2023/9/3 |  |  |
 | 同程 | [秋招](https://mhr.ly.com/recruit/schoolPortal/#/navigation) | 2023/9/3 |  |  |
