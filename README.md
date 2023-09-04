@@ -136,6 +136,10 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 上海银行 | [秋招](https://bosc.zhiye.com/campus/jobs) | 2023/9/4 |  |  |
+| 中国邮政储蓄银行 | [秋招](https://psbc2024.zhaopin.com/cl.html) | 2023/9/4 |  |  |
+| 中国银行 | [秋招](https://campus.chinahr.com/pages/2024-boc/#/jobs) | 2023/9/4 |  |  |
+| 中金所 | [秋招](https://cffexit.zhiye.com/home) | 2023/9/4 |  |  |
 | 易方达 | [秋招](http://job.efunds.com.cn) | 2023/9/3 |  |  |
 | 申万宏源 | [秋招](https://app.mokahr.com/campus-recruitment/swhysc-job/117918#/) | 2023/9/3 |  |  |
 | 招联 | [秋招](https://wecruit.hotjob.cn/SU61027bb10dcad47a7e23e040/pb/school.html) | 2023/9/1 |  |  |
