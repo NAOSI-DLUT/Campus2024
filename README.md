@@ -102,7 +102,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
-| 中国电信江苏公司 | [秋招](https://zhaopin.telecomjs.com/portal/web/home) | 2023/9/32023/9/3 |  |  |
+| 中国电信江苏公司 | [秋招](https://zhaopin.telecomjs.com/portal/web/home) | 2023/9/3 |  |  |
 | 一汽大众 | [秋招](https://faw-zhaopin.hotjob.cn/SU64b9e0c92f9d24760af2123c/mc/position/overseas?projectCode=202801&showProjectBanner=true) | 2023/9/3 |  |  |
 | 比亚迪 | [秋招](https://job.byd.com/portal/pc/#/school/schoolSangfor?enBUeXBlPTAwMjcy) | 2023/9/1 |  |  |
 | 理想汽车 | [秋招](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/8/31 |  |  |
