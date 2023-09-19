@@ -8,6 +8,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |  |
+| 360 | [秋招](https://360campus.zhiye.com/jobs) | 2023/9/20 |  |  |
+| BOSS直聘 | [秋招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2023/9/20 |  |  |
 | 知乎 | [秋招](https://app.mokahr.com/campus-recruitment/zhihu/68321#/jobs) | 2023/9/7 |  |  |
 | 58同城 | [秋招](https://campus.58.com/campus/jobs) | 2023/9/3 |  |  |
 | 斗鱼 | [秋招](https://app.mokahr.com/campus_apply/douyu/7623#/) | 2023/9/3 |  |  |
@@ -88,6 +91,7 @@
 
 | 公司           | 招聘状态&&投递链接                                           | 更新日期 | 地点 | 备注 |
 | -------------- | ------------------------------------------------------------ | -------- | ---- | ---- |
+| VeSync | [秋招](https://vesync.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
 | 沃尔玛 | [秋招](https://walmart.zhaopin.com/) | 2023/9/1 |  | 管培生，山姆会员店 |
 | Sea | [秋招](https://app.mokahr.com/campus-recruitment/shopee/98508#/) | 2023/8/28 |  |  |
 | Discover | [秋招](https://discover.wd5.myworkdayjobs.com/Discover/job/Shanghai-China/Data-Analyst---2024-Campus-Recruitment_R28981) | 2023/8/22 |  |  |
@@ -104,6 +108,14 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 中国移动 | [秋招](https://job.10086.cn/personal/campus/) | 2023/9/20 |  |  |
+| 长安福特 | [秋招](https://webapp.zhaopin.com/2023/hd/caftq0906ZL82493/jobs/index.html) | 2023/9/20 |  |  |
+| 奥迪 | [秋招](https://jobs.audi-faw-nev.com.cn/nev/position/index?recruitmentType=CAMPUSRECRUITMENT) | 2023/9/20 |  |  |
+| 中国重汽 | [秋招](https://zhaopin.sinotruk.com:8009/#/login?redirect=%2FschoolRecruit) | 2023/9/20 |  |  |
+| 中移物联 | [秋招](https://iot.zhaopin.com/jobs/index.html) | 2023/9/20 |  |  |
+| 沃尔沃 | [秋招](https://app.mokahr.com/campus-recruitment/volvocars/56034#/) | 2023/9/20 |  |  |
+| 长城汽车 | [秋招](https://wecruit.hotjob.cn/SU64eeb4ff1eb80519a80a074c/pb/index.html#/) | 2023/9/20 |  |  |
+| 联通数科 | [秋招](https://cudt.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
 | 东风本田 | [秋招](http://wdhac.zhaopin.com/jobs/index.html) | 2023/9/7 |  |  |
 | 陕汽控股 | [秋招](https://sxqc.zhiye.com/Campus) | 2023/9/7 |  |  |
 | 广汽集团 | [秋招](https://campus.51job.com/gacgroup2024/#/about) | 2023/9/7 |  |  |
@@ -137,10 +149,17 @@
 | 联想     | [秋招](https://talent.lenovo.com.cn/campus)                  | 2023/7/17 |      |      |
 | 吉利     | [秋招](https://campus.geely.com/#/jobs?commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2023/7/15 |      |      |
 
-### 银行&&保险&&金融&&地产&&国企
+### 银行&&保险&&金融&&地产
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 华兴资本 | [秋招](https://app.mokahr.com/campus_apply/huaxing/6790#/jobs?zhineng=159666) | 2023/9/20 |  |  |
+| 长沙银行 | [秋招](https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/index.html#/) | 2023/9/20 |  |  |
+| 兴业银行 | [秋招](https://job.cib.com.cn/#/home) | 2023/9/20 |  |  |
+| 中信银行 | [秋招](https://job.citicbank.com/) | 2023/9/20 |  |  |
+| 中国建设银行 | [秋招](http://job1.ccb.com/cn/job/plan_index.html?planType=XY) | 2023/9/20 |  |  |
+| 中国太平 | [秋招](https://cntp.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
+| 中国工商银行 | [秋招](https://job.icbc.com.cn/pc/index.html#/main/school/home/struct) | 2023/9/20 |  |  |
 | 中国农业银行 | [秋招](https://career.abchina.com.cn/build/index.html#/99) | 2023/9/7 |  |  |
 | 招商局工业集团 | [秋招](http://cmirecruit.pincn.com/m/joinUs.html) | 2023/9/7 |  |  |
 | 上海银行 | [秋招](https://bosc.zhiye.com/campus/jobs) | 2023/9/4 |  |  |
@@ -190,10 +209,30 @@
 | 南方基金            | [秋招](https://wecruit.hotjob.cn/SU6138665dbef57c3b63841399/pb/school.html) | 2023/4/10 |      | 研究生及以上 |
 
 
-### 制造业&&嵌入式&&研究所&&其他
+### 制造业&&嵌入式&&研究所&&国企&&其他
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 中国空空导弹研究院 | 秋招 |  |  | 航空工业导弹院 公众号投递 |
+| 中通快递 | [秋招](https://hr.zto.com/) | 2023/9/20 |  |  |
+| 国家电网南瑞集团 | [秋招](https://job.sgepri.sgcc.com.cn/nari-career-ui/schoolrecurit) | 2023/9/20 |  |  |
+| 中国石油 | [秋招](https://zhaopin.cnpc.com.cn/) | 2023/9/20 |  |  |
+| 国家电投 | [秋招](https://spic2024.iguopin.com/) | 2023/9/20 |  |  |
+| 蜜雪冰城 | [秋招](https://careers.mxbc.com/campus/jobs) | 2023/9/20 |  |  |
+| 首钢集团 | [秋招](https://zp.shougang.com.cn/job) | 2023/9/20 |  |  |
+| 中国电科 | [秋招](https://wecruit.hotjob.cn/SU6056b00a0dcad424d03e153c/pb/interns.html) | 2023/9/20 |  |  |
+| 华润微电子 | [秋招](https://hrwdz.zhaopin.com/jobs/index.html) | 2023/9/20 |  |  |
+| 复星 | [秋招](https://fosun.zhaopin.com/home/index.html) | 2023/9/20 |  |  |
+| 中国信科 | [秋招](https://campus.51job.com/cict2024/jobs.html) | 2023/9/20 |  |  |
+| 公牛集团 | [秋招](https://gongniu.zhiye.com/campus/jobs) | 2023/9/20 |  |  |
+| 中国五矿 | [秋招](https://wecruit.hotjob.cn/SU62f37858bef57c29ead8adab/pb/index.html#/) | 2023/9/20 |  |  |
+| 中国长城 | [秋招](https://greatwall.hotjob.cn/) | 2023/9/20 |  |  |
+| 华润三九 | [秋招](https://wecruit.hotjob.cn/SU613834ecbef57c3b6383b50e/pb/school.html) | 2023/9/20 |  |  |
+| 中国民航信息集团 | [秋招](https://travelsky.hotjob.cn/) | 2023/9/20 |  |  |
+| 宇通集团 | [秋招](https://wecruit.hotjob.cn/SU64a37a4dbef57c3af71c2478/pb/index.html#/) | 2023/9/20 |  |  |
+| 中国融通集团 | [秋招](https://job.crtc-hr.com/portal/#/home) | 2023/9/20 |  |  |
+| 国家能源集团 | [秋招](https://zhaopin.chnenergy.com.cn/annc/annclist?ggtype=1) | 2023/9/20 |  |  |
+| 中国物流集团 | [秋招](https://chinalogisticsgroup.hotjob.cn/) | 2023/9/20 |  |  |
 | 长鑫存储                   | [秋招](http://jobs.cxmt.com/campus/jobs) | 2023/9/7 |      |                        |
 | 中国航天科工 | [秋招](https://casic.m.zhiye.com/joblist.html?jc=2) | 2023/9/7 |  |  |
 | 中国中化 | [秋招](https://sinochem.hotjob.cn/) | 2023/9/7 |  |  |
