@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 咪咕公司 | [秋招](https://www.migu.cn/about/join/jobs-2-0-0.html) | 2023/10/3 |  |  |
 | 钉钉 | [秋招](https://talent-holding.alibaba.com/home/bg-introduce?code=JEMSVB&lang=zh) | 2023/9/20 |  |  |
 | 360 | [秋招](https://360campus.zhiye.com/jobs) | 2023/9/20 |  |  |
 | BOSS直聘 | [秋招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2023/9/20 |  |  |
@@ -108,6 +109,11 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 上汽集团 | [秋招](https://saic-recruit.saicmotor.com/recruit/pc/#/collegeRecruit?positionType=1) | 2023/10/3 |  |  |
+| 中国联通 | [秋招](https://zglt.iguopin.com/job) | 2023/10/3 |  |  |
+| 五菱新能源 | [秋招](http://xy.liepin.com/WulingNewEnergy/zhaopin1.html) | 2023/10/3 |  |  |
+| 东风日产 | [秋招](https://www.dongfeng-nissan.com.cn/about/recruit/campus?) | 2023/10/3 |  |  |
+| 北汽集团 | [秋招](https://baicgroup.zhiye.com/) | 2023/10/3 |  |  |
 | 中国移动 | [秋招](https://job.10086.cn/personal/campus/) | 2023/9/20 |  |  |
 | 长安福特 | [秋招](https://webapp.zhaopin.com/2023/hd/caftq0906ZL82493/jobs/index.html) | 2023/9/20 |  |  |
 | 奥迪 | [秋招](https://jobs.audi-faw-nev.com.cn/nev/position/index?recruitmentType=CAMPUSRECRUITMENT) | 2023/9/20 |  |  |
@@ -122,7 +128,7 @@
 | TP-LINK  | [提前批 秋招](https://hr.tp-link.com.cn/)                      | 2023/9/7 |      |      |
 | 中国电信江苏公司 | [秋招](https://zhaopin.telecomjs.com/portal/web/home) | 2023/9/3 |  |  |
 | 一汽大众 | [秋招](https://faw-zhaopin.hotjob.cn/SU64b9e0c92f9d24760af2123c/mc/position/overseas?projectCode=202801&showProjectBanner=true) | 2023/9/3 |  |  |
-| 比亚迪 | [秋招](https://job.byd.com/portal/pc/#/school/schoolSangfor?enBUeXBlPTAwMjcy) | 2023/9/1 |  |  |
+| 比亚迪 | [秋招](https://job.byd.com/portal/pc/#/school/home) | 2023/9/1 |  |  |
 | 理想汽车 | [秋招](https://www.lixiang.com/employ/campus.html?fromJob=1) | 2023/8/31 |  |  |
 | 奇瑞汽车 | [秋招](https://chery.zhiye.com/campus) | 2023/8/31 |  |  |
 | 中国三星 | [秋招](https://dearsamsung.zhiye.com/#/samsung/pc/campus/xzlb) | 2023/8/31 |  |  |
@@ -153,6 +159,7 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 中国南方航空        | [提前批 实习生](https://job.csair.cn/#/shownotice?id=LIMKBUSY001270436380&key=2&type=3) [秋招](https://job.csair.cn/#/crew/home?type=3) | 2023/10/3 |      |              |
 | 华兴资本 | [秋招](https://app.mokahr.com/campus_apply/huaxing/6790#/jobs?zhineng=159666) | 2023/9/20 |  |  |
 | 长沙银行 | [秋招](https://wecruit.hotjob.cn/SU628ddf200dcad4099b64f468/pb/index.html#/) | 2023/9/20 |  |  |
 | 兴业银行 | [秋招](https://job.cib.com.cn/#/home) | 2023/9/20 |  |  |
@@ -199,7 +206,6 @@
 | 万得                | [秋招](https://www.wind.com.cn/portal/zh/JoinUs/recruit.html?positionType=9002) | 2023/6/19 |      |              |
 | 广发证券            | [秋招](https://wecruit.hotjob.cn/SU625527c30dcad4021443cdda/pb/school.html) | 2023/6/18 |      |              |
 | 交银金科            | [秋招](https://xym.51job.com/wechat/vuectmjobs/#/index?id=7be40107-aff1-48f9-a685-352a54202b88&color=31BE88) [官网秋招](https://www.bocomfintech.com.cn/p1/zxns.html) | 2023/6/18 |      |              |
-| 中国南方航空        | [提前批实习生](https://job.csair.cn/#/shownotice?id=LIMKBUSY001270436380&key=2&type=3) | 2023/6/12 |      |              |
 | 中铁十四局 | [提前批](https://wx26867347995492f9.hcmcloud.cn/recruit#/company_recruit?id=39973) | 2023/6/1  |      |              |
 | 国泰君安            | [秋招](https://hr.gtja.com/recruitment/index/recruit2)       | 2023/6/1  |      |              |
 | 国电南自            | [提前批](http://campus.51job.com/SAC/campus1)                | 2023/5/11 |      |              |
@@ -213,7 +219,21 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
-| 中国空空导弹研究院 | 秋招 |  |  | 航空工业导弹院 公众号投递 |
+| 华润电力 | [秋招](https://wecruit.hotjob.cn/SU6149ff530dcad47003d01511/pb/school.html) | 2023/10/3 |  |  |
+| 中国大唐集团 | [秋招](https://zhaopin.china-cdt.com/zpgg_index.html) | 2023/10/3 |  |  |
+| 中通快递集团 | [秋招](https://hr.zto.com/campus-position?object=1) | 2023/10/3 |  |  |
+| 中国邮政 | [秋招](https://chinapost2024.zhaopin.com/pro.html) | 2023/10/3 |  |  |
+| 国家管网集团 | [秋招](https://wecruit.hotjob.cn/SU617b87702f9d247cb97cc6b7/pb/school.html) | 2023/10/3 |  |  |
+| 中国石化 | [秋招](http://job.sinopec.com/#/school/recruitmentPositions?menuCurrent=2&keyword=&searchFlag=true) | 2023/10/3 |  |  |
+| 三峡水利                   | [秋招](http://campus.51job.com/sxslxyzp2024/about3.html)     | 2023/10/3 |                |                           |
+| 通用技术集团 | [秋招](https://genertec.zhiye.com/custom/813f55cb-8392-5c3d-038e-1f815555e637) | 2023/10/3 |  |  |
+| 方太集团 | [秋招](http://fotile.zhiye.com/campus?k=#n) | 2023/10/3 |  |  |
+| 物产中大集团 | [秋招](https://campus.wzgroup.cn/campus_apply/wzgroup/41923#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2023/10/3 |  |  |
+| 中粮集团 | [秋招](http://cofco-campus.zhaopin.com/compaly.html) | 2023/10/3 |  |  |
+| 横店集团 | [秋招](https://hengdian.zhiye.com/campus) | 2023/10/3 |  |  |
+| 华侨城集团 | [秋招](https://oct.zhaopin.com/job-xzs.html) | 2023/10/3 |  |  |
+| 中集集团 | [秋招](http://campus.51job.com/test/lvk/cimc-2/page/post.html) | 2023/10/3 |  |  |
+| 中国空空导弹研究院 | 秋招 | 2023/9/20 |  | 航空工业导弹院 公众号投递 |
 | 中通快递 | [秋招](https://hr.zto.com/) | 2023/9/20 |  |  |
 | 国家电网南瑞集团 | [秋招](https://job.sgepri.sgcc.com.cn/nari-career-ui/schoolrecurit) | 2023/9/20 |  |  |
 | 中国石油 | [秋招](https://zhaopin.cnpc.com.cn/) | 2023/9/20 |  |  |
