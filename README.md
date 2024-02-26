@@ -1,4 +1,4 @@
-> 欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2024) PR 更新最新信息及勘误
+> 欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2024) PR 更新最新信息及勘误,补录和春招需要大家的帮助来更新仓库, 2025届可移步[2025届互联网校招信息汇总](https://campus2025.top/),25届想参与维护的同学欢迎加群869979067,仅限想参与维护的同学加入
 >
 > [实习篇](./intern.html)
 
@@ -8,11 +8,10 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 快手 | [春招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&pageSize=10&positionCategoryCodes=engeering,J1014,J1015,J1016,J1017,J1018,J1019,J1020) | 2024/2/26 |  |  |
 | 美团 | [春招](https://zhaopin.meituan.com/web/campus) | 2024/2/26 | | |
 | 金山办公 | [春招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2024/1/5 |  |  |
-| 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
 | 商米科技 | [春招](https://app.mokahr.com/campus-recruitment/sunmi/68030#/) | 2024/1/3 |  |  |
-| oppo | [春招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2024/1/3 |  |  |
 
 ### 游戏公司
 
@@ -25,6 +24,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| vivo     | [春招](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=1&showComp=true) | 2024/2/26 |      |      |
+| 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs)               | 2024/1/3  |      |      |
+| oppo     | [春招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2024/1/3  |      |      |
 
 ### 外企
 
