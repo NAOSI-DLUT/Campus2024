@@ -8,6 +8,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 美团 | [春招](https://zhaopin.meituan.com/web/campus) | 2024/2/26 | | |
 | 金山办公 | [春招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2024/1/5 |  |  |
 | 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
 | 商米科技 | [春招](https://app.mokahr.com/campus-recruitment/sunmi/68030#/) | 2024/1/3 |  |  |
