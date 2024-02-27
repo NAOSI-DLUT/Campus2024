@@ -1,5 +1,7 @@
 > 欢迎大家来 [GitHub仓库](https://github.com/NAOSI-DLUT/Campus2024) PR 更新最新信息及勘误,补录和春招需要大家的帮助来更新仓库, 2025届可移步[2025届互联网校招信息汇总](https://campus2025.top/),25届想参与维护的同学欢迎加群869979067,仅限想参与维护的同学加入
 >
+> **如果你的内推对简历推进流程真的有用的话,欢迎在链接或者备注上加上你的内推码**,对于同一公司内推码只能有一个,后来者只要新提交一个公司的信息就可以顶掉这个内推码
+>
 > [实习篇](./intern.html)
 
 ## 春招篇
@@ -8,6 +10,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 顺丰科技 | [春招](https://campus.sf-express.com/#/positionList) | 2024/2/28 |  |  |
+| 科大讯飞 | [春招](https://campus.iflytek.com/official-pc/jobList) | 2024/2/28 |  |  |
 | 快手 | [春招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&pageSize=10&positionCategoryCodes=engeering,J1014,J1015,J1016,J1017,J1018,J1019,J1020) | 2024/2/26 |  |  |
 | 美团 | [春招](https://zhaopin.meituan.com/web/campus) | 2024/2/26 | | |
 | 金山办公 | [春招](https://join.wps.cn/campus-recruitment/wps/41436#/) | 2024/1/5 |  |  |
@@ -24,6 +28,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 芯动科技 | [春招](https://innosilicon.zhiye.com/campus/jobs)            | 2024/2/28 |      |      |
+| TP-Link  | [春招](https://hr.tp-link.com.cn/jobList?jobId=0&jobDirection=0&workPlace=0&currentPage=1&keyword=) | 2024/2/28 |      |      |
+| 中国一汽 | [春招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202801) | 2024/2/28 |      |      |
 | vivo     | [春招](https://hr.vivo.com/wt/vivo/web/templet1000/index/corpwebPosition1000vivo!gotoPostListForAjax?brandCode=1&useForm=0&recruitType=1&showComp=true) | 2024/2/26 |      |      |
 | 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs)               | 2024/1/3  |      |      |
 | oppo     | [春招](https://careers.oppo.com/university/oppo/campus/post?recruitType=Graduate) | 2024/1/3  |      |      |
@@ -37,6 +44,8 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 招商银行 | [春招](https://career.cmbchina.com/positionlist/96574F8D-C7ED-4772-AE7C-BAC896D190C1) | 2024/2/28 |  |  |
+| 浦发银行 | [春招](https://job.spdb.com.cn/campusJob) | 2024/2/28 |  |  |
 | 鸣石基金 | [春招](https://mingshiim.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
 | 甬城农商银行 | [春招](https://mp.weixin.qq.com/s/0OmluKHQNcPIbTfY0b7a2w) | 2024/1/3 |  |  |
 | 上饶银行 | [春招](https://shangraoyinhang.zhiye.com/Campus) | 2024/1/3 |  |  |
