@@ -10,6 +10,10 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 网易互联网 | [春招](https://campus.163.com/app/job/position?id=59) | 2024/3/3 |  |  |
+| 酷狗音乐 | [春招](https://www.kugou.com/hr/kugouHr/career/school-jobs) | 2024/3/3 |  |  |
+| 网易有道 | [春招](https://hr.youdao.com/campus/post_list.php?t1=tmp) | 2024/3/3 |  |  |
+| 京东 | [春招](https://campus.jd.com/home#/) | 2024/3/3 |  |  |
 | 顺丰科技 | [春招](https://campus.sf-express.com/#/positionList) | 2024/2/28 |  |  |
 | 科大讯飞 | [春招](https://campus.iflytek.com/official-pc/jobList) | 2024/2/28 |  |  |
 | 快手 | [春招](https://campus.kuaishou.cn/recruit/campus/e/#/campus/jobs?pageNum=1&pageSize=10&positionCategoryCodes=engeering,J1014,J1015,J1016,J1017,J1018,J1019,J1020) | 2024/2/26 |  |  |
@@ -21,6 +25,12 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 友塔游戏 | [春招](https://www.yotta-hr.com/campus) | 2024/3/3 |  |  |
+| 搜狐畅游 | [春招](https://app.mokahr.com/campus-recruitment/cyou-inc/42233#/) | 2024/3/3 |  |  |
+| 4399 | [春招](https://web.4399.com/campus/) | 2024/3/3 |  |  |
+| 三七互娱 | [春招](https://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=2) | 2024/3/3 |  |  |
+| 疯狂游戏 | [春招](https://official-website.hortorgames.com/#/web/list) | 2024/3/3 |  |  |
+| 米哈游 | [春招](https://jobs.mihoyo.com/#/campus/position?jobName=&projectIds%5B0%5D=7) | 2024/3/3 |  |  |
 | 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
 | 多益网络 | [春招](https://xz.duoyi.com/v40/#/positions) | 2024/1/3 |  |  |
 
@@ -28,6 +38,10 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 中国电信 | [春招](http://www.chinatelecom.com.cn/zp/)                   | 2024/3/3  |      |      |
+| 东风汽车 | [春招](https://wecruit.hotjob.cn/SU61d501d92f9d24431f65f608/mc/position/campus) | 2024/3/3  |      |      |
+| 韶音科技 | [春招](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2024/3/3  |      |      |
+| 海格通信 | [春招](https://haige.zhiye.com/campus)                       | 2024/3/3  |      |      |
 | 芯动科技 | [春招](https://innosilicon.zhiye.com/campus/jobs)            | 2024/2/28 |      |      |
 | TP-Link  | [春招](https://hr.tp-link.com.cn/jobList?jobId=0&jobDirection=0&workPlace=0&currentPage=1&keyword=) | 2024/2/28 |      |      |
 | 中国一汽 | [春招](https://faw-zhaopin.hotjob.cn/positionList?recruitType=1&projectId=202801) | 2024/2/28 |      |      |
@@ -45,6 +59,8 @@
 
 | 公司                | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注         |
 | ------------------- | ------------------------------------------------------------ | --------- | ---- | ------------ |
+| 金华银行 | [春招](https://www.jhccb.com.cn/art/2024/2/7/art_167_3003772.html) | 2024/3/3 |  |  |
+| 苏州银行 | [春招](https://hr.suzhoubank.com/zpweb/zpweb/bulletinEdit.do?actPara=findBulletin&bulletinId=OTQ4OGMyZDg4ZGQxMjAwODAxOGRlOTEyNjA3ODAwYmM=&csrftoken=YjFlOGFiYjA=) | 2024/3/3 |  |  |
 | 招商银行 | [春招](https://career.cmbchina.com/positionlist/96574F8D-C7ED-4772-AE7C-BAC896D190C1) | 2024/2/28 |  |  |
 | 浦发银行 | [春招](https://job.spdb.com.cn/campusJob) | 2024/2/28 |  |  |
 | 鸣石基金 | [春招](https://mingshiim.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
@@ -55,11 +71,23 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 南瑞集团 | [春招](https://job.sgepri.sgcc.com.cn/nari-career-ui/schoolrecurit?pageNum=1) | 2024/3/3 |  |  |
+| 中核集团 | [春招](https://hr.cnnc.com.cn/xylist?k=&d=&c=&p=3^-1,) | 2024/3/3 |  |  |
+| 中国星网 | [春招](https://cscn.tupu360.com/e.lanxin/position/index?recruitmentType=CAMPUSRECRUITMENT) | 2024/3/3 |  |  |
 | 蓝月亮 | [春招](https://talent.bluemoon.com.cn/talent/recruit/#/bluemoon/campus/managementTraining) | 2024/1/3 |  |  |
 | 通威农发 | [春招](https://mp.weixin.qq.com/s/e8nbCmyB4r4Hc0Ibk5mArg) | 2024/1/3 |  |  |
 | 格力电器 | [春招](https://gree.m.zhiye.com/index.html) | 2024/1/3 |  |  |
 | 双胞胎集团 | [春招](https://wecruit.hotjob.cn/SU64f2da7e1c240e35b675305d/mc/position/campus) | 2024/1/3 |  |  |
 | 立信 | [春招](https://bdochina.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
+
+### 安全公司&&软件公司&&云服务
+
+| 公司     | 招聘状态&&投递链接                               | 更新日期 | 地点 | 备注 |
+| -------- | ------------------------------------------------ | -------- | ---- | ---- |
+| 帆软     | [春招](https://join.fanruan.com/)                | 2024/3/3 |      |      |
+| 汉得信息 | [春招](https://hand-china.zhiye.com/campus/jobs) | 2024/3/3 |      |      |
+| 恒生     | [春招](https://campus.hundsun.com/campus/jobs)   | 2024/3/3 |      |      |
+
 
 
 ## 秋招篇
