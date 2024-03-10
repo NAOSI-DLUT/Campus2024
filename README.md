@@ -30,7 +30,7 @@
 | 4399 | [春招](https://web.4399.com/campus/) | 2024/3/3 |  |  |
 | 三七互娱 | [春招](https://zhaopin.37.com/index.php?m=Home&c=recruit&a=recruit&recruit=2) | 2024/3/3 |  |  |
 | 疯狂游戏 | [春招](https://official-website.hortorgames.com/#/web/list) | 2024/3/3 |  |  |
-| 米哈游 | [春招](https://jobs.mihoyo.com/?sharePageId=37496&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/3/10 | 点链接即可内推 |  |
+| 米哈游 | [春招](https://jobs.mihoyo.com/?sharePageId=37496&recommendationCode=OHLJ9&isRecommendation=true#/campus/position) | 2024/3/10 |  | 点链接即可内推 |
 | 诺瓦星云 | [春招](https://novastar.zhiye.com/campus/jobs) | 2024/1/3 |  |  |
 | 多益网络 | [春招](https://xz.duoyi.com/v40/#/positions) | 2024/1/3 |  |  |
 
