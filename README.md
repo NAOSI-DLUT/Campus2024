@@ -10,6 +10,46 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| MetaApp  | [春招](https://meta.jobs.feishu.cn/index) | 2024/3/14 |  |  |
+| 360 | [春招](https://360campus.zhiye.com/campus/jobs) | 2024/3/14 |  |  |
+| BOSS直聘 | [春招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2024/3/14 |  |  |
+| 知乎 | [春招](https://app.mokahr.com/campus-recruitment/zhihu/68321#/jobs) | 2024/3/14 |  |  |
+| 58同城 | [春招](https://campus.58.com/campus/jobs) | 2024/3/14 |  |  |
+| 同程 | [春招](https://mhr.ly.com/recruit/schoolPortal/#/navigation) | 2024/3/14 |  |  |
+| 知乎 | [春招](https://app.mokahr.com/su/njdwco) | 2024/3/14 |  |  |
+| 滴滴     | [春招](https://campus.didiglobal.com/campus_apply/didiglobal/96064#/)| 2024/3/14 |      |                           |
+| shein    | [春招](https://talent.sheincorp.cn/CampusRecruiting.html) | 2024/3/14 |      |                           |
+| 唯品会 | [春招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039#/) | 2024/3/14 |  |  |
+| 网易互联网 | [春招](https://campus.163.com/app/job/position?id=55)      |2024/3/14|  |  |
+| 携程 | [春招](https://campus.ctrip.com/#/) | 2024/3/14 |  |  |
+| 阿里云 | [春招](https://careers.aliyun.com/campus/position-list?campusType=freshman&lang=zh) | 2024/3/14 |  |  |
+| 哈啰 | [春招](https://careers.hellobike.com/#/recruit/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2024/3/14 |  |  |
+| 蚂蚁集团 | [春招](https://talent.antgroup.com/home) | 2024/3/14 |  |  |
+| 收钱吧 | [春招](https://shouqianba.zhiye.com/) | 2024/3/14 |  |  |
+| 顺丰 | [春招](https://campus.sf-express.com/#/homePage) | 2024/3/14 |  |  |
+| 好未来 | [春招](https://xiaozhao.100tal.com/campus) | 2024/3/14 |  |  |
+| 贝壳找房 | [春招](http://campus.ke.com/adcrecru.aspx) | 2024/3/14 |  |  |
+| 度小满 | [春招](https://app.mokahr.com/campus-recruitment/duxiaoman/74050?sourceToken=01fc3eea78338857905b7d4cbfd0a660#/jobs?zhineng=&page=1) | 2024/3/14 |  |  |
+| 喜马拉雅 | [春招](https://app.mokahr.com/campus-recruitment/himalaya/92431#/jobs) | 2024/3/14 |  |  |
+| 微众银行 | [春招](https://campus.webank.com/campus-recruitment/webankhr/18005/#/) | 2024/3/14 |  |  |
+| 腾讯    |  [春招](https://join.qq.com/post.html?pid=1&query=p_1)  |2024/3/14| |  |
+| 腾讯音乐    |  [春招](https://join.tencentmusic.com/campus/post?type=10)  |2024/3/14| |  |
+| 淘天 | [春招](https://talent.taotian.com/campus/home?lang=zh) | 2024/3/14 |  |  |
+| 搜狐 | [春招](https://app.mokahr.com/campus-recruitment/sohu/5682?sourceToken=b74e8a9dc0050254f9ae3f3c501d21bb#/) | 2024/3/14 |  |  |
+| 得物 | [春招](https://campus.dewu.com/578078) | 2024/3/14 |  |  |
+| 达摩院 | [春招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2024/3/14 |  |  |
+| 阿里大文娱 | [春招](https://jobs.alibaba-dme.com/campus/position-list?campusType=freshman&lang=zh) | 2024/3/14 |  |  |
+| 唯品会 | [春招](https://app-tc.mokahr.com/campus-recruitment/vipshophr/10039?previewKey=5a77f111a2994afc9669a3d68a8d050f139d9b6d4aa142029d3a9f20a6eba005#/jobs) | 2024/3/14 |      |  |
+| 字节跳动 |  [春招](https://jobs.bytedance.com/campus/position) | 2024/3/14 |      |                           |
+| 阿里巴巴控股集团 | [春招](https://talent-holding.alibaba.com/campus/position-list?campusType=freshman&lang=zh) | 2024/3/14 | | |
+| 高德地图 | [春招](https://talent.amap.com/campus/position-list?campusType=freshman) | 2024/3/14 |  | |
+| 猿辅导 | [春招](https://hr.yuanfudao.com/campus-recruitment/fenbi/47742/#/jobs?page=1&anchorName=jobsList) | 2024/3/14 |  | |
+| 拼多多   | [春招](https://careers.pinduoduo.com/campus) | 2024/3/14 |      |      |
+| 菜鸟集团 | [春招](https://talent.cainiao.com/)                    | 2024/3/14 |      |                           |
+| 旷视     | [春招](https://app.mokahr.com/campus-recruitment/mhr/38642?previewKey=df2fc620d48540cf9acd8b2179efb8f5c8dd3f14e1fc444a8b8d16c431778155#/jobs?page=1&anchorName=jobsList&project%5B0%5D=1000603517) | 2024/3/14 |  |                           |
+| 小红书   | [春招](https://job.xiaohongshu.com/campus)                   | 2024/3/14 |  |                           |
+| 作业帮   | [春招](https://app.mokahr.com/campus-recruitment/zuoyebang/39595#/jobs?zhineng=20244&commitment%5B0%5D=%E5%85%A8%E8%81%8C&page=1&anchorName=jobsList) | 2024/3/14 |  |                           |
+| 百度     | [春招](https://talent.baidu.com/jobs/list)                   | 2024/3/14 |      ||
 | 网易互联网 | [春招](https://campus.163.com/app/job/position?id=59) | 2024/3/3 |  |  |
 | 酷狗音乐 | [春招](https://www.kugou.com/hr/kugouHr/career/school-jobs) | 2024/3/3 |  |  |
 | 网易有道 | [春招](https://hr.youdao.com/campus/post_list.php?t1=tmp) | 2024/3/3 |  |  |
@@ -38,6 +78,8 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注 |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ---- |
+| 九号公司 | [春招](https://join.ninebot.com/campus-recruitment/ninebot/45627#/) | 2024/3/14 |  |  |
+|  小米     |[春招](https://xiaomi.jobs.f.mioffice.cn/campus/?spread=J7NS6YR) |2024/3/14|      |      |
 | 中国电信 | [春招](http://www.chinatelecom.com.cn/zp/)                   | 2024/3/3  |      |      |
 | 东风汽车 | [春招](https://wecruit.hotjob.cn/SU61d501d92f9d24431f65f608/mc/position/campus) | 2024/3/3  |      |      |
 | 韶音科技 | [春招](https://app.mokahr.com/campus-recruitment/aftershokzhr/36940#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98) | 2024/3/3  |      |      |
@@ -71,6 +113,7 @@
 
 | 公司                       | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                   |
 | -------------------------- | ------------------------------------------------------------ | --------- | ---- | ---------------------- |
+| 三只松鼠 | [春招](https://mp.weixin.qq.com/s/wZ3KPA7xwFOHaeDhnfudJA) | 2024/3/3 |  |  |
 | 南瑞集团 | [春招](https://job.sgepri.sgcc.com.cn/nari-career-ui/schoolrecurit?pageNum=1) | 2024/3/3 |  |  |
 | 中核集团 | [春招](https://hr.cnnc.com.cn/xylist?k=&d=&c=&p=3^-1,) | 2024/3/3 |  |  |
 | 中国星网 | [春招](https://cscn.tupu360.com/e.lanxin/position/index?recruitmentType=CAMPUSRECRUITMENT) | 2024/3/3 |  |  |
