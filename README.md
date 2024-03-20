@@ -10,6 +10,9 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 虎牙  | [春招](https://app.mokahr.com/campus_apply/huya) | 2024/3/20 |  | 网站PC版难用，请在虎牙招聘公众号上投递 |
+| Bilibili  | [春招](https://jobs.bilibili.com/campus/) | 2024/3/20 |  |  |
+| Shopee  | [春招](https://app.mokahr.com/m/campus_apply/shopee/2962) | 2024/3/20 |  |  |
 | MetaApp  | [春招](https://meta.jobs.feishu.cn/index) | 2024/3/14 |  |  |
 | 360 | [春招](https://360campus.zhiye.com/campus/jobs) | 2024/3/14 |  |  |
 | BOSS直聘 | [春招](https://www.zhipin.com/gongsi/job/fa2f92669c66eee31Hc~.html?ka=company-jobs) | 2024/3/14 |  |  |
