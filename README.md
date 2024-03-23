@@ -10,6 +10,7 @@
 
 | 公司     | 招聘状态&&投递链接                                           | 更新日期  | 地点 | 备注                      |
 | -------- | ------------------------------------------------------------ | --------- | ---- | ------------------------- |
+| 第四范式  | [春招](https://app.mokahr.com/m/campus-recruitment/4paradigm/58145?recommendCode=DSKVXt3r&hash=%23%2Fjobs#/jobs) | 2024/3/23 |  |  |
 | 虎牙  | [春招](https://app.mokahr.com/campus_apply/huya) | 2024/3/20 |  | 网站PC版难用，请在虎牙招聘公众号上投递 |
 | Bilibili  | [春招](https://jobs.bilibili.com/campus/) | 2024/3/20 |  |  |
 | Shopee  | [春招](https://app.mokahr.com/m/campus_apply/shopee/2962) | 2024/3/20 |  |  |
